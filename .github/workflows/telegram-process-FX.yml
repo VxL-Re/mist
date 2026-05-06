@@ -9,20 +9,14 @@ on:
         required: true
         type: choice
         options:
-          - init_fx_structure
           - process_queue
-          - process_message
           - setup_webhook
           - check_status
-      message_id:
-        description: 'Message ID (required for process_message mode)'
-        required: false
-        type: string
 
 jobs:
   process:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     
     steps:
       - name: Checkout repository
@@ -30,101 +24,96 @@ jobs:
         with:
           fetch-depth: 0
       
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      
-      - name: Initialize FX Structure
-        if: github.event.inputs.mode == 'init_fx_structure'
-        env:
-          CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
-        run: |
-          echo "🚀 Initializing FX bot file structure, progress tracking, and message queue..."
-          
-          RESPONSE=$(curl -s -X POST "${CLOUDFLARE_WORKER_URL}/init-fx" \
-            -H "Content-Type: application/json")
-          
-          echo "Response: $RESPONSE"
-          echo "$RESPONSE" | jq '.'
-          
-          if echo "$RESPONSE" | jq -e '.success' > /dev/null; then
-            echo "✅ FX structure initialized successfully!"
-          else
-            echo "❌ FX structure initialization failed!"
-            exit 1
-          fi
-      
-      - name: Process Queued FX Messages
-        if: github.event.inputs.mode == 'process_queue'
-        env:
-          CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
-        run: |
-          echo "🔄 Processing queued FX messages from webhook..."
-          
-          RESPONSE=$(curl -s -X POST "${CLOUDFLARE_WORKER_URL}/process-queue" \
-            -H "Content-Type: application/json")
-          
-          echo "Response: $RESPONSE"
-          echo "$RESPONSE" | jq '.'
-          
-          if echo "$RESPONSE" | jq -e '.error' > /dev/null; then
-            echo "❌ Queue processing failed!"
-            exit 1
-          else
-            echo "✅ Queue processed: $(echo $RESPONSE | jq -r '.processed') messages"
-          fi
-      
-      - name: Process Specific FX Message
-        if: github.event.inputs.mode == 'process_message'
-        env:
-          CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
-        run: |
-          MESSAGE_ID="${{ github.event.inputs.message_id }}"
-          echo "🔍 Processing specific FX message ID: $MESSAGE_ID"
-          
-          if [ -z "$MESSAGE_ID" ]; then
-            echo "❌ Error: message_id is required"
-            exit 1
-          fi
-          
-          RESPONSE=$(curl -s -X POST "${CLOUDFLARE_WORKER_URL}/process-message" \
-            -H "Content-Type: application/json" \
-            -d "{\"messageId\": $MESSAGE_ID}")
-          
-          echo "Response: $RESPONSE"
-          echo "$RESPONSE" | jq '.'
-      
       - name: Setup FX Webhook
         if: github.event.inputs.mode == 'setup_webhook'
         env:
           CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
         run: |
-          echo "🔗 Setting up FX Telegram webhook (removing any existing webhooks)..."
-          
+          echo "🔗 Setting up FX webhook..."
           RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/setup-webhook")
-          echo "Response: $RESPONSE"
           echo "$RESPONSE" | jq '.'
-          
-          if echo "$RESPONSE" | jq -e '.ok' > /dev/null; then
-            echo "✅ Webhook setup successful!"
-          else
-            echo "❌ Webhook setup failed!"
-            exit 1
-          fi
       
-      - name: Check FX Status
+      - name: Process Queue (One Message at a Time)
+        if: github.event.inputs.mode == 'process_queue'
+        env:
+          CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
+        run: |
+          echo "🔄 Processing FX message queue (one message per API call)..."
+          
+          PROCESSED=0
+          MAX_ITERATIONS=50  # Safety limit
+          
+          for i in $(seq 1 $MAX_ITERATIONS); do
+            # Check queue count first
+            QUEUE_COUNT=$(curl -s "${CLOUDFLARE_WORKER_URL}/queue-count" | jq -r '.count')
+            
+            if [ "$QUEUE_COUNT" = "0" ] || [ -z "$QUEUE_COUNT" ]; then
+              echo "✅ Queue is empty. Processing complete!"
+              break
+            fi
+            
+            echo "📊 Queue has $QUEUE_COUNT messages remaining. Processing next message..."
+            
+            # Process one message
+            RESPONSE=$(curl -s -X POST "${CLOUDFLARE_WORKER_URL}/process-one" \
+              -H "Content-Type: application/json")
+            
+            echo "Response: $RESPONSE"
+            
+            # Check if processing was successful
+            STATUS=$(echo "$RESPONSE" | jq -r '.status')
+            
+            if [ "$STATUS" = "processed" ]; then
+              PROCESSED=$((PROCESSED + 1))
+              MESSAGE_ID=$(echo "$RESPONSE" | jq -r '.messageId')
+              ISSUE_NUM=$(echo "$RESPONSE" | jq -r '.issue_number')
+              REMAINING=$(echo "$RESPONSE" | jq -r '.queue_remaining')
+              
+              echo "✅ Processed message #$MESSAGE_ID -> Issue #$ISSUE_NUM ($REMAINING remaining)"
+              
+              # Commit progress after each message
+              git config --local user.email "github-actions[bot]@users.noreply.github.com"
+              git config --local user.name "github-actions[bot]"
+              
+              if [[ $(git status --porcelain | grep "tg/FX-files/") ]]; then
+                git add tg/FX-files/
+                git commit -m "FX Bot: Processed message $MESSAGE_ID [skip ci]"
+                git push
+                echo "📤 Progress committed"
+              fi
+              
+            elif [ "$STATUS" = "already_processed" ]; then
+              echo "⏭️ Message already processed, skipping..."
+            elif [ "$STATUS" = "empty" ]; then
+              echo "✅ Queue empty, stopping..."
+              break
+            else
+              ERROR=$(echo "$RESPONSE" | jq -r '.error // "unknown"')
+              echo "❌ Error processing message: $ERROR"
+              # Continue with next message even if one fails
+            fi
+            
+            # Small delay to avoid rate limiting
+            sleep 1
+            
+          done
+          
+          echo "🎉 Queue processing complete! Processed $PROCESSED messages."
+      
+      - name: Check Status
         if: github.event.inputs.mode == 'check_status'
         env:
           CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
         run: |
           echo "📊 Checking FX bot status..."
           
-          RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/status")
-          echo "Status: $RESPONSE"
-          echo "$RESPONSE" | jq '.'
+          STATUS=$(curl -s "${CLOUDFLARE_WORKER_URL}/status")
+          echo "$STATUS" | jq '.'
+          
+          QUEUE_COUNT=$(curl -s "${CLOUDFLARE_WORKER_URL}/queue-count")
+          echo "Queue: $QUEUE_COUNT" | jq '.'
       
-      - name: Commit FX updates
+      - name: Final Commit
         if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -132,9 +121,9 @@ jobs:
           
           if [[ $(git status --porcelain | grep "tg/FX-files/") ]]; then
             git add tg/FX-files/
-            git commit -m "FX Bot: Update progress and files [skip ci]"
+            git commit -m "FX Bot: Final progress update [skip ci]"
             git push
-            echo "✅ FX updates committed"
+            echo "✅ Final changes committed"
           else
-            echo "ℹ️ No FX changes to commit"
+            echo "ℹ️ No changes to commit"
           fi
