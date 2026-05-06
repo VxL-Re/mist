@@ -195,6 +195,13 @@
       "data": {
         "message_count": 12
       }
+    },
+    {
+      "timestamp": "2026-05-06T19:46:48.662Z",
+      "event": "processing_message",
+      "data": {
+        "message_id": 392
+      }
     }
   ]
 }
