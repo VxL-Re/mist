@@ -1,37 +1,5 @@
 {
-  "pending_messages": [
-    {
-      "message_id": 390,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778094943,
-      "text": "Abc"
-    },
-    {
-      "message_id": 391,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778094944,
-      "text": "Gsk"
-    }
-  ],
+  "pending_messages": [],
   "processed_count": 0,
-  "last_cleanup": "2026-05-06T19:13:44.218Z",
-  "last_updated": "2026-05-06T19:15:45.589Z"
+  "last_cleanup": "2026-05-06T19:18:52.344Z"
 }
