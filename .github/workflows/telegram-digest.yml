@@ -1,0 +1,39 @@
+name: Telegram Digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      message_id:
+        description: 'Process specific message ID (leave empty for all new)'
+        required: false
+
+jobs:
+  fetch-and-process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests PyGithub
+
+      - name: Fetch and process messages
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          REPO: ${{ github.repository }}
+          MESSAGE_ID: ${{ github.event.inputs.message_id || '' }}
+        run: python telegram_digest.py
