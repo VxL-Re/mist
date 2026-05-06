@@ -14,9 +14,14 @@
       "processed_at": "2026-05-06T19:18:48.943Z",
       "date": "06/05/2026---FX",
       "bot": "FX"
+    },
+    "391": {
+      "processed_at": "2026-05-06T19:18:51.630Z",
+      "date": "06/05/2026---FX",
+      "bot": "FX"
     }
   },
-  "last_message_id": 390,
+  "last_message_id": 391,
   "bot_name": "FX-TelegramBot",
   "created_at": "2026-05-06T19:00:36.884Z"
 }
