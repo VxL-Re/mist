@@ -24,6 +24,65 @@
           "type": "bot_command"
         }
       ]
+    },
+    {
+      "message_id": 429,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778103725,
+      "forward_origin": {
+        "type": "channel",
+        "chat": {
+          "id": -1001237997838,
+          "title": "VPN MARKET",
+          "username": "anty_filter",
+          "type": "channel"
+        },
+        "message_id": 23025,
+        "date": 1778088286
+      },
+      "forward_from_chat": {
+        "id": -1001237997838,
+        "title": "VPN MARKET",
+        "username": "anty_filter",
+        "type": "channel"
+      },
+      "forward_from_message_id": 23025,
+      "forward_date": 1778088286,
+      "document": {
+        "file_name": "V2rayNG v2.1.5.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIBrWn7ta1gss8hAy4kIVqub2dananuAAKDGwACtmzhUybBFhgpskFUOwQ",
+        "file_unique_id": "AgADgxsAArZs4VM",
+        "file_size": 64835139
+      },
+      "caption": "✅ نسخه جدید برنامه V2rayNG اندروید \n\n💡نسخه 2.1.5\n\n📥لینک دانلود داخلی \n\n@vpnbaz",
+      "caption_entities": [
+        {
+          "offset": 1,
+          "length": 34,
+          "type": "bold"
+        },
+        {
+          "offset": 53,
+          "length": 18,
+          "type": "text_link",
+          "url": "https://punkpaste.ir/f/V2rayNG-v2-1-5-4h55kp"
+        },
+        {
+          "offset": 73,
+          "length": 7,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }
