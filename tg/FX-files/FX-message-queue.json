@@ -303,6 +303,73 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 423,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778100833,
+      "forward_origin": {
+        "type": "channel",
+        "chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "message_id": 242,
+        "date": 1777988841
+      },
+      "forward_from_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "forward_from_message_id": 242,
+      "forward_date": 1777988841,
+      "video": {
+        "duration": 20,
+        "width": 352,
+        "height": 640,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgGLafuTw0Ut_bi80yj6Hkj8iBt7DXkAAr0dAALY-tBTOeV-Ys28fHcBAAdtAAM7BA",
+          "file_unique_id": "AQADvR0AAtj60FNy",
+          "file_size": 12197,
+          "width": 176,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgGLafuTw0Ut_bi80yj6Hkj8iBt7DXkAAr0dAALY-tBTOeV-Ys28fHcBAAdtAAM7BA",
+          "file_unique_id": "AQADvR0AAtj60FNy",
+          "file_size": 12197,
+          "width": 176,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIBi2n7k8NFLf24vNMo-h5I_Igbew15AAK9HQAC2PrQUznlfmLNvHx3OwQ",
+        "file_unique_id": "AgADvR0AAtj60FM",
+        "file_size": 2658407
+      },
+      "caption": "وضعیت پاساژ\n@odin_club\n@Arvanpingbot",
+      "caption_entities": [
+        {
+          "offset": 12,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 23,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }
