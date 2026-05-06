@@ -202,6 +202,17 @@
       "data": {
         "message_id": 392
       }
+    },
+    {
+      "timestamp": "2026-05-06T19:46:51.683Z",
+      "event": "file_uploaded",
+      "data": {
+        "message_id": 392,
+        "file_type": "photo",
+        "file_url": "https://raw.githubusercontent.com/VxL-Re/mist/main/tg/FX-files/FX-downloads/FX-other/FX_392_photo_FX_392.bin",
+        "file_size": 50416,
+        "category": "other"
+      }
     }
   ]
 }
