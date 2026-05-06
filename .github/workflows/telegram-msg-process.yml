@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       message_id:
-        description: 'Telegram message ID to process (leave empty to process all)'
+        description: 'Telegram message ID (leave empty to process all pending)'
         required: false
 
 jobs:
