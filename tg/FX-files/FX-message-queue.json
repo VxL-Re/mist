@@ -2645,7 +2645,7 @@
       }
     },
     {
-      "message_id": 522,
+      "message_id": 523,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -2656,38 +2656,43 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1778265653,
-      "text": "https://t.me/ProtecVIP_Bot?start=ref_6948878650\nرایگان میده.\n@XBat_Team\n\n• Sent via TeleFeed",
+      "date": 1778266013,
+      "text": "vless://5d733f91-ad93-41fc-b0cb-75ae59ccebb1@50.7.5.83:443?mode=auto&path=%2FSepehr&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%7D&insecure=1&host=chimerical-griffin-f06076.netlify.app&fp=chrome&type=xhttp&allowInsecure=1&sni=kubernetes.io#https%3A%2F%2Ft.me%2FError404Bin\n\n\nاین مخصوص کسایی ک dnsشکن دارن نامحدود \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
       "entities": [
         {
           "offset": 0,
-          "length": 47,
-          "type": "url"
+          "length": 352,
+          "type": "code"
         },
         {
-          "offset": 61,
-          "length": 10,
+          "offset": 394,
+          "length": 12,
           "type": "mention"
         },
         {
-          "offset": 84,
+          "offset": 407,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 429,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 84,
+          "offset": 429,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 84,
+          "offset": 429,
           "length": 8,
           "type": "underline"
         }
       ],
       "link_preview_options": {
-        "url": "https://t.me/ProtecVIP_Bot?start=ref_6948878650"
+        "is_disabled": true
       }
     }
   ]
