@@ -540,7 +540,7 @@
       ]
     },
     {
-      "message_id": 456,
+      "message_id": 457,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -551,16 +551,21 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1778179226,
-      "text": "دکتر: والورده حافظه‌ش رو از دست داده و فقط میدونه که یه سیاهپوست بهش ضربه زده اما اینکه اون سیاهپوست کی بوده رو یادش نمیاد.\n@odin_club\n@Arvanpingbot",
+      "date": 1778179248,
+      "text": "#گزارش_مردمی \n\nفعالیت پدافند شاباد کرمانشاه \n@odin_club\n@Arvanpingbot",
       "entities": [
         {
-          "offset": 124,
+          "offset": 0,
+          "length": 12,
+          "type": "hashtag"
+        },
+        {
+          "offset": 45,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 135,
+          "offset": 56,
           "length": 13,
           "type": "mention"
         }
