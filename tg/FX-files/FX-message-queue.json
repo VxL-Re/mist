@@ -2076,7 +2076,7 @@
       }
     },
     {
-      "message_id": 506,
+      "message_id": 507,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -2088,31 +2088,31 @@
         "type": "channel"
       },
       "date": 1778250173,
-      "text": "وزارت دفاع امارات : \nامروز ایران 2 موشک بالستیک و 3 پهپاد به سمت ما شلیک کرد.\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "text": "روبیو: \nما امروز باید از ایران پاسخی دریافت کنیم\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 78,
+          "offset": 49,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 89,
+          "offset": 60,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 115,
+          "offset": 86,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 115,
+          "offset": 86,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 115,
+          "offset": 86,
           "length": 8,
           "type": "underline"
         }
