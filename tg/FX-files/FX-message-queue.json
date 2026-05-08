@@ -108,7 +108,7 @@
       }
     },
     {
-      "message_id": 436,
+      "message_id": 437,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -120,149 +120,12 @@
         "type": "channel"
       },
       "date": 1778142955,
-      "text": "╭────────────────────────────╮\n⚡️ WhiteDNS Configs For StormDNS ⚡️\n🔐 کانفیگ‌های اختصاصی و پرسرعت\n╰────────────────────────────╯\n01.\n🌐 Domain: t1.prs612.us\n🔑 Encryption Key:\n3e80a0eb3e1fba2bf17e0e0eb5783dc5\n━━━━━━━━━━━━━━━━━━\n02.\n🌐 Domain: t2.prs612.us\n🔑 Encryption Key:\nafc1bd5e98cd98cde7515adb7295122b\n━━━━━━━━━━━━━━━━━━\n03.\n🌐 Domain: t3.prs612.us\n🔑 Encryption Key:\n8786a860148e2d4d55403ae3c80ba854\n━━━━━━━━━━━━━━━━━━\n04.\n🌐 Domain: t4.prs612.us\n🔑 Encryption Key:\n943664f15fd1763e242ce12ba993d9c9\n━━━━━━━━━━━━━━━━━━\n05.\n🌐 Domain: t5.prs612.us\n🔑 Encryption Key:\n6a9ab24a8bd3937378efbfb3c23e1358\n━━━━━━━━━━━━━━━━━━\n06.\n🌐 Domain: t6.prs612.us\n🔑 Encryption Key:\n71201fedadfbc0b62189c08961bce651\n━━━━━━━━━━━━━━━━━━\n07.\n🌐 Domain: t7.prs612.us\n🔑 Encryption Key:\nc4ff91174a79e9e03a4d6727878ada17\n━━━━━━━━━━━━━━━━━━\n08.\n🌐 Domain: t8.prs612.us\n🔑 Encryption Key:\nae5db6f03e485214e1fcc9d26a4c0a2f\n━━━━━━━━━━━━━━━━━━\n09.\n🌐 Domain: t9.prs612.us\n🔑 Encryption Key:\na01c03a340a3e684a2815961e086eb27\n━━━━━━━━━━━━━━━━━━\n10.\n🌐 Domain: t10.prs612.us\n🔑 Encryption Key:\nf3a3c5d02bb7ce04f6a4f144fc35e9cb\n━━━━━━━━━━━━━━━━━━\n11.\n🌐 Domain: t11.prs612.us\n🔑 Encryption Key:\ne7f2db07e778563d31ed1fc80d5fe612\n╭────────────────────────────╮\n🚀 Powered By StormDNS + WhiteDNS\n📡 Stable • Fast • Secure\nConfigs by @PersiaTMChannel\n╰────────────────────────────╯\n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp",
-      "entities": [
-        {
-          "offset": 34,
-          "length": 29,
-          "type": "bold"
-        },
-        {
-          "offset": 144,
-          "length": 12,
-          "type": "code"
-        },
-        {
-          "offset": 176,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 243,
-          "length": 12,
-          "type": "code"
-        },
-        {
-          "offset": 275,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 342,
-          "length": 12,
-          "type": "code"
-        },
-        {
-          "offset": 374,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 441,
-          "length": 12,
-          "type": "code"
-        },
-        {
-          "offset": 473,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 540,
-          "length": 12,
-          "type": "code"
-        },
-        {
-          "offset": 572,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 639,
-          "length": 12,
-          "type": "code"
-        },
-        {
-          "offset": 671,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 738,
-          "length": 12,
-          "type": "code"
-        },
-        {
-          "offset": 770,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 837,
-          "length": 12,
-          "type": "code"
-        },
-        {
-          "offset": 869,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 936,
-          "length": 12,
-          "type": "code"
-        },
-        {
-          "offset": 968,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 1035,
-          "length": 13,
-          "type": "code"
-        },
-        {
-          "offset": 1068,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 1135,
-          "length": 13,
-          "type": "code"
-        },
-        {
-          "offset": 1168,
-          "length": 32,
-          "type": "code"
-        },
-        {
-          "offset": 1303,
-          "length": 16,
-          "type": "mention"
-        },
-        {
-          "offset": 1365,
-          "length": 8,
-          "type": "text_link",
-          "url": "https://t.me/+3eerO6lYZyEzNzc0"
-        },
-        {
-          "offset": 1374,
-          "length": 8,
-          "type": "text_link",
-          "url": "https://t.me/+1NpCb-pp0txjNWE0"
-        },
-        {
-          "offset": 1383,
-          "length": 10,
-          "type": "text_link",
-          "url": "https://t.me/+xp9kam_p2n4yOTU0"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
+      "document": {
+        "file_name": "iran-resolvers.txt",
+        "mime_type": "text/plain",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIBtWn8TuspslKPYdArg6RtPqJWsqAdAAJBIgACV4ThU2J3GxZ93xVxOwQ",
+        "file_unique_id": "AgADQSIAAleE4VM",
+        "file_size": 154596
       }
     }
   ]
