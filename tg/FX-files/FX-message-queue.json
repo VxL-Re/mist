@@ -1097,6 +1097,33 @@
       },
       "date": 1778180613,
       "text": "🔴فوری-منبع اسراییلی\n\nجنگنده های امارات ٫ اسکله بهمن قشم را بمباران کرد"
+    },
+    {
+      "message_id": 472,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778180616,
+      "text": "🔴صداوسیما: شنیده شدن صدای انفجار در اسکله مسافربری بهمن در جزیره قشم\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 70,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 81,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }
