@@ -399,6 +399,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 598,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778359496,
+      "text": "فروش رو امشب باز میکنم .\nسرورای اقتصادی گیگی 270\nسرورای مولتی گیگی 350 \nهر موقع اوکی شد آیدی می‌زارم برای خرید.\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 112,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
