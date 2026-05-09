@@ -1,21 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 495,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778189174,
-      "text": "🚨 شبکه خبر :\n\n جنگ با آمریکا مجدد آغاز شد"
-    },
-    {
       "message_id": 496,
       "sender_chat": {
         "id": -1003929813623,
