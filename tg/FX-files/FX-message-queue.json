@@ -1,38 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 457,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778179248,
-      "text": "#گزارش_مردمی \n\nفعالیت پدافند شاباد کرمانشاه \n@odin_club\n@Arvanpingbot",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 12,
-          "type": "hashtag"
-        },
-        {
-          "offset": 45,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 56,
-          "length": 13,
-          "type": "mention"
-        }
-      ]
-    },
-    {
       "message_id": 458,
       "sender_chat": {
         "id": -1003929813623,
