@@ -1,33 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 464,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778180326,
-      "text": "سپاه در حالت آماده باش جنگی قرار گرفت\n@odin_club\n@Arvanpingbot",
-      "entities": [
-        {
-          "offset": 38,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 49,
-          "length": 13,
-          "type": "mention"
-        }
-      ]
-    },
-    {
       "message_id": 466,
       "sender_chat": {
         "id": -1003929813623,
