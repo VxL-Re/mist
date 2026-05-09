@@ -1,60 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 468,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778180442,
-      "reply_to_message": {
-        "message_id": 463,
-        "sender_chat": {
-          "id": -1003929813623,
-          "title": "Backup",
-          "type": "channel"
-        },
-        "chat": {
-          "id": -1003929813623,
-          "title": "Backup",
-          "type": "channel"
-        },
-        "date": 1778180302,
-        "text": "اسکله بهمن قشم بمباران شد \n@odin_club\n@Arvanpingbot",
-        "entities": [
-          {
-            "offset": 27,
-            "length": 10,
-            "type": "mention"
-          },
-          {
-            "offset": 38,
-            "length": 13,
-            "type": "mention"
-          }
-        ]
-      },
-      "text": "فارس تایید کرده\n@odin_club\n@Arvanpingbot",
-      "entities": [
-        {
-          "offset": 16,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 27,
-          "length": 13,
-          "type": "mention"
-        }
-      ]
-    },
-    {
       "message_id": 469,
       "sender_chat": {
         "id": -1003929813623,
