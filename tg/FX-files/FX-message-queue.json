@@ -1,21 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 449,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778174492,
-      "text": "اینترنت نداریم"
-    },
-    {
       "message_id": 450,
       "sender_chat": {
         "id": -1003929813623,
