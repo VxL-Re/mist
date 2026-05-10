@@ -3824,6 +3824,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 665,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778441640,
+      "text": "slipnet-enc://AVHKj4Jrgm0/Q8tOMhmNVC57FMYDVhI9gMFb2Eg8FTWmGxpj/eF3DXTAxpmeh3yj5nROS0kmchYaP/h7AfyRkBp1WLfG9WMoE40i9ydwA1eFp9+mHyvV3zyNd4TWtdo97L5RHdhcIffwZnwP+nlcrSmIrSj7k2rAjdAxrQhcLTHvRlghhSo0VymSF2BfBVEDqP2LQheSDiAaoPKwwU5fPImiK2swJg09Z0GGpjprkVFa6frVZqcZPuufG002V6U6jlnKCSGTSxyo66pESzhZmAACohq+gJ2lK1mdQsDCtp7QWYr9TrQ5wx8cfCfZIruEZeD05rXM7nHTkMRTSqAoPaHVfd+Zwg6EqkZWDxYa6zpjuzMIMm/n0VP1Xc/rj2xNAB9FRq9o7npVFebEEfPU1A6NVOmgqcLJZ1nERA7d1UBl9rzrTjEmt+4/08gG5/8+6+xmOEomz+0ANx3o73YP03GwtEm7ddRHBtWe8FpXuzVBSN6J3TBs5yysCXKq4nItHEaxSExg7IuoVsSuJVOcEKkEHFGh/l/t1ENrExdY8aRO8m9lpE7G/8ZDq7WWCRM/fqXc09LIREJsyK/8CZKSRaVgB08YVea/ZSNj3vqNz5Uw+V0tAKt6eez+zLhVYMngOE7NAC3gzsOq2PoWgQak/OwMkyQeXh0oFierMp69oxo7ttqgpyTmIIBObnNJQjao8COZxTg/\n\nمتصل\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 726,
+          "type": "pre"
+        },
+        {
+          "offset": 734,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 747,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 769,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 769,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 769,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
