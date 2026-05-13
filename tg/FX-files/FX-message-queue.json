@@ -11427,6 +11427,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 821,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778686578,
+      "media_group_id": "14229492630512252",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDNWoEmnKc6Q4r98WUF847hbWOYthIAALzDmsbnz0hUKUXxAsMEsg9AQADAgADcwADOwQ",
+          "file_unique_id": "AQAD8w5rG589IVB4",
+          "file_size": 1562,
+          "width": 56,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDNWoEmnKc6Q4r98WUF847hbWOYthIAALzDmsbnz0hUKUXxAsMEsg9AQADAgADbQADOwQ",
+          "file_unique_id": "AQAD8w5rG589IVBy",
+          "file_size": 23817,
+          "width": 199,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDNWoEmnKc6Q4r98WUF847hbWOYthIAALzDmsbnz0hUKUXxAsMEsg9AQADAgADeAADOwQ",
+          "file_unique_id": "AQAD8w5rG589IVB9",
+          "file_size": 87745,
+          "width": 497,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDNWoEmnKc6Q4r98WUF847hbWOYthIAALzDmsbnz0hUKUXxAsMEsg9AQADAgADeQADOwQ",
+          "file_unique_id": "AQAD8w5rG589IVB-",
+          "file_size": 154379,
+          "width": 796,
+          "height": 1280
+        }
+      ],
+      "caption": "دیروز شرکت اپل به صورت رسمی اولین نمایندگی خود را در کشور افغانستان افتتاح کرد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 80,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 93,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
