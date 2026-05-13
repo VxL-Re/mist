@@ -11858,6 +11858,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 829,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778692075,
+      "text": "https://t.me/Pulavpn_bot?start=6948878650\nامشب تستشو باز می‌کنه میتونید تست رایگان بگیرید.\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 41,
+          "type": "url"
+        },
+        {
+          "offset": 91,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 114,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 114,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 114,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/Pulavpn_bot?start=6948878650"
+      }
     }
   ]
 }
