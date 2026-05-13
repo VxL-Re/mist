@@ -9336,6 +9336,79 @@
       "link_preview_options": {
         "url": "https://t.me/Pulavpn_bot?start=6948878650"
       }
+    },
+    {
+      "message_id": 784,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778650276,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDEGoEDKR45RiyukJrUCB9B3p5NrMhAALQDWsbnz0hUMcqNgr7QvJuAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD0A1rG589IVB4",
+          "file_size": 879,
+          "width": 50,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDEGoEDKR45RiyukJrUCB9B3p5NrMhAALQDWsbnz0hUMcqNgr7QvJuAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD0A1rG589IVBy",
+          "file_size": 21090,
+          "width": 178,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDEGoEDKR45RiyukJrUCB9B3p5NrMhAALQDWsbnz0hUMcqNgr7QvJuAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD0A1rG589IVB9",
+          "file_size": 114792,
+          "width": 446,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDEGoEDKR45RiyukJrUCB9B3p5NrMhAALQDWsbnz0hUMcqNgr7QvJuAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD0A1rG589IVB-",
+          "file_size": 203995,
+          "width": 714,
+          "height": 1280
+        }
+      ],
+      "caption": "همراه اول به 4 میلیون نفر پیامک اینترنت پرو ارسال کرده اما تنها 450 هزار نفر آن را فعال کرده اند \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 98,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 111,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
