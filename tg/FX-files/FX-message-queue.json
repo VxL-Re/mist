@@ -14238,7 +14238,7 @@
       }
     },
     {
-      "message_id": 878,
+      "message_id": 879,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -14250,7 +14250,7 @@
         "type": "channel"
       },
       "date": 1778759420,
-      "text": "برای اندروید از ورژن جدید شیر و خورشید استفاده کنید :\n\n- بعد از نصب به بخش options سپس more options برید و connection protocol رو بزارید روی cdn fronting\n\n\nلینک دانلود رسمی از گیتهاب:\nhttps://github.com/shirokhorshid/shirokhorshid-android/releases/download/v2026.05.14-8a28d0c/ShirOKhorshid-2026.05.14.apk\n\nلینک داخلی:\nhttps://punkpaste.ir/f/ShirOKhorshid-2026-0-ghmata\n\nشیر و خورشید جدید رو بگیرید و استفاده کنید وصل میشه.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "برای اندروید از ورژن جدید شیر و خورشید استفاده کنید :\n\n- بعد از نصب به بخش options سپس more options برید و connection protocol رو بزارید روی cdn fronting\n\n\nلینک دانلود رسمی از گیتهاب:\nhttps://github.com/shirokhorshid/shirokhorshid-android/releases/download/v2026.05.14-8a28d0c/ShirOKhorshid-2026.05.14.apk\n\nلینک داخلی:\nhttps://punkpaste.ir/f/ShirOKhorshid-2026-0-ghmata\n\nشیر و خورشید جدید رو بگیرید و استفاده کنید وصل میشه.\n@XBat_Team\n\n• Sent via TeleFeed",
       "entities": [
         {
           "offset": 184,
@@ -14268,23 +14268,18 @@
           "type": "mention"
         },
         {
-          "offset": 437,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 463,
+          "offset": 447,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 463,
+          "offset": 447,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 463,
+          "offset": 447,
           "length": 8,
           "type": "underline"
         }
