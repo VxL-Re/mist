@@ -16645,7 +16645,7 @@
       }
     },
     {
-      "message_id": 907,
+      "message_id": 908,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -16657,31 +16657,31 @@
         "type": "channel"
       },
       "date": 1778834216,
-      "text": "دریک آلبوم جدید ریلیز کرد🔥\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "با همه فیت داره کصکش\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 28,
+          "offset": 21,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 41,
+          "offset": 34,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 67,
+          "offset": 60,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 67,
+          "offset": 60,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 67,
+          "offset": 60,
           "length": 8,
           "type": "underline"
         }
