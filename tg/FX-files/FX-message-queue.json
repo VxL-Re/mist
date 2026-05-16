@@ -19772,7 +19772,7 @@
       }
     },
     {
-      "message_id": 972,
+      "message_id": 973,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -19783,32 +19783,32 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1778912698,
-      "text": "امروز روز پسره\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "date": 1778912699,
+      "text": "روز پسرو به تک‌تک مردای سرزمینم تبریک میگم.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 15,
+          "offset": 44,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 28,
+          "offset": 57,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 54,
+          "offset": 83,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 54,
+          "offset": 83,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 54,
+          "offset": 83,
           "length": 8,
           "type": "underline"
         }
