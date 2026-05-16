@@ -20951,6 +20951,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 994,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778941800,
+      "media_group_id": "14231534403373044",
+      "video": {
+        "duration": 15,
+        "width": 480,
+        "height": 256,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgPiagh_aDxqXHrg5urX6NrlAnBwLzUAAp4aAAJs6EhQaIyXr_617toBAAdtAAM7BA",
+          "file_unique_id": "AQADnhoAAmzoSFBy",
+          "file_size": 9211,
+          "width": 320,
+          "height": 171
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgPiagh_aDxqXHrg5urX6NrlAnBwLzUAAp4aAAJs6EhQaIyXr_617toBAAdtAAM7BA",
+          "file_unique_id": "AQADnhoAAmzoSFBy",
+          "file_size": 9211,
+          "width": 320,
+          "height": 171
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAID4moIf2g8alx64Obq1-ja5QJwcC81AAKeGgACbOhIUGiMl6_-te7aOwQ",
+        "file_unique_id": "AgADnhoAAmzoSFA",
+        "file_size": 1273079
+      },
+      "caption": "🔴صداوسیما از دیشبه شروع کرده داره آموزش استفاده از کلاشینکف رو به مردم میده و حتی یکی از مجری‌ها، وسط استدیو شلیک هم کرد!\n\n\n\nخیلی‌ها میگن به احتمال زیاد این‌ها متوجه نزدیکی جنگ بعدی شدن؛ جنگی که گویا تقابل زمینی هم قراره داشته باشه....\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 237,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 250,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
