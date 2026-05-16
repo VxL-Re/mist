@@ -22620,6 +22620,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1030,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778959860,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEBmoIxfSpIEcsRvX6D3uUKO-PnETYAALkD2sbXn9BUPTj4ScIMz8IAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD5A9rG15_QVB4",
+          "file_size": 2856,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEBmoIxfSpIEcsRvX6D3uUKO-PnETYAALkD2sbXn9BUPTj4ScIMz8IAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD5A9rG15_QVBy",
+          "file_size": 50733,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEBmoIxfSpIEcsRvX6D3uUKO-PnETYAALkD2sbXn9BUPTj4ScIMz8IAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD5A9rG15_QVB9",
+          "file_size": 217287,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEBmoIxfSpIEcsRvX6D3uUKO-PnETYAALkD2sbXn9BUPTj4ScIMz8IAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD5A9rG15_QVB-",
+          "file_size": 423418,
+          "width": 1280,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEBmoIxfSpIEcsRvX6D3uUKO-PnETYAALkD2sbXn9BUPTj4ScIMz8IAQADAgADdwADOwQ",
+          "file_unique_id": "AQAD5A9rG15_QVB8",
+          "file_size": 895410,
+          "width": 2560,
+          "height": 2560
+        }
+      ],
+      "caption": "اسامی ۶۴ نفر خواننده ، رپر ، بلاگر و یوتیوبر در حال حاضر پخش شده است که در لیست\nتوقیف اموال قرار گرفتند.\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 106,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 119,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
