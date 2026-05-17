@@ -1,57 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 596,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778359256,
-      "text": "تلگرام هوش مصنوعی خودشو با نام میرا راه‌اندازی کرد.\n\nویژگی‌های رایگان:\nچت متنی بدون محدودیت، تبدیل صدا به متن، تبدیل متن به صدا، جستجو در اینترنت، تحلیل عکس، ساخت یادآور، ساخت لینک سوال ناشناس و مدیریت والت شبکه تون در محیط تست‌نت.\n\nویژگی‌های پولی:\nتولید تصویر با سقف ۳۰، ویرایش عکس با سقف ۳۰، ساخت آهنگ با سقف ۶۰ و ساخت ویدیو با سقف ۱۰۰.\n\nابزارها:\nاتصال به جیمیل، گوگل شیت، گیتهاب و اسلک، ساخت اسکیل‌های سفارشی و قابلیت اضافه شدن به گروه‌ها.\nچقدر خوبی تو پاول🔥\n@Mira\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 463,
-          "length": 5,
-          "type": "mention"
-        },
-        {
-          "offset": 469,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 482,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 508,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 508,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 508,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 597,
       "sender_chat": {
         "id": -1003929813623,
