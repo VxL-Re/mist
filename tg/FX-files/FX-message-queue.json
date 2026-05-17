@@ -25401,6 +25401,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1080,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779044535,
+      "text": "یکی از دوستان پروژه ساخته،\nبرای تانل ترافیک،\nاز طریق تماس تصویری اپلیکیشن بله. \n\nایرانی رو از چی میترسونید😂\n\nhttps://github.com/kookoo1sabzy/BaleVPN/tree/main\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 108,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 49,
+          "type": "url"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://github.com/kookoo1sabzy/BaleVPN/tree/main"
+      }
     }
   ]
 }
