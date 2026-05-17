@@ -24691,6 +24691,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1065,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779028683,
+      "text": "Shiro Khorshid\nMahsaNG\n\n185.200.232.8\n185.200.232.9\n185.200.232.16\n185.200.232.17\n185.200.232.26\n185.200.232.27\n185.200.232.40\n185.200.232.41\n185.200.232.48\n185.200.232.49\n185.200.232.58\n185.200.232.59\n185.200.232.64\n185.200.232.65\n\nاسکن شده پینگ سبز\nتست شده با سامانتل\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 22,
+          "type": "bold"
+        },
+        {
+          "offset": 24,
+          "length": 207,
+          "type": "blockquote"
+        },
+        {
+          "offset": 24,
+          "length": 207,
+          "type": "code"
+        },
+        {
+          "offset": 271,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 284,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
