@@ -24027,6 +24027,202 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1053,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779010022,
+      "text": "╭────────────────────────────╮\n☄️ WhiteDNS Premium Configs For StormDNS ☄️\n😀 کانفیگ‌های اختصاصی، پایدار و قدرتمند\n🚀 مناسب برای اتصال سریع، امن و بدون اختلال\n📡 Optimized For Better Stability & Performance\n🎁 کانفیگ اهدایی از طرف چنل: @PersiaTMChannel\n╰────────────────────────────╯\n01.\n🌐 Domain: b1.persiatmx.us\n🔑 Encryption Key:\n843996e318d85f34a012240b24714d2f\n━━━━━━━━━━━━━━━━━━\n02.\n🌐 Domain: b2.persiatmx.us\n🔑 Encryption Key:\n6b51dfc5f065436a03f76f76af4c7416\n━━━━━━━━━━━━━━━━━━\n03.\n🌐 Domain: b3.persiatmx.us\n🔑 Encryption Key:\n2bee92b7342be563851a6f8da0090de4\n━━━━━━━━━━━━━━━━━━\n04.\n🌐 Domain: b4.persiatmx.us\n🔑 Encryption Key:\n9f9709ec0bb9c380227237e9ef7c9f3c\n━━━━━━━━━━━━━━━━━━\n05.\n🌐 Domain: b5.persiatmx.us\n🔑 Encryption Key:\n962f409687cf0069080d5aef96cccbdc\n━━━━━━━━━━━━━━━━━━\n06.\n🌐 Domain: b6.persiatmx.us\n🔑 Encryption Key:\n428c0d303605cefb06f7c33123484ac5\n━━━━━━━━━━━━━━━━━━\n07.\n🌐 Domain: b7.persiatmx.us\n🔑 Encryption Key:\n3ac7935006ba328616a5df2aef1ed8fd\n━━━━━━━━━━━━━━━━━━\n08.\n🌐 Domain: b8.persiatmx.us\n🔑 Encryption Key:\n6aecaa4877f463a773ab364560815f27\n━━━━━━━━━━━━━━━━━━\n09.\n🌐 Domain: b9.persiatmx.us\n🔑 Encryption Key:\n7f3aad92ab16b630fc2d0c7e8469c278\n━━━━━━━━━━━━━━━━━━\n10.\n🌐 Domain: b10.persiatmx.us\n🔑 Encryption Key:\n7fb2856813f16fe683a4483bb6ae0f71\n╭────────────────────────────╮\nSpecial Thanks To\n🤝 WhiteDNS Channel\n⭐️ StormDNS Project\nFor Their Support & Contribution.\n╰────────────────────────────╯\nدانلود نسخه اندروید با لینک داخلی\nدانلود نسخه ویندوز PC با لینک داخلی\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 34,
+          "length": 37,
+          "type": "bold"
+        },
+        {
+          "offset": 210,
+          "length": 23,
+          "type": "italic"
+        },
+        {
+          "offset": 236,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 236,
+          "length": 16,
+          "type": "italic"
+        },
+        {
+          "offset": 252,
+          "length": 1,
+          "type": "italic"
+        },
+        {
+          "offset": 299,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 334,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 401,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 436,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 503,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 538,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 605,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 640,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 707,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 742,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 809,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 844,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 911,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 946,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 1013,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 1048,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 1115,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 1150,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 1217,
+          "length": 16,
+          "type": "code"
+        },
+        {
+          "offset": 1253,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 1317,
+          "length": 91,
+          "type": "bold"
+        },
+        {
+          "offset": 1440,
+          "length": 33,
+          "type": "text_link",
+          "url": "https://csave.ir/16fwp6"
+        },
+        {
+          "offset": 1474,
+          "length": 35,
+          "type": "text_link",
+          "url": "https://csave.ir/0ihwzg"
+        },
+        {
+          "offset": 1523,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 1532,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 1541,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 1564,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1564,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1564,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
