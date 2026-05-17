@@ -25064,6 +25064,87 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1073,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779037803,
+      "text": "ای پی جدید برای اپ شیر و خورشید\nلیست اول الان وصل بود رو رایتل  \n0.191.243.226\n185.137.25.214\n5.144.129.174\n81.91.145.2\n65.109.34.234\n96.17.207.142\n2.23.168.213\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 65,
+          "length": 95,
+          "type": "blockquote"
+        },
+        {
+          "offset": 65,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 79,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 94,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 108,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 120,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 134,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 148,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 161,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
