@@ -4476,6 +4476,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1134,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779114775,
+      "text": "🔴وزیر خزانه‌داری آمریکا : ما از همه کشورهای G7 و بقیه متحدامون و حتی کل دنیا می‌خوایم تحریم‌ها علیه این رژیم رو رعایت کنن\n \nتا بتونیم جلوی پول‌های غیرقانونی که داره ماشین جنگی ایران رو تأمین می‌کنه بگیریم و این پول به مردم ایران برگرده.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 239,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 278,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 278,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 278,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
