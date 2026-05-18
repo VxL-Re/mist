@@ -4177,6 +4177,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1129,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779108546,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEaWoLCsInovAM8WGoih12Y33U4FdIAAIsDmsbetlZUFea0zqXBrjvAQADAgADcwADOwQ",
+          "file_unique_id": "AQADLA5rG3rZWVB4",
+          "file_size": 1012,
+          "width": 46,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEaWoLCsInovAM8WGoih12Y33U4FdIAAIsDmsbetlZUFea0zqXBrjvAQADAgADbQADOwQ",
+          "file_unique_id": "AQADLA5rG3rZWVBy",
+          "file_size": 14430,
+          "width": 163,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEaWoLCsInovAM8WGoih12Y33U4FdIAAIsDmsbetlZUFea0zqXBrjvAQADAgADeAADOwQ",
+          "file_unique_id": "AQADLA5rG3rZWVB9",
+          "file_size": 68388,
+          "width": 408,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEaWoLCsInovAM8WGoih12Y33U4FdIAAIsDmsbetlZUFea0zqXBrjvAQADAgADeQADOwQ",
+          "file_unique_id": "AQADLA5rG3rZWVB-",
+          "file_size": 113627,
+          "width": 653,
+          "height": 1280
+        }
+      ],
+      "caption": "این اوا مووی به حدی امنیتش بالا بود فرض که Nnn هم گفت زدنش دردسره و صبر ایوب میخواهد\n\nداش سینا بیا که بهارات مووی رو میخواهیم برات بزنیم🥴\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 86,
+          "length": 52,
+          "type": "spoiler"
+        },
+        {
+          "offset": 139,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
