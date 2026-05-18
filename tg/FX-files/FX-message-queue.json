@@ -5057,6 +5057,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1145,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779131647,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIEeWoLZP_ZEho7ehuLLBXWLInIy7DZAAJ0DGsbghxYRFYXBQpsp444AQADAgADcwADOwQ",
+          "file_unique_id": "AQADdAxrG4IcWER4",
+          "file_size": 1935,
+          "width": 87,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIEeWoLZP_ZEho7ehuLLBXWLInIy7DZAAJ0DGsbghxYRFYXBQpsp444AQADAgADbQADOwQ",
+          "file_unique_id": "AQADdAxrG4IcWERy",
+          "file_size": 43784,
+          "width": 309,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIEeWoLZP_ZEho7ehuLLBXWLInIy7DZAAJ0DGsbghxYRFYXBQpsp444AQADAgADeQADOwQ",
+          "file_unique_id": "AQADdAxrG4IcWER-",
+          "file_size": 136729,
+          "width": 886,
+          "height": 918
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIEeWoLZP_ZEho7ehuLLBXWLInIy7DZAAJ0DGsbghxYRFYXBQpsp444AQADAgADeAADOwQ",
+          "file_unique_id": "AQADdAxrG4IcWER9",
+          "file_size": 181222,
+          "width": 772,
+          "height": 800
+        }
+      ],
+      "caption": "🇺🇸 ترامپ : قرار بود فردا به ایران حمله کنیم!\nاز سمت رهبران قطر، عربستان و امارات از من خواسته شد که حمله نظامی برنامه‌ریزی‌ شده‌مون علیه جمهوری اسلامی ایران رو که قرار بود فردا انجام بشه ـ متوقف کنم؛ چون مذاکرات جدی اکنون در حال انجامه! \nمتحدان ما معتقدن توافقی حاصل خواهد شد که واسه ایالات متحده آمریکا، همه کشورهای خاورمیانه و فراتر از اون، بسیار قابل‌قبول خواهد بود.\nاین توافق، مهم‌تر از همه، شامل این خواهد بود که ایران هیچ سلاح هسته‌ای نداشته باشه.\nبخاطر احترامی که واسه رهبران یادشده قائلم، به وزیر جنگ، پیت هگست، رئیس ستاد مشترک ارتش، دنیل کین، و ارتش ایالات متحده دستور دادم که حمله برنامه‌ریزی‌شده به ایران رو فردا انجام ندن.\nولی بهشون دستور دادم که در صورت نرسیدن به یه توافق قابل‌قبول، آماده اجرای یه حمله کامل و گسترده علیه ایران، در هر لحظه و بدون هیچ تأخیری باشن...\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 5,
+          "length": 41,
+          "type": "bold"
+        },
+        {
+          "offset": 794,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 794,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 794,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
