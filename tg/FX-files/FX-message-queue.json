@@ -5125,6 +5125,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1146,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779131767,
+      "text": "🚨ترامپ : \nقرار بود فردا به ایران حمله کنم ولی بخاطر جدیت تو مذاکرات، به عقب انداختمش!\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
