@@ -7709,6 +7709,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1198,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779195899,
+      "text": "جیسونش هم این:\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"104.19.229.21\", \n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"www.hcaptcha.com\"\n}\nپینگ بگیرید ممکنه به جای 229، 230 نیاز باشه بذارید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 15,
+          "length": 145,
+          "type": "blockquote"
+        },
+        {
+          "offset": 35,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 86,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 141,
+          "length": 16,
+          "type": "url"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
