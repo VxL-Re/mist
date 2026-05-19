@@ -8829,6 +8829,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1221,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779225121,
+      "video": {
+        "duration": 58,
+        "width": 268,
+        "height": 480,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgTFagzSIbZnzLbZibMUMRtGgHY4ZzUAAtwdAALG7WhQl0bK2f_6BdkBAAdtAAM7BA",
+          "file_unique_id": "AQAD3B0AAsbtaFBy",
+          "file_size": 6518,
+          "width": 179,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgTFagzSIbZnzLbZibMUMRtGgHY4ZzUAAtwdAALG7WhQl0bK2f_6BdkBAAdtAAM7BA",
+          "file_unique_id": "AQAD3B0AAsbtaFBy",
+          "file_size": 6518,
+          "width": 179,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIExWoM0iG2Z8y22YmzFDEbRoB2OGc1AALcHQACxu1oUJdGytn_-gXZOwQ",
+        "file_unique_id": "AgAD3B0AAsbtaFA",
+        "file_size": 3646202
+      },
+      "caption": "عارف جان داداش پاشو آرسنال قهرمان پریمیر لیگ شد\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 48,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 61,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
