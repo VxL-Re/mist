@@ -9185,7 +9185,7 @@
       }
     },
     {
-      "message_id": 1228,
+      "message_id": 1229,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -9197,31 +9197,31 @@
         "type": "channel"
       },
       "date": 1779231181,
-      "text": "🔴پس از ۷ تلاش ناموفق، سنای آمریکا طرحی را تصویب کرد که مصوبه کنگره را برای ادامه حملات نظامی به ایران الزامی می‌کند.\n\n🔴سنا با رأی ۵۰ به ۴۷، اکنون به طور رسمی قطعنامه اختیارات جنگ در ایران» را پیش برد.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "🔴مرضیه حسینی خبرنگار ایران اینترنشنال:\n\nمنبع مطلع در کنگره  به من گفت فردا شب یا پنجشنبه شب عملیات نظامی آمریکا علیه ایران آغاز میشه.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 204,
+          "offset": 135,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 217,
+          "offset": 148,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 243,
+          "offset": 174,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 243,
+          "offset": 174,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 243,
+          "offset": 174,
           "length": 8,
           "type": "underline"
         }
