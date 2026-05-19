@@ -8783,6 +8783,52 @@
       "link_preview_options": {
         "url": "https://myket.ir/app/com.wuliang.xapkinstaller"
       }
+    },
+    {
+      "message_id": 1220,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779225121,
+      "text": "🛑دوستانی که نصب کردن چند تا نکته داره این اپ:\n\n\n◀️1: لیست سرور هارو بزنید صبر کنید تا خودش چک کنه و پینگ بگیره ازشون هر کدوم سبز شد متصل بشید \n\n◀️2: اگر همه سرور ها ارور دادن یکبار برنامه رو ببندید و حالت پرواز بزارید دوباره وارید شد\n\n◀️3: بعد از اتصال و پیدا کردن سرور مناسب چند ثانیه صبر کنید تا اتصال کامل برقرار بشه\n\n◀️4: روی حالت 3G بهتر جوابه\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 351,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 364,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 390,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 390,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 390,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
