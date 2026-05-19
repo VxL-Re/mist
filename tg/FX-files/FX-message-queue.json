@@ -8895,6 +8895,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1222,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779225900,
+      "text": "🔴لیندسی گراهام : امیدوارم و انتظار هم دارم بعد از این چند ماه مذاکره با ایرانی‌ها، دولت ترامپ هر تلاشی رو که برای دوباره کش دادن مذاکراته رد کنه\n- این رژیم ماه‌ها وقت داشته به توافق برسه، ولی به نظرم واضحه دارن بازی درمیارن\n-:من خودم ترجیحم راه‌حل دیپلماتیکه، ولی قدیمی‌ترین ترفند ایران همیشه این بوده : امروز و فردا کردن، کش دادن، کش دادن، کش دادن\n- در مورد هر توافقی هم، منتظرم بره سنا و اونجا بررسیش کنیم\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 146,
+          "length": 78,
+          "type": "blockquote"
+        },
+        {
+          "offset": 237,
+          "length": 125,
+          "type": "blockquote"
+        },
+        {
+          "offset": 374,
+          "length": 58,
+          "type": "blockquote"
+        },
+        {
+          "offset": 409,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 448,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 448,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 448,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
