@@ -8582,6 +8582,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1216,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779222781,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEwGoMyPxSWASsQF_TEdiAoO-nrYl1AAI2D2sbetlpUIVZBaSF2u5tAQADAgADcwADOwQ",
+          "file_unique_id": "AQADNg9rG3rZaVB4",
+          "file_size": 1289,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEwGoMyPxSWASsQF_TEdiAoO-nrYl1AAI2D2sbetlpUIVZBaSF2u5tAQADAgADbQADOwQ",
+          "file_unique_id": "AQADNg9rG3rZaVBy",
+          "file_size": 22499,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEwGoMyPxSWASsQF_TEdiAoO-nrYl1AAI2D2sbetlpUIVZBaSF2u5tAQADAgADeAADOwQ",
+          "file_unique_id": "AQADNg9rG3rZaVB9",
+          "file_size": 109762,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEwGoMyPxSWASsQF_TEdiAoO-nrYl1AAI2D2sbetlpUIVZBaSF2u5tAQADAgADeQADOwQ",
+          "file_unique_id": "AQADNg9rG3rZaVB-",
+          "file_size": 217922,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "بعد از ۲۲ سال ،تلاش و چندین نایب قهرمانی\nبالاخره طعم قهرمانی رو‌چشیدن و حقشون بود❤️\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
