@@ -6560,6 +6560,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1175,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779173939,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEl2oMCjNK4mlBn1UrWNkox7ndf2ZFAAKQDWsbxu1gUCU6DVH737rXAQADAgADcwADOwQ",
+          "file_unique_id": "AQADkA1rG8btYFB4",
+          "file_size": 1534,
+          "width": 90,
+          "height": 74
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEl2oMCjNK4mlBn1UrWNkox7ndf2ZFAAKQDWsbxu1gUCU6DVH737rXAQADAgADbQADOwQ",
+          "file_unique_id": "AQADkA1rG8btYFBy",
+          "file_size": 21656,
+          "width": 320,
+          "height": 262
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEl2oMCjNK4mlBn1UrWNkox7ndf2ZFAAKQDWsbxu1gUCU6DVH737rXAQADAgADeAADOwQ",
+          "file_unique_id": "AQADkA1rG8btYFB9",
+          "file_size": 72031,
+          "width": 800,
+          "height": 655
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEl2oMCjNK4mlBn1UrWNkox7ndf2ZFAAKQDWsbxu1gUCU6DVH737rXAQADAgADeQADOwQ",
+          "file_unique_id": "AQADkA1rG8btYFB-",
+          "file_size": 110896,
+          "width": 1280,
+          "height": 1048
+        }
+      ],
+      "caption": "🔴خبرگزاری انتخاب از ممنوع بودن تبلیغات اینترنت پرو خبر داد! \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 62,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 75,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
