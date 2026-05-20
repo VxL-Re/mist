@@ -13912,6 +13912,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1304,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779306904,
+      "text": "Sni spoof 👌\n\nsecurity.vercel.com\n\n104.18.4.130\n104.18.5.130\n\nآموزششم بزودی میزارم واستون قبلی بسته شد مثل اینکه\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 14,
+          "length": 19,
+          "type": "code"
+        },
+        {
+          "offset": 35,
+          "length": 12,
+          "type": "code"
+        },
+        {
+          "offset": 48,
+          "length": 12,
+          "type": "code"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
