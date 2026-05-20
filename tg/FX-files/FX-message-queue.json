@@ -11971,6 +11971,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1264,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779279782,
+      "text": "اغاز ثبت نام لکسوس Lx 600 \nهرکس خواست میتونه از طریق شرکت اتاتاک ثبت نام کنه قیمتش هم ۱۱۰ میلیارد ناقابل.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 106,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 119,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
