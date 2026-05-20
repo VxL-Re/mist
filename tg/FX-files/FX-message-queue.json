@@ -11609,6 +11609,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1257,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779274562,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE6WoNk0K18sDRKvSIeqv-6bLoAAFlgwACyxBrG8qNcVACFy-DahAsoQEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADyxBrG8qNcVB4",
+          "file_size": 1424,
+          "width": 90,
+          "height": 68
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE6WoNk0K18sDRKvSIeqv-6bLoAAFlgwACyxBrG8qNcVACFy-DahAsoQEAAwIAA20AAzsE",
+          "file_unique_id": "AQADyxBrG8qNcVBy",
+          "file_size": 17472,
+          "width": 320,
+          "height": 243
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE6WoNk0K18sDRKvSIeqv-6bLoAAFlgwACyxBrG8qNcVACFy-DahAsoQEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADyxBrG8qNcVB9",
+          "file_size": 72170,
+          "width": 800,
+          "height": 608
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE6WoNk0K18sDRKvSIeqv-6bLoAAFlgwACyxBrG8qNcVACFy-DahAsoQEAAwIAA3kAAzsE",
+          "file_unique_id": "AQADyxBrG8qNcVB-",
+          "file_size": 133727,
+          "width": 1280,
+          "height": 973
+        }
+      ],
+      "caption": "✅ قیمت نهایی لکسوس LX600 اعلام شد\n\n🛑 شرایط فروش لکسوس LX600 با قیمت ۱۱۰ میلیارد تومان توسط شرکت آرتاتاک موتور اعلام شد.\n\n🔴لکسوس LX600\n🔹قیمت : 110,000,000,000\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 161,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 174,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
