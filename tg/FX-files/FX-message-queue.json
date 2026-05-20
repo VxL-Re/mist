@@ -9934,6 +9934,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1245,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779254701,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE3WoNRa2rcXOagnCssmS_s1lVNfY2AAJvEGsbyo1xUJlw9q0JlB6WAQADAgADcwADOwQ",
+          "file_unique_id": "AQADbxBrG8qNcVB4",
+          "file_size": 1474,
+          "width": 57,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE3WoNRa2rcXOagnCssmS_s1lVNfY2AAJvEGsbyo1xUJlw9q0JlB6WAQADAgADbQADOwQ",
+          "file_unique_id": "AQADbxBrG8qNcVBy",
+          "file_size": 18264,
+          "width": 202,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE3WoNRa2rcXOagnCssmS_s1lVNfY2AAJvEGsbyo1xUJlw9q0JlB6WAQADAgADeAADOwQ",
+          "file_unique_id": "AQADbxBrG8qNcVB9",
+          "file_size": 75364,
+          "width": 504,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE3WoNRa2rcXOagnCssmS_s1lVNfY2AAJvEGsbyo1xUJlw9q0JlB6WAQADAgADeQADOwQ",
+          "file_unique_id": "AQADbxBrG8qNcVB-",
+          "file_size": 85542,
+          "width": 575,
+          "height": 912
+        }
+      ],
+      "caption": "🔴استوری خواهر الهه حسینی نژاد:\n\nامشب، قصاص مرهم داغ خواهرم نمی شود... اما شاید کمی از بی عدالتی این دنیا کم کند. الهه جانم...\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 128,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 141,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
