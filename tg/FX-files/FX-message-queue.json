@@ -9491,6 +9491,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1235,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779248821,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE02oNLrX3FcONtzsaPmO405Ad37s1AAIkEGsbyo1pUDV2mOtm8hGWAQADAgADcwADOwQ",
+          "file_unique_id": "AQADJBBrG8qNaVB4",
+          "file_size": 1731,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE02oNLrX3FcONtzsaPmO405Ad37s1AAIkEGsbyo1pUDV2mOtm8hGWAQADAgADbQADOwQ",
+          "file_unique_id": "AQADJBBrG8qNaVBy",
+          "file_size": 20358,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE02oNLrX3FcONtzsaPmO405Ad37s1AAIkEGsbyo1pUDV2mOtm8hGWAQADAgADeAADOwQ",
+          "file_unique_id": "AQADJBBrG8qNaVB9",
+          "file_size": 77026,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIE02oNLrX3FcONtzsaPmO405Ad37s1AAIkEGsbyo1pUDV2mOtm8hGWAQADAgADeQADOwQ",
+          "file_unique_id": "AQADJBBrG8qNaVB-",
+          "file_size": 106496,
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "caption": "🔴رسمی : حکم قاتل «الهه حسین‌نژاد» اجرا شد؛ «بهمن فرزانه» اعدام شد .\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 70,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 83,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
