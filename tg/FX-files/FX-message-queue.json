@@ -12017,6 +12017,119 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1265,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779279783,
+      "video": {
+        "duration": 214,
+        "width": 1660,
+        "height": 1080,
+        "file_name": "2026-05-20 14-08-22.mp4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 736,
+            "height": 480,
+            "codec": "av01",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIE8WoNp6Z29NXDEnRcN1GSW6AnmU4YAAIXBgACDx5pROcu4OH3E9iHOwQ",
+            "file_unique_id": "AgADFwYAAg8eaUQ",
+            "file_size": 10365368
+          },
+          {
+            "width": 736,
+            "height": 480,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIE8WoNp6Z8GdOJCIlsd-11UKCwvvtUAAJLCAACpYlxRGQ8IsRQGvpNOwQ",
+            "file_unique_id": "AgADSwgAAqWJcUQ",
+            "file_size": 12520080
+          },
+          {
+            "width": 1660,
+            "height": 1080,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIE8WoNp6Y1Oz36uWq73loEmiNV9VZmAALlCAACKcVxRDuUlqYlO82NOwQ",
+            "file_unique_id": "AgAD5QgAAinFcUQ",
+            "file_size": 18290933
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgTxag2npgABuEv7EHy3VQWqOrDQMr8EAAI0BgACMH9xRFS-lY3vNP18AQAHbQADOwQ",
+          "file_unique_id": "AQADNAYAAjB_cURy",
+          "file_size": 9294,
+          "width": 320,
+          "height": 208
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgTxag2npgABuEv7EHy3VQWqOrDQMr8EAAI0BgACMH9xRFS-lY3vNP18AQAHbQADOwQ",
+          "file_unique_id": "AQADNAYAAjB_cURy",
+          "file_size": 9294,
+          "width": 320,
+          "height": 208
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAIE8WoNp6YAAbhL-xB8t1UFqjqw0DK_BAACNAYAAjB_cURUvpWN7zT9fDsE",
+        "file_unique_id": "AgADNAYAAjB_cUQ",
+        "file_size": 18409583
+      },
+      "caption": "آموزش اپلیکیشن Cloak برای کانکت شدن به کانفیگ‌های SNI Spoofing روی مک\nبا این روش هیچ نیازی به استفاده از ترمینال ندارید و خیلی ساده‌تر هست\nو همچنین توضیحات راجع به شیر کردن کانفیگ‌ها با دیوایس‌های دیگه‌تون\nاین ویدیو باید تقریبا تمام مشکلات دوستان مک‌دار رو حل کنه\n\nلینک دانلود داخلی ویدیو\nگیت‌هاب اپلیکیشن Cloak\nلینک دانلود داخلی اپلیکیشن Cloak\nلیست کانفیگای جمع آوری شده توسط متین عزیز\n\nنکته: برای اپلیکیشن‌هایی مثل تلگرام که سیستم پروکسی رو اتوماتیک نمی‌گیرن شاید لازم باشه یه پراکسی ساکس دستی روی پورتی که اپلیکیشن توی ویدیو بهتون می‌گه اضافه کنید\nنکته ۲: متاسفانه این اپلیکیشن هنوز تانل نداره و ممکنه یه سری اپ‌ها که سیستم پروکسی رو نمی‌گیرن باهاش کار نکنن.  برای تانل پیشنهادمون همون استفاده از Throne هست\nپی‌نوشت: عذرخواهی می‌کنم بخاطر کیفیت فوق‌العاده میکروفون :)))\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 265,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://uplod.ir/sp7b4c9fkx9b/2026-05-20_14-08-22.mp4.htm"
+        },
+        {
+          "offset": 289,
+          "length": 22,
+          "type": "text_link",
+          "url": "https://github.com/g3ntrix/Cloak"
+        },
+        {
+          "offset": 312,
+          "length": 32,
+          "type": "text_link",
+          "url": "https://uplod.ir/cd8kdh3r8y3a/Cloak-1.1.1.dmg.htm"
+        },
+        {
+          "offset": 345,
+          "length": 41,
+          "type": "text_link",
+          "url": "https://t.me/MatinSenPaii/3183"
+        },
+        {
+          "offset": 700,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/khosrow_v2ray/778"
+        },
+        {
+          "offset": 785,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 785,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 785,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
