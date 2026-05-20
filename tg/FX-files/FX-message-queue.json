@@ -13716,6 +13716,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1300,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779305164,
+      "text": "🇺🇸 ترامپ : اگه جواب‌های درستی نگیریم، اوضاع رو خیلی سریع پیش می‌بریم (حمله می‌کنیم).\nهمه‌چیز آماده اقدامه. ما باید جواب‌های درست بگیریم.\nباید جواب‌ها 100% رضایت‌بخش باشن؛ و اگه این اتفاق بیفته، تو زمان، انرژی و جون انسان‌های زیادی صرفه‌جویی میشه.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 250,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 263,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 289,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 289,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 289,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
