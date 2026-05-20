@@ -9605,6 +9605,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1237,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779251341,
+      "text": "به تخمم انگاری هنر کردی منم تا حالا مسابقه واترپلو رو نگاه نکردم که اینم به تخم بچه های چنل🥴🥴\nاینترنت نیس مهدی جان مردمم اعصاب ندارن تلویزیون رو فقط بخاطر فوتبال روشن میکنن کیر تو کص ننه باعث بانی های قطع اینترنت میلیون ها ادم  که حرف از میهن و هم میهن میزنن دقیقا چه هم میهنی وقتی حتی اینترنت شونم سفارشیه مادر جنده ها\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 322,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 345,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 345,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 345,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
