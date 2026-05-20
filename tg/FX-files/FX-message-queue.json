@@ -12408,6 +12408,82 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1272,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779291303,
+      "text": "داخل اپلیکیشن شیر و خورشید با sni های زیر که ir هستند میتونید متصل شید و شرایط نت رو بهینه تر کنید:\n\nsnapp.ir\n\nvarzesh3.com\n\ndigikala.com\n\ntelewebion.com\n\nbmi.ir\n\naparat.com\n\nلیست بروز میشه \n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 111,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 125,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 139,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 155,
+          "length": 6,
+          "type": "url"
+        },
+        {
+          "offset": 163,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 192,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 205,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 227,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 227,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 227,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
