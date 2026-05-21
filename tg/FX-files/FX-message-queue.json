@@ -14297,6 +14297,71 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1312,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779328444,
+      "text": "خدا لعنت کنه باعث بانی شو\n\nلینک دعوت میزارم هر تعدادی گیر اومد رو قرعه میندازیم میدیم کسانی نیاز دارن دوستاشون انلاین کنن چون به کار خودم نمیان کسی ندارم انلاین بکنم \n\nhttps://t.me/alihappirbot?start=ref_7106584375\n\n 3نفر نیم گیگ\nhttps://t.me/MarketPixelArtBot?start=ref_7106584375\n4نفر 1 گیگ\nhttps://t.me/R_VPN1Bot?start=7106584375\nده تا 1گیگ\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 168,
+          "length": 46,
+          "type": "url"
+        },
+        {
+          "offset": 216,
+          "length": 13,
+          "type": "blockquote"
+        },
+        {
+          "offset": 230,
+          "length": 51,
+          "type": "url"
+        },
+        {
+          "offset": 294,
+          "length": 10,
+          "type": "blockquote"
+        },
+        {
+          "offset": 356,
+          "length": 1,
+          "type": "bold"
+        },
+        {
+          "offset": 356,
+          "length": 1,
+          "type": "underline"
+        },
+        {
+          "offset": 357,
+          "length": 7,
+          "type": "blockquote"
+        },
+        {
+          "offset": 357,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 357,
+          "length": 7,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/alihappirbot?start=ref_7106584375"
+      }
     }
   ]
 }
