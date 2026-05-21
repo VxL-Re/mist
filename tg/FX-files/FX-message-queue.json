@@ -717,6 +717,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1324,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779352985,
+      "text": "رو زندگی مون تخفیف 99 درصد میزارم اون مادر جنده های که تو خارج کشور مثلا کانادا و ایتالیا، انگلیس و المانن میگن اخوند خوبه بیاین اینجا زندگی کنید که نتش الان 3 ماهه قطعه از دور گوه نخورید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
