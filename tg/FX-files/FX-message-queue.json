@@ -4303,6 +4303,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1373,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779398622,
+      "text": "🎙خبرنگار : آخر هفته عروسی پسرته، میری؟\n\n🇺🇸 ترامپ : چی بگم والا، دوست دارم برم اما یه مسئله به نام ایران هست و کلی کار دارم، امیدوارم ازدواج خوبی داشته باشه. \n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 162,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 175,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
