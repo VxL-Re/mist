@@ -4489,6 +4489,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1376,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779425518,
+      "text": "🚨 فوری از ای اس پی ان برزیل: نیمار دچار تورم ساق پای راست شده و به گفته باشگاه سانتوس، ممکنه مصدومیتش جدی‌تر از چیزی باشه که فکرش رو میکردن! \n\n🟡 تیم ملی برزیل منتظره تا این بازیکن روز 27 می (5 روز دیگه) بیاد تا ارزیابی‌های پزشکی روش انجام بشه. حضور این بازیکن توی بازی‌ های دوستانه قبل از جام جهانی توی هاله‌ای از ابهامه!!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 326,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 339,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 365,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 365,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 365,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
