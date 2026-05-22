@@ -6300,6 +6300,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1412,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779484620,
+      "text": "#گزارش_مردمی : تهران/ولنجک صدای رد شدن پهباد میاد سمت ۰۰:۳۰\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 12,
+          "type": "hashtag"
+        },
+        {
+          "offset": 60,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 73,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
