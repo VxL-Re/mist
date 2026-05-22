@@ -6172,6 +6172,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1409,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779483060,
+      "text": "ترامپ درباره تست شناختی : بایدن حتی سوال اول رو هم نمی‌تونست جواب بده\n- فکر نمی‌کنم بتونه بگیره اینا رو کدوم خرسه کدوم اسبه\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 136,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 136,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 136,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
