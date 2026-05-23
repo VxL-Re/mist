@@ -6949,6 +6949,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1425,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779513361,
+      "text": "142.54.178.211\n5.144.129.174\n80.191.243.226\n2.16.53.50\n79.175.169.59\n95.38.201.199\n5.160.13.85\n2.23.170.80\n193.148.67.117\n2.16.53.11\n2.16.53.11\n2.16.53.50\n164.138.17.122\n78.39.234.140\n80.191.243.226\n80.191.243.226\n109.72.197.1\n37.191.95.70\n37.191.95.70\n5.160.128.142\n2.16.53.11\n2.16.53.50\n\nارسالی ایرانسل\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 288,
+          "type": "code"
+        },
+        {
+          "offset": 317,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 317,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 317,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
