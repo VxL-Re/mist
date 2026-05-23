@@ -8903,6 +8903,87 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1448,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779562562,
+      "text": "🔥 تخفیف ویژه فروش سرویس فیلترشکن نت ملی 🔥\n⏳ فقط برای امروز | تخفیف کاملاً موقتی ⏳\n🚀 کانفیگ اختصاصی و پرسرعت مناسب اینترنت نت ملی\n📶 پایداری بالا + سرعت عالی + کیفیت تضمینی\n😀 تمامی سرویس‌ها دارای لینک ساب اختصاصی هستند\n😀 امکان مشاهده حجم باقی‌مانده و وضعیت سرویس با اینترنت داخلی بدون نیاز به VPN\n♾️ سرویس‌ها بدون محدودیت زمانی\n👥 بدون محدودیت تعداد کاربر\n🎉 قیمت‌های ویژه امروز:\n✔️ خرید زیر 5 گیگ → هر گیگ فقط 180 هزار تومان \n✔️ خرید بالای 5 گیگ → هر گیگ فقط 170 هزار تومان\n\n📣🔥پرداختی با رمز ارز هرگیگ فقط 1$\n\n⚠️ این تخفیف فقط مدت محدود فعال هست.\n⚡️ اولویت تحویل با سفارش‌های سریع‌تر خواهد بود.\n📦 تعداد سرویس‌ها محدود می‌باشد.\n💳 پرداخت فقط با رمز ارز USDT (BEP20) (پرداختی ریالی فقط مشتری های قدیمی که قبلا ریالی خرید داشتن)\n✉️ جهت ثبت سفارش پیام دهید.\n@AlirezaSpeed\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 3,
+          "length": 37,
+          "type": "bold"
+        },
+        {
+          "offset": 46,
+          "length": 35,
+          "type": "italic"
+        },
+        {
+          "offset": 199,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 363,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 404,
+          "length": 25,
+          "type": "bold"
+        },
+        {
+          "offset": 453,
+          "length": 25,
+          "type": "bold"
+        },
+        {
+          "offset": 484,
+          "length": 31,
+          "type": "bold"
+        },
+        {
+          "offset": 660,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 762,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 788,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 788,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 788,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
