@@ -8383,6 +8383,70 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1437,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779546096,
+      "text": "🔴شیر و خورشید متصل تست شده :\n81.12.72.218\n80.191.243.226\n37.191.76.110\n23.216.77.73\n23.2.13.211\n184.51.252.36\n2.22.210.51\n2.23.118.153\n2.16.164.67\n95.100.177.52\n2.18.69.218\n2.23.168.47\n2.23.170.80\n2.23.168.144\n2.23.168.254\n95.100.177.112\n2.21.213.243\n2.23.168.144\n2.23.168.47\n2.16.168.113\n95.101.35.91\n2.20.254.217\n104.109.250.10\n2.23.168.47\n2.23.168.254\n184.51.252.36\n95.101.35.74\n23.200.88.76\n95.101.200.7\n2.23.168.96\n173.223.239.52\n2.23.168.174\n2.23.168.213\n2.23.168.213\n2.23.168.174\n2.23.168.174\n2.23.168.96\n2.23.168.213\n2.23.168.7\n23.203.134.243\n23.197.160.67\n95.100.133.75\n2.18.69.218\n184.51.252.36\n2.23.168.47\n2.23.168.144\n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 30,
+          "length": 600,
+          "type": "blockquote"
+        },
+        {
+          "offset": 30,
+          "length": 600,
+          "type": "code"
+        },
+        {
+          "offset": 645,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 654,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 663,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 686,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 686,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 686,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
