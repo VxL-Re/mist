@@ -8867,6 +8867,42 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 1447,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779560762,
+      "text": "🚨🚨 العربیه: \n\nتنها چندساعت تا نهایی شدن توافق میان ایران و آمریکا فاصله داریم.\n\n+ بنظرم سریع برید حموم\nپاوربانک و لپتاپ و گوشیم فول شارژ کنید\nاحتمالا خبرشو با صدای انفجار اعلام میکنن \n\n🤣😂\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
