@@ -6661,6 +6661,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1419,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779499261,
+      "text": "بین عدد 11 تا 1014 یک عدد بگین غیر تکراری به دونفر دو عدد  Google play $5 gift card میرسه 💵\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
