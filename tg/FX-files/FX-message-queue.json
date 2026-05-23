@@ -8487,6 +8487,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1439,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779551282,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFn2oRzDJsb_-XgVuelb1pt7nosrKlAAJYD2sb8VmJUPJtwnS1xJt5AQADAgADcwADOwQ",
+          "file_unique_id": "AQADWA9rG_FZiVB4",
+          "file_size": 1590,
+          "width": 87,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFn2oRzDJsb_-XgVuelb1pt7nosrKlAAJYD2sb8VmJUPJtwnS1xJt5AQADAgADbQADOwQ",
+          "file_unique_id": "AQADWA9rG_FZiVBy",
+          "file_size": 23360,
+          "width": 309,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFn2oRzDJsb_-XgVuelb1pt7nosrKlAAJYD2sb8VmJUPJtwnS1xJt5AQADAgADeAADOwQ",
+          "file_unique_id": "AQADWA9rG_FZiVB9",
+          "file_size": 96712,
+          "width": 772,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFn2oRzDJsb_-XgVuelb1pt7nosrKlAAJYD2sb8VmJUPJtwnS1xJt5AQADAgADeQADOwQ",
+          "file_unique_id": "AQADWA9rG_FZiVB-",
+          "file_size": 160023,
+          "width": 1168,
+          "height": 1210
+        }
+      ],
+      "caption": "اینترنت پرو = حمایت از قطعی نت\n\nاینترنت پرو خریدید نیاین پی وی من من هیچ چیزی برای پرو دار ها ندارم چون ادم های بی ارزشی هستین اگه من دستم توی این عسل کنم بزارم دهن ادم قدر نشناس میگه تلخه شما هم ادم بی ابرو و سست عنصر لیاقتتون همون تو سری خوردنه\nاینترنت حق همه مردمه چه خیاط چه باغبون چه کشاورز چه بنا چه بیکار و حتی بلاگرها اینستاگرامی مادر جنده\nبدون اینترنت 40 روز زنده موندن تا طرح پرو اومد برای مالیدن کیر خر صف کشیدن(منظورم اون عده ایه بدون طرح پرو هم ورشکسته نمیشدن)\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 474,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 497,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 497,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 497,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
