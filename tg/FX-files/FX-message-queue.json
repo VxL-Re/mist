@@ -6760,6 +6760,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1421,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779507025,
+      "text": "slipnet-enc://AcLk0rkqa/jHXj+hOotLGAIMrCxm1wV5Ecyrl+u1FpdPhsJhj1eY6kY6J0f05kC09wE04+LTggJSEZjmdfygI8t7feG6yhdt0PQeC8IOhjhwASco6ax3PJM0p1UYiUctcBRuqIjPEQeh7waRQMi2rWm5LT88X8WMtxeUaOo7T7ZNeLdWtHSMfciQFd9ZwI5H+YO/C+rO/9RfdJWm3KRjyH/yftNxBw39vDTZbZiOYyal853/MfmDgBQOq5Ly51t/hCyIo0zcZadCTNxD9uYlIFtZYbFF247i2zyKrbAmV0M+9bVrq8N4bEvq2ciVxRWJadGo5Lhq9Q8HbtEfw3W2KPtpQBDEZ0/dJmivJbj1WRqH6hzZHTJJWTuByFXcEZBA2NpNeD8qJLS42LNG377P6JkuqK/b/uVORn8hFDeNcLmTqsv2LpJtjmrIjURC9WDcaRMqKsuzzsBRWROrcY9Ibl6dD3YX2vENdadaxOhUglIuJhCQ7LV+37aZPhuwXi4x8RF/PrkNKlK6T1gj9hCQOLXOkckvRGnjSyGqwCbVj1Y4/jbl2HrVgYajhKxzKlZxbfByzbGktmPJN57+lSMF8OgsqIdZgvKScqvsRH//k4/zX8qGqXBH2VJDK7V/AOS7qpXAfjjPMNayd9sYk1DwW7F5xYHDyVWicOZflqs2WpR55nb11vSJieiniiyFOe5nOtJOzHw+VOMdvGj2DF15/TDhXSgPvSogPN5QVi0ZuAiSQQBNDmzKqtksg7xnXutyRmsqp8mGWZueIHbYWZ7IX9LdEpoFpuK43PFMPh/wuYZOfS3KdS7LwN0=\n\nهمراه اول\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 838,
+          "type": "code"
+        },
+        {
+          "offset": 851,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 864,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 886,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 886,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 886,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
