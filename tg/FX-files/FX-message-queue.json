@@ -11504,6 +11504,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1498,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779644285,
+      "text": "حاجی حالا با عرفان شوخی میکنیم این 60 تومن ها بخدا چس تومنه این خطری که میکنه پراخت با کارت شخصی دمشم گرم خودشو تو خطر میندازه برای کاربرای نمیدونن تون یا ارز چی هس حالا  و کارشون رو راه میندازه\nهیچ کسی نمیاد برای بقیه خودشو تو خطر بندازه سرور بخره بده بهشون\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 271,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 271,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 271,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
