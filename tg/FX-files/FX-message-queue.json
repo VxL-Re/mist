@@ -11054,6 +11054,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1489,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779635765,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF0WoTFjVT--n1gYDRn4tmtCqbahJKAAKOEWsbvGuYUDMPP6yPMBmzAQADAgADcwADOwQ",
+          "file_unique_id": "AQADjhFrG7xrmFB4",
+          "file_size": 690,
+          "width": 65,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF0WoTFjVT--n1gYDRn4tmtCqbahJKAAKOEWsbvGuYUDMPP6yPMBmzAQADAgADbQADOwQ",
+          "file_unique_id": "AQADjhFrG7xrmFBy",
+          "file_size": 7251,
+          "width": 232,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF0WoTFjVT--n1gYDRn4tmtCqbahJKAAKOEWsbvGuYUDMPP6yPMBmzAQADAgADeAADOwQ",
+          "file_unique_id": "AQADjhFrG7xrmFB9",
+          "file_size": 27033,
+          "width": 581,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF0WoTFjVT--n1gYDRn4tmtCqbahJKAAKOEWsbvGuYUDMPP6yPMBmzAQADAgADeQADOwQ",
+          "file_unique_id": "AQADjhFrG7xrmFB-",
+          "file_size": 42402,
+          "width": 930,
+          "height": 1280
+        }
+      ],
+      "caption": "🔴چندروز پیش ۳۰ اردیبهشت مجتبی خامنه ای پیام تسلیتی را امضا کرده که جالبه دست خطش این مدلیه واسه مردم سوال شده که چرا اینجوری امضا کرده\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 137,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 150,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
