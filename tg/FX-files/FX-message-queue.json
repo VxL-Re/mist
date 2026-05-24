@@ -11209,6 +11209,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1492,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779638045,
+      "text": "trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&allowinsecure=1&type=ws&sni=www.calmloud.com#ODIN_CLUB\nترکیبی حجم بالا\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 151,
+          "type": "code"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
