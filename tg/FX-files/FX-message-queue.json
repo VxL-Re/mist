@@ -11378,6 +11378,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1496,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779640865,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF2GoTKiEXPa-uNOCT9XXO3KgO1dlTAAKgEWsbvGuYUHRqZ_kNBRFiAQADAgADcwADOwQ",
+          "file_unique_id": "AQADoBFrG7xrmFB4",
+          "file_size": 1014,
+          "width": 46,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF2GoTKiEXPa-uNOCT9XXO3KgO1dlTAAKgEWsbvGuYUHRqZ_kNBRFiAQADAgADbQADOwQ",
+          "file_unique_id": "AQADoBFrG7xrmFBy",
+          "file_size": 9082,
+          "width": 162,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF2GoTKiEXPa-uNOCT9XXO3KgO1dlTAAKgEWsbvGuYUHRqZ_kNBRFiAQADAgADeAADOwQ",
+          "file_unique_id": "AQADoBFrG7xrmFB9",
+          "file_size": 29829,
+          "width": 406,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF2GoTKiEXPa-uNOCT9XXO3KgO1dlTAAKgEWsbvGuYUHRqZ_kNBRFiAQADAgADeQADOwQ",
+          "file_unique_id": "AQADoBFrG7xrmFB-",
+          "file_size": 55401,
+          "width": 649,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF2GoTKiEXPa-uNOCT9XXO3KgO1dlTAAKgEWsbvGuYUHRqZ_kNBRFiAQADAgADdwADOwQ",
+          "file_unique_id": "AQADoBFrG7xrmFB8",
+          "file_size": 102586,
+          "width": 1080,
+          "height": 2130
+        }
+      ],
+      "caption": "استوری هاوش‌کریمی پسر علی‌کریمی:\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 33,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 46,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
