@@ -13335,6 +13335,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1534,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779721808,
+      "text": "{\"dns\":{\"servers\":[\"8.8.8.8\"]},\"inbounds\":[{\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":false},\"tag\":\"socks\"}],\"log\":{\"loglevel\":\"warning\"},\"outbounds\":[{\"protocol\":\"blackhole\",\"tag\":\"blackhole_trap\"},{\"mux\":{\"concurrency\":-1,\"enabled\":false},\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"188.114.96.4\",\"port\":443,\"users\":[{\"encryption\":\"none\",\"flow\":\"\",\"id\":\"aaaaaabb-4ddd-4eee-9fff-ffffffffffff\",\"level\":8}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":true,\"serverName\":\"JoinProxyVPN11.afrcloud4.c01.kr\",\"show\":false,\"fingerprint\":\"ios\",\"alpn\":[\"http/1.1\"]},\"wsSettings\":{\"headers\":{\"Host\":\"afrcloud4.c01.kr\"},\"path\":\"/43.218.77.16=443\"},\"sockopt\":{\"tcpKeepAliveIdle\":100,\"tcpNoDelay\":true,\"dialerProxy\":\"\\u0040Proxy\\u0056PN11\"}},\"tag\":\"@ProxyVPN11_PROXY\"},{\"protocol\":\"freedom\",\"settings\":{\"fragment\":{\"packets\":\"tlshello\",\"length\":\"100-200\",\"interval\":\"10-20\"}},\"streamSettings\":{\"sockopt\":{\"tcpKeepAliveIdle\":100,\"tcpNoDelay\":true}},\"tag\":\"@ProxyVPN11\"},{\"protocol\":\"freedom\",\"streamSettings\":{\"network\":\"tcp\",\"sockopt\":{\"domainStrategy\":\"UseIP\"}},\"tag\":\"direct\"},{\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"tag\":\"block\"}],\"policy\":{\"levels\":{\"8\":{\"connIdle\":300,\"downlinkOnly\":1,\"handshake\":4,\"uplinkOnly\":1}},\"system\":{\"statsOutboundUplink\":true,\"statsOutboundDownlink\":true}},\"remarks\":\" \\u0040Proxy\\u0056PN11\",\"routing\":{\"domainStrategy\":\"AsIs\",\"rules\":[{\"network\":\"tcp,udp\",\"outboundTag\":\"\\u0040Proxy\\u0056PN11_PROXY\"}]},\"stats\":{}}\n\nسرور ترکیبی متصل با همه اینترنت ها مخصوصا همراه اول❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 1573,
+          "type": "code"
+        },
+        {
+          "offset": 1630,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 1643,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 1665,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1665,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1665,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
