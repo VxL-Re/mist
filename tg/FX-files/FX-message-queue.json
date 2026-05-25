@@ -13732,6 +13732,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1542,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779730508,
+      "text": "مسعود پزشکیان، رئیس جمهور، دقایقی پیش مصوبه ستاد ویژه ساماندهی و راهبری فضای مجازی را امضا کرد\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 94,
+          "type": "bold"
+        },
+        {
+          "offset": 107,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 107,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 107,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
