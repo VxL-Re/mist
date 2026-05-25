@@ -12019,6 +12019,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1507,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779698527,
+      "text": "🔴حکمی، مشاور وزیر ارتباطات :\n«ما داریم روزانه موضوع بازگشایی اینترنت بین‌الملل رو پیگیری می‌کنیم و هماهنگی‌های لازم در حال انجامه؛\nامیدواریم تا نهایت هفته آینده اینترنت یا به‌صورت کامل یا مرحله‌به‌مرحله به حالت عادی برگرده.\nالان هم بخشی از دسترسی‌ها برقرار شده و ان‌شاءالله شرایط عادی میشه، مردم نگران نباشن.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 311,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 324,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 350,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 350,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 350,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
