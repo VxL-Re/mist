@@ -13233,6 +13233,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1532,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779718628,
+      "text": "— شیر و خورشید.\nTheVPNMethod❤️\n\nIP: 104.103.64.7\nCDN: bbe-getimage.akamaized.net\n\nتست کنید \n—\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 36,
+          "length": 12,
+          "type": "code"
+        },
+        {
+          "offset": 54,
+          "length": 26,
+          "type": "code"
+        },
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
