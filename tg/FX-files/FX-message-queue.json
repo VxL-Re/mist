@@ -14126,6 +14126,57 @@
       "link_preview_options": {
         "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
       }
+    },
+    {
+      "message_id": 1549,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779735455,
+      "text": "vless://d8d67109-1fc9-4813-8753-63561fb6dc9d@ger1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=ger1.mv5.ir&type=ws#%40Error404Bin\n\nترکیبی متصل\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 150,
+          "type": "code"
+        },
+        {
+          "offset": 164,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 177,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
