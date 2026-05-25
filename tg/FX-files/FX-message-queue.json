@@ -15523,6 +15523,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1578,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779745716,
+      "text": "🚨 ترامپ تو تروث:\nاورانیوم غنی‌شده (گرد هسته‌ای!) یا باید فوراً به ایالات متحده تحویل داده شود تا به کشور منتقل و نابود گردد، یا ترجیحاً با هماهنگی و همکاری جمهوری اسلامی ایران، همان‌جا در محل یا در مکانی دیگر که قابل قبول باشد، نابود شود؛ به‌طوری که کمیسیون انرژی اتمی یا نهاد معادل آن، شاهد این فرایند و رویداد باشد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 319,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 332,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 358,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 358,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 358,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
