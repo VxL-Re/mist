@@ -13926,6 +13926,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1546,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779733595,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGCmoUlFtSl1MdOPFdP5IaqQN-g3HoAAI2DmsbKAupUKPXFb_-nzpeAQADAgADcwADOwQ",
+          "file_unique_id": "AQADNg5rGygLqVB4",
+          "file_size": 1079,
+          "width": 51,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGCmoUlFtSl1MdOPFdP5IaqQN-g3HoAAI2DmsbKAupUKPXFb_-nzpeAQADAgADbQADOwQ",
+          "file_unique_id": "AQADNg5rGygLqVBy",
+          "file_size": 19852,
+          "width": 181,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGCmoUlFtSl1MdOPFdP5IaqQN-g3HoAAI2DmsbKAupUKPXFb_-nzpeAQADAgADeAADOwQ",
+          "file_unique_id": "AQADNg5rGygLqVB9",
+          "file_size": 83043,
+          "width": 452,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGCmoUlFtSl1MdOPFdP5IaqQN-g3HoAAI2DmsbKAupUKPXFb_-nzpeAQADAgADeQADOwQ",
+          "file_unique_id": "AQADNg5rGygLqVB-",
+          "file_size": 143185,
+          "width": 723,
+          "height": 1280
+        }
+      ],
+      "caption": "برید رای جمع کنید مادر جنده ها به هیچ جا نمیرسه کیر خرم دستتون نمیدن \n\nاگه به شما مادر جنده ها خسارت بدهند بابت 88 روز قطعی باید به کل مردم خسارت بدهند تفنگ رو سرتون نزاشتن که بخرید شما دنبال کیر رفتین کیرم رفت تتون\nدیگه اعصابم نمیشه 🥴\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 70,
+          "length": 145,
+          "type": "spoiler"
+        },
+        {
+          "offset": 237,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
