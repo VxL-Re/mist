@@ -14491,6 +14491,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1556,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779741516,
+      "text": "🔴مهر: شنیده شدن صدای انفجار در شهر بندرعباس \n\n💢شامگاه دوشنبه، صدای انفجار در شهر بندرعباس  از سوی ساکنان محلی گزارش شده است.\n\n💢بر اساس این گزارش، ماهیت این صدا مشخص نیست و هنوز هیچ‌یک از نهادهای رسمی درباره علت وقوع این صداها اظهارنظر نکرده‌اند.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 261,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 261,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 261,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
