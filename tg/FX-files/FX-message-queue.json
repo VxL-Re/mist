@@ -24845,6 +24845,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1787,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779825758,
+      "text": "متاسفانه قیمت ترافیک دیتاسنترها، از ترایی 300 الی 600، به 1500 الی 2000 رسیده. قیمت توافی 1730 هست. اما الان رو هواست هرکی یه قیمتی میده. قیمت فیلترشکن های تانل هم احتمالا گیگی 5 الی 10 تومن ورود کنن.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 202,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 241,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 241,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 241,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
