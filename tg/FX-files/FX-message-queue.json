@@ -21736,6 +21736,122 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1718,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779806857,
+      "text": "مجدد dns ها فعال شدن❗️\n\n208.67.220.220\n208.67.220.220\n\n8.8.8.8\n8.8.4.4\n\n77.88.8.2\n77.88.8.88\n\n1.1.1.2\n1.0.0.2\n\n\n223.5.5.5\n223.6.6.6\n\n80.80.80.80\n80.80.81.81\n\n9.9.9.9\n149.112.112.112\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 24,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 39,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 55,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 63,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 72,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 82,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 94,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 102,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 112,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 122,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 133,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 145,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 158,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 166,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 184,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 197,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
