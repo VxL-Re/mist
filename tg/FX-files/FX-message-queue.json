@@ -23528,6 +23528,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1757,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779815197,
+      "text": "همه چیز وصل شد\nگرونی هم تموم شد\nاونایی هم که برای یه زندگی ساده اعتراض کردن از یاد رفتن\n\nچقدر مردم فراموش کاری هستیم با یه نت وصل شدن همه چیز از یادمون رفت:)))\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 161,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 172,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 198,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 198,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 198,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
