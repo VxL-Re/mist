@@ -22695,6 +22695,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1738,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779813254,
+      "text": "1 سال پيش اینو گذاشتیم با اکانت 100 ساله سرور ترکیبی آلمان بلژیک 🇩🇪 🇧🇪 و سرور  ایتالیا  🇮🇹  با سرعت خیلی خوبی وصلن رو مخابرات ترافیک هم نامحدود\n\n\nفقط امیدوارم کپی نکنن سایر چنل ها دوستی اطلاع دادن میگفت اینستاگرام عین میگ میگ ویدئو پلی میکنه اینه فرق ما یکسال پیش اکانت 100 ساله واقعی 🥴\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 152,
+          "length": 141,
+          "type": "blockquote"
+        },
+        {
+          "offset": 294,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 317,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 317,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 317,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
