@@ -24250,6 +24250,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1774,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779822338,
+      "text": "فروش نخی سیگار ممنوع شد\n\nاتاق اصناف ایران:\n◽️فروش سیگار نخی و فرآورده‌های دخانی بازشده در تمامی واحدهای صنفی ممنوع شد.\n◽️این تصمیم با هدف کاهش دسترسی آسان نوجوانان به دخانیات اتخاذ شده و بازرسان صنفی موظف به برخورد با واحدهای متخلف شده‌اند./ایلنا\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 247,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 260,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
