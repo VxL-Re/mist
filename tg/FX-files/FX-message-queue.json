@@ -21310,6 +21310,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1709,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779804757,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGrWoVqlXH0Uz-m8oObetr3ufIvIYRAAKgDmsb-t2wUPlKgDv5InE3AQADAgADcwADOwQ",
+          "file_unique_id": "AQADoA5rG_rdsFB4",
+          "file_size": 580,
+          "width": 90,
+          "height": 30
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGrWoVqlXH0Uz-m8oObetr3ufIvIYRAAKgDmsb-t2wUPlKgDv5InE3AQADAgADbQADOwQ",
+          "file_unique_id": "AQADoA5rG_rdsFBy",
+          "file_size": 5231,
+          "width": 320,
+          "height": 106
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGrWoVqlXH0Uz-m8oObetr3ufIvIYRAAKgDmsb-t2wUPlKgDv5InE3AQADAgADeAADOwQ",
+          "file_unique_id": "AQADoA5rG_rdsFB9",
+          "file_size": 17262,
+          "width": 800,
+          "height": 264
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGrWoVqlXH0Uz-m8oObetr3ufIvIYRAAKgDmsb-t2wUPlKgDv5InE3AQADAgADeQADOwQ",
+          "file_unique_id": "AQADoA5rG_rdsFB-",
+          "file_size": 22903,
+          "width": 1080,
+          "height": 357
+        }
+      ],
+      "caption": "خدا بده برکت\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 25,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 25,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 25,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
