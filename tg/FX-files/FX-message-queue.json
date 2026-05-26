@@ -22555,6 +22555,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1735,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779812917,
+      "document": {
+        "file_name": "JumpJumpVPN v2.7.8.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIGx2oVyjVyxdwV8UR_-daXWBWErpXgAAIrHAACnBG4UI2px3n4B7j3OwQ",
+        "file_unique_id": "AgADKxwAApwRuFA",
+        "file_size": 63283099
+      },
+      "caption": "⁪⁬⁮⁮⁮⁮        ‌‌‌‌\n اینترنت بین‌الملل مخابرات برای بعضی مناطق وصل شده\n\nدوستانی که مخابرات دارن و اینترنت‌شون از حالت ملی خارج شده و به اینترنت بین‌الملل دسترسی دارن، می‌تونن از این سه VPN استفاده کنن.\n\nلینک دانلود داخلی BinWisVPN\nلینک دانلود داخلی VivaVPN\nلینک دانلود داخلی JumpJumpVPN\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 202,
+          "length": 83,
+          "type": "blockquote"
+        },
+        {
+          "offset": 202,
+          "length": 27,
+          "type": "text_link",
+          "url": "https://dl.toolschi.com/view.php?f=2fd5ad79ee0250aa.zip"
+        },
+        {
+          "offset": 230,
+          "length": 25,
+          "type": "text_link",
+          "url": "https://dl.toolschi.com/view.php?f=51f5e379d80269b4.zip"
+        },
+        {
+          "offset": 256,
+          "length": 29,
+          "type": "text_link",
+          "url": "https://dl.toolschi.com/view.php?f=a589b4181d2e241c.zip"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
