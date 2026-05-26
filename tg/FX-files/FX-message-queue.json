@@ -17020,6 +17020,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1610,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779784897,
+      "text": "red card vpn\nmonster vpn\naloha vpn\nguru vpn\nabscura vpn\nplanet vpn\nvpnly\ncool vpn\ntoggle vpn\npure vpn\n\nی مقداری از اینام‌از طرف من🥴شایدم با چک اوت خودتون زدم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
