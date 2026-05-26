@@ -23441,6 +23441,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1755,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779815018,
+      "text": "الان میبینی میخوابی بلند میشی جنگ شده سر دو دقیقه همه چی قطع میشه \n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 67,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 78,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 92,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
