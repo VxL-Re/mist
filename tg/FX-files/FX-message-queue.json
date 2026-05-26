@@ -20182,6 +20182,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1685,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779801457,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGlWoVnXFf3RD-Bq-G49XOkqfcZZzMAAK2EGsbUAeoUALMXhl6PGQwAQADAgADcwADOwQ",
+          "file_unique_id": "AQADthBrG1AHqFB4",
+          "file_size": 793,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGlWoVnXFf3RD-Bq-G49XOkqfcZZzMAAK2EGsbUAeoUALMXhl6PGQwAQADAgADbQADOwQ",
+          "file_unique_id": "AQADthBrG1AHqFBy",
+          "file_size": 9589,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGlWoVnXFf3RD-Bq-G49XOkqfcZZzMAAK2EGsbUAeoUALMXhl6PGQwAQADAgADeAADOwQ",
+          "file_unique_id": "AQADthBrG1AHqFB9",
+          "file_size": 36140,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGlWoVnXFf3RD-Bq-G49XOkqfcZZzMAAK2EGsbUAeoUALMXhl6PGQwAQADAgADeQADOwQ",
+          "file_unique_id": "AQADthBrG1AHqFB-",
+          "file_size": 50796,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "📈 Confirmed: Live metrics show a partial restoration to internet connectivity in #Iran on day 88, after 2093 hours of near-total isolation from international networks, the longest nationwide internet shutdown in modern history. It is unclear if the restoration will be sustained.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 82,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
