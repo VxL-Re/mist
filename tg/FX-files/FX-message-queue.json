@@ -16807,6 +16807,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1606,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779782617,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGRmoVU9jXpRFnsW8Sz3N0Cf0YtTd_AALgDWsbXb6wUCWVOQABNedSogEAAwIAA3MAAzsE",
+          "file_unique_id": "AQAD4A1rG12-sFB4",
+          "file_size": 783,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGRmoVU9jXpRFnsW8Sz3N0Cf0YtTd_AALgDWsbXb6wUCWVOQABNedSogEAAwIAA20AAzsE",
+          "file_unique_id": "AQAD4A1rG12-sFBy",
+          "file_size": 10006,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGRmoVU9jXpRFnsW8Sz3N0Cf0YtTd_AALgDWsbXb6wUCWVOQABNedSogEAAwIAA3gAAzsE",
+          "file_unique_id": "AQAD4A1rG12-sFB9",
+          "file_size": 37227,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGRmoVU9jXpRFnsW8Sz3N0Cf0YtTd_AALgDWsbXb6wUCWVOQABNedSogEAAwIAA3kAAzsE",
+          "file_unique_id": "AQAD4A1rG12-sFB-",
+          "file_size": 55354,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "جدیدترین اپدیت نت بلاکس منتشر شد که انگار دسترسی یکم باز شده.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 74,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 74,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 74,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
