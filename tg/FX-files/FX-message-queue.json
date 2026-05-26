@@ -17954,6 +17954,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1631,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779793837,
+      "text": "با این دوتا ip به ورکر و bpb میتونید متصل شید.\n\n104.16.7.70\n\n104.18.139.67\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 48,
+          "length": 26,
+          "type": "blockquote"
+        },
+        {
+          "offset": 48,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 61,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
