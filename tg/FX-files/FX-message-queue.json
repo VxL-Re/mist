@@ -19976,6 +19976,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1681,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779800617,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGkWoVmilDnEaRyMxwpUL72LBcO3P7AALuDWsbWwmpUOHYGwfOJm5EAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD7g1rG1sJqVB4",
+          "file_size": 1031,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGkWoVmilDnEaRyMxwpUL72LBcO3P7AALuDWsbWwmpUOHYGwfOJm5EAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD7g1rG1sJqVBy",
+          "file_size": 11732,
+          "width": 144,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGkWoVmilDnEaRyMxwpUL72LBcO3P7AALuDWsbWwmpUOHYGwfOJm5EAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD7g1rG1sJqVB9",
+          "file_size": 36249,
+          "width": 360,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGkWoVmilDnEaRyMxwpUL72LBcO3P7AALuDWsbWwmpUOHYGwfOJm5EAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD7g1rG1sJqVB-",
+          "file_size": 60340,
+          "width": 576,
+          "height": 1280
+        }
+      ],
+      "caption": "monster vpn premium\n\nاینم نصب کنید\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
