@@ -21649,6 +21649,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1716,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779805837,
+      "text": "\" شیرو خورشید \" با اینترنتِ مخابرات  ( WiFi ) ، بدونِ نیاز به هیچ آیپی و تنظیماتِ خاصی ، با بالاترین سرعت متصل هست .\n\n+ اگر از قبل آیپی اضافه کردید پاک کنید و Connection Protocol رو رویِ Auto بگذارید و بعد متصل بشید@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 228,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
