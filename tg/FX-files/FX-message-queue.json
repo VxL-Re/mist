@@ -19383,6 +19383,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1668,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779799237,
+      "text": "🔰BinWiz VPN🔰\n\n🔎 GooglePlayLink\n\n💡1.2.2 | #VPN\n\n\nⓂ️ نسخه vip شده\n\n ◈حذف تبلیغات برنامه👑✓\n◈ حذف فایل‌های اضافه✓\n◈ برنامه بهینه شده✓\n\n✪ معماری: arm64-v8\n\n\nتوضیحات درباره برنامه:\nBinWiz VPN \nاز فناوری های پیشرفته برای پنهان کردن IP شما و دور زدن سانسور استفاده می کند.\n\nامکانات:\n- افزایش اتصال به اینترنت\n- مقاوم در برابر سانسور\n- استفاده از پروتکل های پیشرفته و به روز\n- سرورهای چند منطقه ای\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 19,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.binwizteam.vpn"
+        },
+        {
+          "offset": 45,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 180,
+          "length": 214,
+          "type": "blockquote"
+        },
+        {
+          "offset": 484,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/aplodboy12bot?start=get_jplwmyqwuzvnapwd"
+        },
+        {
+          "offset": 513,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 532,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 549,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 572,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 572,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 572,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.binwizteam.vpn"
+      }
     }
   ]
 }
