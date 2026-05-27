@@ -28744,6 +28744,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1849,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779895960,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHOWoXDph9DXExHln4agH1BEjREhM7AAJbDmsbHRi4UDNhK0KsloL-AQADAgADcwADOwQ",
+          "file_unique_id": "AQADWw5rGx0YuFB4",
+          "file_size": 1293,
+          "width": 51,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHOWoXDph9DXExHln4agH1BEjREhM7AAJbDmsbHRi4UDNhK0KsloL-AQADAgADbQADOwQ",
+          "file_unique_id": "AQADWw5rGx0YuFBy",
+          "file_size": 22903,
+          "width": 182,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHOWoXDph9DXExHln4agH1BEjREhM7AAJbDmsbHRi4UDNhK0KsloL-AQADAgADeAADOwQ",
+          "file_unique_id": "AQADWw5rGx0YuFB9",
+          "file_size": 105039,
+          "width": 456,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHOWoXDph9DXExHln4agH1BEjREhM7AAJbDmsbHRi4UDNhK0KsloL-AQADAgADeQADOwQ",
+          "file_unique_id": "AQADWw5rGx0YuFB-",
+          "file_size": 195577,
+          "width": 729,
+          "height": 1280
+        }
+      ],
+      "caption": "رادار آنلاین وضعیت اینترنت ایرانسل تو شهر تهران \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 49,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 62,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
