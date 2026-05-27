@@ -27888,6 +27888,167 @@
       "link_preview_options": {
         "url": "https://t.me/itproxyy/4775?single"
       }
+    },
+    {
+      "message_id": 1834,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779878050,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHKmoWyKJi1Y_BP8EmqJ-uQjQietP3AAKBDmsbXb64UKIeTPeqqOtjAQADAgADcwADOwQ",
+          "file_unique_id": "AQADgQ5rG12-uFB4",
+          "file_size": 773,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHKmoWyKJi1Y_BP8EmqJ-uQjQietP3AAKBDmsbXb64UKIeTPeqqOtjAQADAgADbQADOwQ",
+          "file_unique_id": "AQADgQ5rG12-uFBy",
+          "file_size": 5919,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHKmoWyKJi1Y_BP8EmqJ-uQjQietP3AAKBDmsbXb64UKIeTPeqqOtjAQADAgADeAADOwQ",
+          "file_unique_id": "AQADgQ5rG12-uFB9",
+          "file_size": 11753,
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "caption": "🍷مجدد اندپوینت های oblivion روی برخی اپراتور ها باز شده تست کنید رفقا❗️\n\n\n162.159.192.4:500\n162.159.192.2:878\n162.159.192.6:864\n162.159.192.1:2408\n162.159.195.8:3581\n162.159.192.1:2408\n162.159.195.1:4177\n162.159.195.3:878\n162.159.192.8:903\n162.159.195.8:3581\n162.159.192.1:2408\n162.159.195.1:4177\n162.159.195.3:878\n162.159.192.8:903\n188.114.96.24:1002\n162.159.192.1:500\n162.159.192.1:2408\n162.159.192.1:1701\n162.159.192.1:4500\n162.159.195.1:4177\n162.159.192.2:878\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 75,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 93,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 111,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 129,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 148,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 167,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 186,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 205,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 223,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 241,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 260,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 279,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 298,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 316,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 334,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 353,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 371,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 390,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 409,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 428,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 447,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 477,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 477,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 477,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
