@@ -26559,6 +26559,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1818,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779870519,
+      "text": "متصل :\n\ntg://proxy?server=mtproxy1.ookcdn.ru&port=443&secret=ee93401b06d83205684ef16e63552560326d7470726f7879312e6f6f6b63646e2e7275\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 8,
+          "length": 123,
+          "type": "url"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
