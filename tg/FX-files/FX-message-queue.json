@@ -28863,6 +28863,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1851,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779896500,
+      "text": "علیرضا جی‌جی، رپری که به تازگی اومده ایران : \n\nواقعا برام عجیبه که جوون‌ها چطور ابی، داریوش، گوگوش و... رو گوش میکنن!\nمن اصلا نمی‌فهمم چی‌میگن، مثلا پوستِ شیر ابی؛ چی میگه اصلا؟\nپاپ‌خون‌های ایرانی چون خیلی وقته ایران نیومدن، هنوز تو ادبیات 50 سال پیش گیر کردن.\nمن نمیذارم بچم اینارو گوش بده چون مخش رو شست و شو میدن.\nآهنگ‌هاشون خیلی سبک و چرت پرته..\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 351,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 364,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 390,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 390,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 390,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
