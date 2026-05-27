@@ -25941,6 +25941,100 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1809,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779861220,
+      "media_group_id": "14238889764623508",
+      "document": {
+        "file_name": "@PersiaTMChannel-SurfsharkMY🇲🇲.ovpn",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIHEWoWhuQvwVtXtZhC-1q_2Qm1_hVWAAKcHgACpyywUMLg2-ERQSMuOwQ",
+        "file_unique_id": "AgADnB4AAqcssFA",
+        "file_size": 2902
+      },
+      "caption": "🔄➕نمونه کانفیگ های قدیمی Surfshark برای تست،\nتست کنید اگه متصل میشد یا جوابگو بود براتون تعداد بیشتری بزارم.🙏🏻❤️\n\n❤️ Open VPN Configs 🔥✔️\nکانفیگ های Open VPN از برنامه Surfshark VPN\n✊✊✊✊\n1️⃣ فایل رو ذخیره کنید داخل پوشه‌ی دانلود هاتون (Save To Download)\n\n2️⃣آخرین نسخه Open VPN را از گوگل پلی❤️یا اپ استور📱 دانلود و اجرا کنید \nروی فایل ها کلیک کنید روی دکمه شر بزنید و کانفیگ هارو Add کنید توی Open VPN\nو متصل بشید.\nعزیزانی که تو مناطقی هستن که نتشون اختلال شدید داره لطفا نتیجه رو تو کامنت بگن.❤️\n\nعملکرد با هر نت تو هر منطقه فرق میکنه\nسعی کنید تمام نتایی که دارید رو تست گنید.\n\nلینک دانلود اوپین وی پی ان بدون فیلتر\n\nحمایت و ری اکت روی پست فراموش نشه دوستان برای آپدیت های بعدی💭\nکپی با ذکر منبع آزاد❤️\n➖➖➖➖➖➖➖➖➖➖\n👑 @PersiaTMChannel\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 3,
+          "length": 106,
+          "type": "bold"
+        },
+        {
+          "offset": 120,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 142,
+          "length": 19,
+          "type": "bold"
+        },
+        {
+          "offset": 288,
+          "length": 12,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://apps.apple.com/gb/app/openvpn-connect/id590379981"
+        },
+        {
+          "offset": 421,
+          "length": 79,
+          "type": "bold"
+        },
+        {
+          "offset": 504,
+          "length": 79,
+          "type": "bold"
+        },
+        {
+          "offset": 585,
+          "length": 37,
+          "type": "text_link",
+          "url": "https://uploadb.me/fni3wlkjx1ht"
+        },
+        {
+          "offset": 687,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 724,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 753,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 753,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 753,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
