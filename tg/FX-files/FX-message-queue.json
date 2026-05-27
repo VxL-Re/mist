@@ -29112,6 +29112,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1856,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779904121,
+      "text": "vless://ede6c97e-7e1c-48a0-97cd-432c6bacc37d@panel.panel.pythash.tr:12011?security=&encryption=none&headerType=&type=tcp#pythash-acvtrm-100.00GB%F0%9F%93%8A\n\n۱۰۰گیگ\nترکیه \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 156,
+          "type": "code"
+        },
+        {
+          "offset": 172,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 185,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
