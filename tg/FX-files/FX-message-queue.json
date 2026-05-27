@@ -26071,6 +26071,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1811,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779862539,
+      "text": "🔰UFO VPN🔰\n\n🔎 GooglePlayLink\n\n💡2.2.15 | #VPN\n\n#درخواستی \n\nⓂ️ نسخه vip شده\n\n◈ تمامی سرور های اشتراکی باز شده👑✓ \n ◈حذف تبلیغات برنامه✓\n◈ حذف فایل‌های اضافه✓\n\n✪ معماری: arm64-v8\n\n\nتوضیحات درباره برنامه:\nچرا UFO VPN برجسته است:\n- همه چیز را آزاد کنید: با سرورهای امن و پرسرعت در سراسر جهان، به راحتی از محدودیت‌ها عبور کنید.\n- هویت خود را پنهان کنید: IP و موقعیت خود را فوری تغییر دهید (چندین منطقه در دسترس) تا ناشناس بمانید.\n- آزادی در یک کلیک: در کسری از ثانیه متصل شوید — بدون ثبت‌نام، بدون تنظیمات پیچیده.\n- پایداری محکم و استوار: حتی در مناطق دارای سانسور شدید، بی‌نقص روی Wi-Fi و داده تلفن همراه کار می‌کند.\n- تضمین حریم خصوصی کامل: ما هرگز لاگ‌ها را ذخیره نمی‌کنیم و فعالیت آنلاین شما را ردیابی نمی‌کنیم — داده‌های شما فقط متعلق به شماست.\n⤾ری‌اکشن بزنین انرژی بدین♥️\n⤾نظرتون کامنت کنید.\n\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 16,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.ufovpn.connect.velnet"
+        },
+        {
+          "offset": 43,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 49,
+          "length": 9,
+          "type": "hashtag"
+        },
+        {
+          "offset": 204,
+          "length": 543,
+          "type": "blockquote"
+        },
+        {
+          "offset": 833,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/aplodboy12bot?start=get_xyjnynhrtdwytdia"
+        },
+        {
+          "offset": 860,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 877,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 900,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 900,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 900,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.ufovpn.connect.velnet"
+      }
     }
   ]
 }
