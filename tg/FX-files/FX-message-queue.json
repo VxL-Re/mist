@@ -28144,6 +28144,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1837,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779883026,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHLWoW3BKtMYPvHVhhwVv4syBLB0XWAAJ6DmsbUAewUK1iuqAwQHyxAQADAgADcwADOwQ",
+          "file_unique_id": "AQADeg5rG1AHsFB4",
+          "file_size": 804,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHLWoW3BKtMYPvHVhhwVv4syBLB0XWAAJ6DmsbUAewUK1iuqAwQHyxAQADAgADbQADOwQ",
+          "file_unique_id": "AQADeg5rG1AHsFBy",
+          "file_size": 9597,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHLWoW3BKtMYPvHVhhwVv4syBLB0XWAAJ6DmsbUAewUK1iuqAwQHyxAQADAgADeAADOwQ",
+          "file_unique_id": "AQADeg5rG1AHsFB9",
+          "file_size": 36083,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHLWoW3BKtMYPvHVhhwVv4syBLB0XWAAJ6DmsbUAewUK1iuqAwQHyxAQADAgADeQADOwQ",
+          "file_unique_id": "AQADeg5rG1AHsFB-",
+          "file_size": 50830,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "ℹ️ #Iran's internet connectivity has now been in a state of restoration for 24 hours. Service remains heavily filtered, with new restrictions on messaging and app stores compared to pre-January. Calls for a free and open internet transcend political divisions and should be heard.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 3,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
