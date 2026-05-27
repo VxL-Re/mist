@@ -29673,6 +29673,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1869,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779908261,
+      "text": "پیشنهادم اینه از ایرانسل و رایتل استفاده کنید برای کانفیگ های رایگان\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
