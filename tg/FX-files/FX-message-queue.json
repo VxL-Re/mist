@@ -31721,6 +31721,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1915,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779974951,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHe2oYQycAARQBWhBcHK0UZZdQcnd0vgACSQ5rG_UpwVCSL2q4oGkPCwEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADSQ5rG_UpwVB4",
+          "file_size": 1726,
+          "width": 90,
+          "height": 53
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHe2oYQycAARQBWhBcHK0UZZdQcnd0vgACSQ5rG_UpwVCSL2q4oGkPCwEAAwIAA20AAzsE",
+          "file_unique_id": "AQADSQ5rG_UpwVBy",
+          "file_size": 22507,
+          "width": 320,
+          "height": 187
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHe2oYQycAARQBWhBcHK0UZZdQcnd0vgACSQ5rG_UpwVCSL2q4oGkPCwEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADSQ5rG_UpwVB9",
+          "file_size": 84418,
+          "width": 800,
+          "height": 467
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHe2oYQycAARQBWhBcHK0UZZdQcnd0vgACSQ5rG_UpwVCSL2q4oGkPCwEAAwIAA3kAAzsE",
+          "file_unique_id": "AQADSQ5rG_UpwVB-",
+          "file_size": 106700,
+          "width": 1279,
+          "height": 746
+        }
+      ],
+      "caption": "Surfshark  ❤️  سورفشارک\n\n⌛ 2 ماهه\n📧 روی ایمیل شخصی شما\n✅ کاملاً قانونی و رسمی\n🔄 گارانتی تا آخرین روز\n💰 قیمت: ۲ میلیون تومان\n\nبرای خرید به بات زیر مراجعه کنید\n\n🤖 @GhoflShekan_robot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 126,
+          "type": "blockquote"
+        },
+        {
+          "offset": 165,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
