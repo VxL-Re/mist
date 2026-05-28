@@ -31794,6 +31794,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1916,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779975731,
+      "text": "دوستان این تبلیغات نیست این مال دوستمون واحده و پرداخت ارزیه و قانونیش هست که تا روز اخرش اکانت براتون میمونه\n\nخوبیش چیه؟ 10 نفری 15 نفری شریک شین با خانواده و دوستان مورد اعتماد رو یه ایمیل بخرید با خیال راحت همه باهم استفاده کنید\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 111,
+          "length": 120,
+          "type": "blockquote"
+        },
+        {
+          "offset": 232,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
