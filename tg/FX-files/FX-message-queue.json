@@ -31233,6 +31233,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1906,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779966130,
+      "text": "📣اطلاعیه \n\nاکسپرس وی پی ان یک ساله هم موجود شد\n\nلیست سرور های متصل همراه اول اکسپرس وی پی ان \n\n🇲🇪 Montenegro\n🇲🇨 Monaco\n🇲🇹 Malta\n🇱🇹 Lithuania\n🇯🇪 Jersey\n🇮🇲 Isle of Man\n🇬🇺 Guam\n🇬🇱 Greenland\n🇬🇷 Greece\n🇪🇪 Estonia\n🇩🇴 Dominican Republic\n🇧🇦 Bosnia and Herzegovina\n🇦🇿 Azerbaijan\n🇦🇲 Armenia\n🇨🇷 Costa Rica\n🇪🇸 Spain_Valencia\n🇩🇪 Germany_Europe\n🇩🇪 Germany_Berlin\n🇬🇧 United Kingdom_Manchester\n\nممکن است منطقه ای باشه اتصال ما در مورد اتصال تضمینی نمیدیم ولی در مورد سالم بودن اکانت ضمانت برگشت وجه هم دارید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 534,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 548,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 564,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 595,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 595,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 595,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
