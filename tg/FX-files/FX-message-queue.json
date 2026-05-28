@@ -31454,6 +31454,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1910,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779970091,
+      "text": "Ping VPN\n\nرایگان و بدون محدودیت\n\nhttps://play.google.com/store/apps/details?id=com.pingsecure.client.app\n\nمتصل با همه اینترنت ها\nهمراه اول آلمان تست شده\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 10,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 33,
+          "length": 71,
+          "type": "url"
+        },
+        {
+          "offset": 154,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 167,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.pingsecure.client.app"
+      }
     }
   ]
 }
