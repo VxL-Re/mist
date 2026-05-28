@@ -32608,6 +32608,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1928,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779994512,
+      "text": "🚨🚨💣🇧🇷 فووووری گلوبو برزیل: ممکنه نیمار از فهرست جام جهانی خط بخوره؛ فدراسیون برزیل باید تا دوشنبه تصمیم بگیره که آیا نیمار تو لیست برزیل واسه جام جهانی بمونه یا نه! \n\n🔴 اگه این بازیکن خط بخوره، باید یه گزارش نوشته بشه که نشون بده اون شرایط بازی کردن تو این رقابت‌ها رو نداره.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 283,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 296,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 322,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 322,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 322,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
