@@ -31284,6 +31284,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1907,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779966790,
+      "text": "🔰Sprint VPN🔰\n\n🔎 GooglePlayLink\n\n💡1.2.5 | #VPN\n \n\nⓂ️ نسخه vip شده\n\n◈اشتراک پریمیوم فعال شده👑✓\n◈حذف تبلیغات برنامه✓\n◈ حذف فایل‌های اضافه✓\n\n✪ معماری: arm64-v8\n\nتوضیحات درباره برنامه:\nوی‌پی‌ان سریع و امن برای مرور خصوصی و روان\n\nبا Sprint VPN از یک اتصال VPN امن، سریع و آسان لذت ببرید. ۱۰۰٪ رایگان، بدون محدودیت زمانی یا داده و بدون نیاز به ثبت نام. خصوصی بمانید، با خیال راحت مرور کنید و با اطمینان به اینترنت دسترسی داشته باشید.\n\nSprint VPN به گونه‌ای طراحی شده است که ابزار حفظ حریم خصوصی و اتصال شما باشد. چه از Wi-Fi عمومی استفاده کنید و چه از داده تلفن همراه، Sprint VPN اتصال اینترنت شما را پایدار و محافظت شده نگه می‌دارد.\n\n🌐 ویژگی‌های کلیدی\n🔄 رایگان برای استفاده. بدون محدودیت زمانی\n📱 اتصال با یک لمس. رابط کاربری تمیز و بصری\n🚀 سرورهای بسیار سریع\n🔐 رمزگذاری قوی برای مرور ایمن\n🧠 پیشنهادات هوشمند سرور برای بهترین سرعت\n🚫 بدون نیاز به ثبت نام یا اطلاعات شخصی\n🚫 بدون ثبت نام، تضمین حریم خصوصی\n✅ قابل اعتماد در شبکه‌های Wi-Fi، LTE/4G و 5G\n\nچه به صورت آنلاین کار کنید و چه فقط برای سرگرمی در اینترنت گشت و گذار کنید، Sprint VPN اتصال شبکه شما را پایدار و محافظت شده نگه می‌دارد.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 19,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.secure.luxconnect"
+        },
+        {
+          "offset": 45,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 185,
+          "length": 907,
+          "type": "blockquote"
+        },
+        {
+          "offset": 1181,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/aplodboy12bot?start=get_gumxfqxygyfhyxhw"
+        },
+        {
+          "offset": 1210,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 1229,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 1246,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 1269,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1269,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1269,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.secure.luxconnect"
+      }
     }
   ]
 }
