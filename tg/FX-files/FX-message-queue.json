@@ -35697,6 +35697,76 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1989,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780059739,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIHxWoZjlt6vwvKPHf_gPTEFgf-DCfsAAIEDGsbh9PQRGyVka-9lNspAQADAgADcwADOwQ",
+          "file_unique_id": "AQADBAxrG4fT0ER4",
+          "file_size": 1165,
+          "width": 90,
+          "height": 56
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIHxWoZjlt6vwvKPHf_gPTEFgf-DCfsAAIEDGsbh9PQRGyVka-9lNspAQADAgADbQADOwQ",
+          "file_unique_id": "AQADBAxrG4fT0ERy",
+          "file_size": 15092,
+          "width": 320,
+          "height": 200
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIHxWoZjlt6vwvKPHf_gPTEFgf-DCfsAAIEDGsbh9PQRGyVka-9lNspAQADAgADeAADOwQ",
+          "file_unique_id": "AQADBAxrG4fT0ER9",
+          "file_size": 56025,
+          "width": 800,
+          "height": 499
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIHxWoZjlt6vwvKPHf_gPTEFgf-DCfsAAIEDGsbh9PQRGyVka-9lNspAQADAgADdwADOwQ",
+          "file_unique_id": "AQADBAxrG4fT0ER8",
+          "file_size": 80209,
+          "width": 1284,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIHxWoZjlt6vwvKPHf_gPTEFgf-DCfsAAIEDGsbh9PQRGyVka-9lNspAQADAgADeQADOwQ",
+          "file_unique_id": "AQADBAxrG4fT0ER-",
+          "file_size": 114035,
+          "width": 1280,
+          "height": 798
+        }
+      ],
+      "caption": "میگه چرا یهو ثبت‌ناممون سه برابر شده؟\nای دل غافل :)\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
