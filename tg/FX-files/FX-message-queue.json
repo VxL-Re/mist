@@ -36576,6 +36576,132 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2008,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780081703,
+      "text": "— آی‌پی تمیز و تست شده کلادفلر:\n— اگر کانفیگ‌تون کار نمی‌کنه کافیه یدونه از این آیپی‌هارو در قسمت Address جایگذاری کنید.\n\n5.10.214.56\n5.10.214.53\n5.10.214.40\n5.10.214.52\n5.10.214.44\n5.10.214.50\n5.10.213.17\n5.10.213.91\n5.10.213.97\n5.10.213.50\n5.10.213.10\n5.10.213.85\n5.10.213.6\n5.10.213.77\n5.10.213.79\n5.10.213.69\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 122,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 134,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 146,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 158,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 170,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 182,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 194,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 206,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 218,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 230,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 242,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 254,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 266,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 277,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 289,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 301,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 313,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 326,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 348,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 348,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 348,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
