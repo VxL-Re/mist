@@ -36840,6 +36840,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2012,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780086070,
+      "text": "شاهزاده رضا پهلوی:تصور کنید که فردا مدل سیلیکون ولی در سیستان و بلوچستان اجرا شود. چرا که نه؟\n\nهر چیزی که کشور نیاز داشته باشد از هوش مصنوعی گرفته تا فناوری و نوآوری می‌تواند در آنجا توسعه یابد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 195,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 208,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
