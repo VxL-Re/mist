@@ -37312,6 +37312,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2020,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780125870,
+      "text": "ایپی کلودفلر \n\n141.193.213.10\n141.193.213.11\n141.193.213.21\n141.193.213.30\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 15,
+          "length": 59,
+          "type": "blockquote"
+        },
+        {
+          "offset": 15,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 30,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 45,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 60,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
