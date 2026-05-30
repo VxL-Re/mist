@@ -558,6 +558,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2043,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780156898,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH-2obCeJJ0VxOCfjw1QR0L-Zxm0JtAAJPD2sb5rTZUOfZ7hT_1XtoAQADAgADcwADOwQ",
+          "file_unique_id": "AQADTw9rG-a02VB4",
+          "file_size": 1497,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH-2obCeJJ0VxOCfjw1QR0L-Zxm0JtAAJPD2sb5rTZUOfZ7hT_1XtoAQADAgADbQADOwQ",
+          "file_unique_id": "AQADTw9rG-a02VBy",
+          "file_size": 18456,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH-2obCeJJ0VxOCfjw1QR0L-Zxm0JtAAJPD2sb5rTZUOfZ7hT_1XtoAQADAgADeAADOwQ",
+          "file_unique_id": "AQADTw9rG-a02VB9",
+          "file_size": 55534,
+          "width": 736,
+          "height": 414
+        }
+      ],
+      "caption": "🇪🇺لینک‌های پخش زنده فینال لیگ قهرمانان اروپا:\n\nلینک 1 (آپارات اسپرت)\n\nلینک 2 (آنتن)\n\nلینک 3 (گزارش عربی)\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 49,
+          "length": 20,
+          "type": "text_link",
+          "url": "https://www.aparatsport.ir/m/Xmkf83d9CBF17DB"
+        },
+        {
+          "offset": 72,
+          "length": 12,
+          "type": "text_link",
+          "url": "https://www.anten.ir/football/171648/فوتبال-پاری-سن-ژرمن-آرسنال-(گزارش-حسین-علیرضایی)"
+        },
+        {
+          "offset": 87,
+          "length": 18,
+          "type": "text_link",
+          "url": "https://www.anten.ir/football/171651/فوتبال-پاری-سن-ژرمن-آرسنال-(گزارش-عربی)"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
