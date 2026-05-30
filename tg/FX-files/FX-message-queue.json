@@ -37810,6 +37810,42 @@
       "link_preview_options": {
         "url": "https://t.me/madvpnbbot?start=HJKDR3"
       }
+    },
+    {
+      "message_id": 2030,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780146635,
+      "text": "دوستانی ک خرید کردن ازما \nسرویس در حال بروز‌سانی. هستن \nبزودی 😍سرعت بیشتر و لوکیشن بیشتر\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
