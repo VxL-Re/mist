@@ -37378,6 +37378,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2021,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780126170,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH5Woakdq92k78HX_Ai34vfY1cBzZeAALJDmsbXH3RUH72rZrBhFmlAQADAgADcwADOwQ",
+          "file_unique_id": "AQADyQ5rG1x90VB4",
+          "file_size": 746,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH5Woakdq92k78HX_Ai34vfY1cBzZeAALJDmsbXH3RUH72rZrBhFmlAQADAgADbQADOwQ",
+          "file_unique_id": "AQADyQ5rG1x90VBy",
+          "file_size": 9554,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH5Woakdq92k78HX_Ai34vfY1cBzZeAALJDmsbXH3RUH72rZrBhFmlAQADAgADeAADOwQ",
+          "file_unique_id": "AQADyQ5rG1x90VB9",
+          "file_size": 37096,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH5Woakdq92k78HX_Ai34vfY1cBzZeAALJDmsbXH3RUH72rZrBhFmlAQADAgADeQADOwQ",
+          "file_unique_id": "AQADyQ5rG1x90VB-",
+          "file_size": 59569,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "واییی مرسی همین الان دیجی کالا جواب پیام محترمانه مو رو با کد تخفیف 100 هزار تومنی داد ایول\nبازم نمیخرم\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 92,
+          "length": 11,
+          "type": "spoiler"
+        },
+        {
+          "offset": 104,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 127,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 127,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 127,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
