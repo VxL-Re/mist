@@ -4237,6 +4237,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2121,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780248176,
+      "text": "ایران اینترنشنال : رئیس جمهور پزشکیان بخاطر تسلط گسترده ی سپاه پاسداران به بخشای مختلف کشور،طی نامه‌ای به رهبر جدید جمهوری اسلامی درخواست استعفا داد.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
