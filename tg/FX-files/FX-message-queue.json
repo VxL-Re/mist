@@ -2191,6 +2191,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2078,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780213124,
+      "poll": {
+        "id": "5825800194138047320",
+        "question": "سرور اقتصادی بیارم سه سروره 100گیگ \nبا حجم دلخواه خودتون \nگیگی10هزار تومان",
+        "options": [
+          {
+            "persistent_id": "0",
+            "text": "اره",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "1",
+            "text": "نه نمیخاد",
+            "voter_count": 0
+          }
+        ],
+        "total_voter_count": 0,
+        "is_closed": false,
+        "is_anonymous": true,
+        "allows_multiple_answers": true,
+        "allows_revoting": true,
+        "members_only": false,
+        "type": "regular",
+        "description": "• Sent via TeleFeed",
+        "description_entities": [
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "text_link",
+            "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "bold"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "underline"
+          }
+        ]
+      }
     }
   ]
 }
