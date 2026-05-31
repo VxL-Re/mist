@@ -2839,6 +2839,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2093,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780226085,
+      "text": "نسخه آیفون و اندروید داره کم کم به فکر نصب کردنش باشید کانفیگ های نپستر فعال میمونن همچنان..\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 92,
+          "type": "bold"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
