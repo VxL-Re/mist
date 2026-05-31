@@ -2283,6 +2283,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2080,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780213244,
+      "text": "سرور اقتصادی \nهم 100گیگ شارژ کردیم \nگیگی 10هزاررتومان \n\n\nبدون محدودیت کاربر \n\nهمراه با تست \n\nکسی خواست پیام بده \n\nایدی\n@amirasali80\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 119,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
