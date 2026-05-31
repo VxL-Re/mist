@@ -4514,6 +4514,95 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2128,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780251237,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIUGocemVl0DdL2xWCJ-_dBLfEvP9GAAJ6EGsbCn3hUPrRwFmDslviAQADAgADcwADOwQ",
+          "file_unique_id": "AQADehBrGwp94VB4",
+          "file_size": 1677,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIUGocemVl0DdL2xWCJ-_dBLfEvP9GAAJ6EGsbCn3hUPrRwFmDslviAQADAgADbQADOwQ",
+          "file_unique_id": "AQADehBrGwp94VBy",
+          "file_size": 20486,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIUGocemVl0DdL2xWCJ-_dBLfEvP9GAAJ6EGsbCn3hUPrRwFmDslviAQADAgADeAADOwQ",
+          "file_unique_id": "AQADehBrGwp94VB9",
+          "file_size": 80660,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIUGocemVl0DdL2xWCJ-_dBLfEvP9GAAJ6EGsbCn3hUPrRwFmDslviAQADAgADeQADOwQ",
+          "file_unique_id": "AQADehBrGwp94VB-",
+          "file_size": 112959,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "Seek VPN\n\nتست شده با سامانتل\n\nUser:rexixib404@alf5.com\n\nPass:@Error404Bin\n\nدانلود\nاکانت 5 کاربرس\nهرکسی زودتر چنج زد نوش جونش❤️\nبعد چنج شات بندازید تا حذف نشه\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 30,
+          "length": 24,
+          "type": "url"
+        },
+        {
+          "offset": 61,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 75,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.seekvpn.proxy.secure"
+        },
+        {
+          "offset": 159,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 172,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
