@@ -5124,6 +5124,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2141,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780299418,
+      "text": "hysteria2://Masir_Sefid@18.194.238.82:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AB_%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9D..%40Error404Bin\n\nمخصوص گیم و بگردی \nتست کنید نتیجه بگید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 271,
+          "type": "code"
+        },
+        {
+          "offset": 313,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 326,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 348,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 348,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 348,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
