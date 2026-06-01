@@ -5295,6 +5295,67 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2145,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780307818,
+      "text": "📌اگر اشتراک شکن دارید وارد پنل کاربری خود شده اعلام آیپی بزنید\nو برگردید درقسمت setting بخش DNS خصوصی آدرس:\n\npro.shecan.ir\n\nتایپ کرده و انتخاب کنید حالا می‌توانید از بازی های آنلاین نظیر پابجی موبایل با پینگ عالی لذت ببرید\n\nنکته: حدالامکان از نسخه اپلیکیشن برنامه استفاده نکنید\n\nبرای سایر استفاده ها وارد همین بخش شده و DNS را روی حالت Automatic بذارید تا فیلترشکن هاتون بدرستی کار کنن\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 13,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 225,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 388,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 401,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 423,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 423,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 423,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
