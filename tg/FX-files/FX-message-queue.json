@@ -5643,6 +5643,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2150,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780320418,
+      "text": "تخفیف ها رو به پایانه خریدی داشتید انجام بدید\nبه لیست Windscribe VPN\nپرو معمولی و تیم هم اضافه میشه و قیمت اعلام میکنیم.\nلطفا توی پی وی سوالی راجبش نپرسید موجود بشه تو چنل اعلام میکنیم.🙏🏻❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
