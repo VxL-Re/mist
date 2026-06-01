@@ -5719,6 +5719,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2152,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780329359,
+      "text": "trojan://humanity@198.62.62.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40Error404Bin....humanity\n\nمتصل \nبزنید تموم نتا متصلع \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 173,
+          "type": "code"
+        },
+        {
+          "offset": 203,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 216,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
