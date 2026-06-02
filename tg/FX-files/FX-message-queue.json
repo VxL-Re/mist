@@ -7574,6 +7574,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2191,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780391401,
+      "text": "vless://81a1e8f2-3b97-41e5-8c60-7d7d1576e028@185.92.181.217:80?mode=auto&path=%2Fmohraz&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=SqXIQC6Q68_mpLX_JVFXLHwCeSLHpyk5JhKvrd1P7DA&host=185.92.181.217&fp=chrome&type=xhttp&sni=www.nvidia.com&sid=bbe112#ArchiveTell..https%3A%2F%2Ft.me%2FError404Bin\n\n۵۰۰گیگ \nنوش جان❤️😘\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 417,
+          "type": "code"
+        },
+        {
+          "offset": 439,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 452,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 474,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 474,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 474,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
