@@ -9072,6 +9072,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2222,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780423736,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIrmofHDjUD7LzWn2yKZADNSCMgEtcAAIoEGsbRsr4ULaMTnRSwB6kAQADAgADcwADOwQ",
+          "file_unique_id": "AQADKBBrG0bK-FB4",
+          "file_size": 1733,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIrmofHDjUD7LzWn2yKZADNSCMgEtcAAIoEGsbRsr4ULaMTnRSwB6kAQADAgADbQADOwQ",
+          "file_unique_id": "AQADKBBrG0bK-FBy",
+          "file_size": 28680,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIrmofHDjUD7LzWn2yKZADNSCMgEtcAAIoEGsbRsr4ULaMTnRSwB6kAQADAgADeAADOwQ",
+          "file_unique_id": "AQADKBBrG0bK-FB9",
+          "file_size": 135153,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIrmofHDjUD7LzWn2yKZADNSCMgEtcAAIoEGsbRsr4ULaMTnRSwB6kAQADAgADeQADOwQ",
+          "file_unique_id": "AQADKBBrG0bK-FB-",
+          "file_size": 284638,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "خب چالش داریم\n\nچالش اکانت 31روزه ساندکلاد موزیک پرمیوم\n\n🎵SoundClude Go Plus \n\nبین اعداد 1تا عدد99فقط یک عدد بذارید رندوم به یک نفر اکانت تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 201,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 214,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 236,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 236,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 236,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
