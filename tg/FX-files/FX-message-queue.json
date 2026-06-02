@@ -9031,6 +9031,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2221,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780421762,
+      "text": "پلن یک ماهه Starter سورف شارک 18دلاری ،پرداختی روی ایمیل شخصی شما ماهانه با دسترسی کل اکانت فقط تا امشب باتخفیف 500ت هست\nبزودی افزایش قیمت خواهیم داشت پس اگه خریدی دارید زودتر اقدام کنید.🙏🏻❤️\n@AlirezaSpeed\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 194,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
