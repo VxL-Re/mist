@@ -7661,6 +7661,111 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2193,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780392421,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIkWoeoeXZH642wCJbOAymm7FF181YAALUDmsbswrwUAPSYEJte3jvAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD1A5rG7MK8FB4",
+          "file_size": 1428,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIkWoeoeXZH642wCJbOAymm7FF181YAALUDmsbswrwUAPSYEJte3jvAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD1A5rG7MK8FBy",
+          "file_size": 19306,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIkWoeoeXZH642wCJbOAymm7FF181YAALUDmsbswrwUAPSYEJte3jvAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD1A5rG7MK8FB9",
+          "file_size": 84164,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIkWoeoeXZH642wCJbOAymm7FF181YAALUDmsbswrwUAPSYEJte3jvAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD1A5rG7MK8FB-",
+          "file_size": 184383,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIkWoeoeXZH642wCJbOAymm7FF181YAALUDmsbswrwUAPSYEJte3jvAQADAgADdwADOwQ",
+          "file_unique_id": "AQAD1A5rG7MK8FB8",
+          "file_size": 239859,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Windscribe VPN\n\n10 Gig Auto\n\nusername: Error404Bin11\n\nusername: Error404Bin12\n\n\nPassword:@Erro404Bin\n\n✅متصل با همه اینترنت ها\n\nآموزش اتصال\n\nلایک و شات فراموش نشه🌹\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 14,
+          "type": "bold"
+        },
+        {
+          "offset": 29,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 54,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 80,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 89,
+          "length": 11,
+          "type": "mention"
+        },
+        {
+          "offset": 165,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 178,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
