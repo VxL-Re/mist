@@ -9530,6 +9530,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2231,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780433943,
+      "text": "vless://b9dccdab-0f77-4fb7-8949-4d378e92df5c@cdn4.greewebservices.ir:2095?encryption=none&host=turpanel2cdn.consolegamenet.ir&path=%2F&security=none&type=httpupgrade#odin_club\nترکیه\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 175,
+          "type": "code"
+        },
+        {
+          "offset": 182,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 195,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
