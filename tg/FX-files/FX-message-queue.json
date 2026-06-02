@@ -7263,6 +7263,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2186,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780390081,
+      "video": {
+        "duration": 15,
+        "width": 720,
+        "height": 1280,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgiKah6YwYSFSVZRxDckpAynaDkZ3LwAAhcgAAKypfFQXq6ougORTrgBAAdtAAM7BA",
+          "file_unique_id": "AQADFyAAArKl8VBy",
+          "file_size": 7768,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgiKah6YwYSFSVZRxDckpAynaDkZ3LwAAhcgAAKypfFQXq6ougORTrgBAAdtAAM7BA",
+          "file_unique_id": "AQADFyAAArKl8VBy",
+          "file_size": 7768,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIIimoemMGEhUlWUcQ3JKQMp2g5Gdy8AAIXIAACsqXxUF6uqLoDkU64OwQ",
+        "file_unique_id": "AgADFyAAArKl8VA",
+        "file_size": 2368675
+      },
+      "caption": "🔴 صبح امروز دانش آموزایی که مخالف تاثیر قطعی معدل تو کنکور بودن جلوی وزارت آموزش و پرورش جمع شد و شعار دانش آموز داد بزن حقتو فریاد بزن سر دادن :\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 147,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 160,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
