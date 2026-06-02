@@ -9145,6 +9145,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2223,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780430042,
+      "text": "🚨 فوری؛ آمریکا چهار صرافی بزرگ ایرانی نوبیتکس، بیت‌پین، رمزینکس و والکس رو تحریم کرد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 87,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 100,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
