@@ -9278,6 +9278,62 @@
       "link_preview_options": {
         "url": "https://t.me/PingSnapBot?start=686628907"
       }
+    },
+    {
+      "message_id": 2226,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780430582,
+      "text": "vless://masir_sefid@65.109.190.91:443?security=reality&encryption=none&pbk=LULZ1678G4Z7pO3-JmdfHG323TbTjwNK_h-VezivT0c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=6ba85179e30d4fc2#asali\n\nسرور ویتوری \nبزنید حتی گیمم جوابه تست کردم \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 229,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 229,
+          "type": "code"
+        },
+        {
+          "offset": 275,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 288,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 310,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 310,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 310,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
