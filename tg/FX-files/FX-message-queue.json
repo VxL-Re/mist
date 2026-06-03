@@ -12564,6 +12564,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2297,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780482489,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAII-WogAbkFJu7kNyYih1NeOKZkUmWFAALHDGsbzRIBRWub5BhcsUlYAQADAgADcwADOwQ",
+          "file_unique_id": "AQADxwxrG80SAUV4",
+          "file_size": 1484,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAII-WogAbkFJu7kNyYih1NeOKZkUmWFAALHDGsbzRIBRWub5BhcsUlYAQADAgADbQADOwQ",
+          "file_unique_id": "AQADxwxrG80SAUVy",
+          "file_size": 17171,
+          "width": 240,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAII-WogAbkFJu7kNyYih1NeOKZkUmWFAALHDGsbzRIBRWub5BhcsUlYAQADAgADeAADOwQ",
+          "file_unique_id": "AQADxwxrG80SAUV9",
+          "file_size": 64504,
+          "width": 600,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAII-WogAbkFJu7kNyYih1NeOKZkUmWFAALHDGsbzRIBRWub5BhcsUlYAQADAgADeQADOwQ",
+          "file_unique_id": "AQADxwxrG80SAUV-",
+          "file_size": 73539,
+          "width": 704,
+          "height": 939
+        }
+      ],
+      "caption": "فوری، کاملا واقعی، ترامپ: آتش بس هنوز سرجاشه و مذاکرات در جریانه. احتمالا بزودی با آیت الله(مجتبی خامنه‌ای) دیدار کنم!\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
