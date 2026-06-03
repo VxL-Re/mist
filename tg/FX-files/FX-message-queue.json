@@ -13837,6 +13837,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2324,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780528806,
+      "video": {
+        "duration": 23,
+        "width": 480,
+        "height": 852,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgkUaiC2ppxMGjPihDbIC_pvRxIK3pAAAtIcAAKhYQhRAAFNkp7eUPJ4AQAHbQADOwQ",
+          "file_unique_id": "AQAD0hwAAqFhCFFy",
+          "file_size": 12638,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgkUaiC2ppxMGjPihDbIC_pvRxIK3pAAAtIcAAKhYQhRAAFNkp7eUPJ4AQAHbQADOwQ",
+          "file_unique_id": "AQAD0hwAAqFhCFFy",
+          "file_size": 12638,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIJFGogtqacTBoz4oQ2yAv6b0cSCt6QAALSHAACoWEIUQABTZKe3lDyeDsE",
+        "file_unique_id": "AgAD0hwAAqFhCFE",
+        "file_size": 1221196
+      },
+      "caption": "واکنش شهبازی مادرجنده به خبرایی که ازش اومده\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 45,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 58,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
