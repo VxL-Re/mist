@@ -12797,6 +12797,67 @@
       "link_preview_options": {
         "url": "https://t.me/PingChiBot?start=686628907"
       }
+    },
+    {
+      "message_id": 2301,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780484284,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAII_WogCLzPoDjKUCyE02Qn4alFUGqMAAIxDWsbuZUAAUVwejLom60uuQEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADMQ1rG7mVAAFFeA",
+          "file_size": 559,
+          "width": 90,
+          "height": 33
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAII_WogCLzPoDjKUCyE02Qn4alFUGqMAAIxDWsbuZUAAUVwejLom60uuQEAAwIAA20AAzsE",
+          "file_unique_id": "AQADMQ1rG7mVAAFFcg",
+          "file_size": 4049,
+          "width": 320,
+          "height": 116
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAII_WogCLzPoDjKUCyE02Qn4alFUGqMAAIxDWsbuZUAAUVwejLom60uuQEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADMQ1rG7mVAAFFfQ",
+          "file_size": 9846,
+          "width": 720,
+          "height": 262
+        }
+      ],
+      "caption": "🚀فروش اکانت وینداسکرایب❤️\nفول اکانت پرمیوم❤️ ۱۲ساله🚀\n\n🔤دسترسی کامل به تمام سرورها\n🔤سرعت بالا و پایدار\n🔤مناسب اندروید و آی او اس و ویندوز\n\nقیمت: ۱۰ میلیون\n\n✉️جهت خرید:\n👨‍💻@qatel_seryalei\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 177,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
