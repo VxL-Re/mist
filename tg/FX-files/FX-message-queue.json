@@ -16354,6 +16354,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2377,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780601805,
+      "text": "اوه الچاپو رو ناراحت کردین یه عده واقعا قدرنشناسی تو خون شونه همه واکنش بازن هر کسی مطابق با شخصیت ش واکنش میزنه دیگه\nیاسینم کمک منو نخواست ولی حلش میکنیم گفت برای 100 کاربر اکانت هوش مصنوعی زدم ولی موز میزارند رو پست ام \n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 118,
+          "length": 103,
+          "type": "blockquote"
+        },
+        {
+          "offset": 222,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 245,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 245,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 245,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
