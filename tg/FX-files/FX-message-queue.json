@@ -14210,6 +14210,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2332,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780558987,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJHGohLIuxu5xLYod7LaHqL-OLbzZ9AAI-DWsb8ToIUUlPWspMoHS1AQADAgADcwADOwQ",
+          "file_unique_id": "AQADPg1rG_E6CFF4",
+          "file_size": 990,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJHGohLIuxu5xLYod7LaHqL-OLbzZ9AAI-DWsb8ToIUUlPWspMoHS1AQADAgADbQADOwQ",
+          "file_unique_id": "AQADPg1rG_E6CFFy",
+          "file_size": 10682,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJHGohLIuxu5xLYod7LaHqL-OLbzZ9AAI-DWsb8ToIUUlPWspMoHS1AQADAgADeAADOwQ",
+          "file_unique_id": "AQADPg1rG_E6CFF9",
+          "file_size": 37370,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJHGohLIuxu5xLYod7LaHqL-OLbzZ9AAI-DWsb8ToIUUlPWspMoHS1AQADAgADeQADOwQ",
+          "file_unique_id": "AQADPg1rG_E6CFF-",
+          "file_size": 61523,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه \n\nاکسپرس وی پی ان متصل برای همراه اول پروتکل lightwayudp\nلوکیشن ازبکستان\n\nایرانسل متصل روی لوکیشن برلین المان\n\nشاتل لوکیشن فرانسه\n\nجهت خرید اکانت کرکی میتونید به پشتيبانی پیام بدین\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 194,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 208,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 224,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
