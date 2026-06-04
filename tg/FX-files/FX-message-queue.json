@@ -16219,6 +16219,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2374,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780600545,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIJRmohzuHHm15ST-PlO2Uf2zps1Av7AAKjDGsbZ00QRWu2pQ_XjPfhAQADAgADcwADOwQ",
+          "file_unique_id": "AQADowxrG2dNEEV4",
+          "file_size": 931,
+          "width": 90,
+          "height": 56
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIJRmohzuHHm15ST-PlO2Uf2zps1Av7AAKjDGsbZ00QRWu2pQ_XjPfhAQADAgADbQADOwQ",
+          "file_unique_id": "AQADowxrG2dNEEVy",
+          "file_size": 9217,
+          "width": 320,
+          "height": 199
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIJRmohzuHHm15ST-PlO2Uf2zps1Av7AAKjDGsbZ00QRWu2pQ_XjPfhAQADAgADeQADOwQ",
+          "file_unique_id": "AQADowxrG2dNEEV-",
+          "file_size": 31768,
+          "width": 960,
+          "height": 597
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIJRmohzuHHm15ST-PlO2Uf2zps1Av7AAKjDGsbZ00QRWu2pQ_XjPfhAQADAgADeAADOwQ",
+          "file_unique_id": "AQADowxrG2dNEEV9",
+          "file_size": 38451,
+          "width": 800,
+          "height": 497
+        }
+      ],
+      "caption": "چخبر\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 17,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 17,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 17,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
