@@ -15333,6 +15333,70 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2355,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780583325,
+      "media_group_id": "14244666601992916",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJM2ohi5181ddn4GqW0U8FnYmu_JkYAALqDmsbPl0RUSisaiAtlQABDAEAAwIAA3MAAzsE",
+          "file_unique_id": "AQAD6g5rGz5dEVF4",
+          "file_size": 2210,
+          "width": 84,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJM2ohi5181ddn4GqW0U8FnYmu_JkYAALqDmsbPl0RUSisaiAtlQABDAEAAwIAA20AAzsE",
+          "file_unique_id": "AQAD6g5rGz5dEVFy",
+          "file_size": 24806,
+          "width": 299,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJM2ohi5181ddn4GqW0U8FnYmu_JkYAALqDmsbPl0RUSisaiAtlQABDAEAAwIAA3gAAzsE",
+          "file_unique_id": "AQAD6g5rGz5dEVF9",
+          "file_size": 86683,
+          "width": 747,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJM2ohi5181ddn4GqW0U8FnYmu_JkYAALqDmsbPl0RUSisaiAtlQABDAEAAwIAA3kAAzsE",
+          "file_unique_id": "AQAD6g5rGz5dEVF-",
+          "file_size": 137831,
+          "width": 1080,
+          "height": 1156
+        }
+      ],
+      "caption": "امروز‌ محسن رضایی تنها سردار سپاه بود که تو مراسم شرکت کرده بود.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
