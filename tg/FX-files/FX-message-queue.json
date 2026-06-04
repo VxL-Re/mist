@@ -16282,6 +16282,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2375,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780600605,
+      "text": "من که پست رو پاک کردم ، گیر نبود نمیذاشتم که توی کو...نی بدردنخور مفت خور بیای🖕آلت کاربردی خاندانت رو بذاری زیر پست ❤️ حلالت ولی بعضی چیزا باعث میشه ادم به خودش بیاد\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
