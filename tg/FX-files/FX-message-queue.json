@@ -15015,6 +15015,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2348,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780575788,
+      "text": "بخاطر من لاشی میخوای پول بگیری خو بگیر چرا اسم منو میاری 🥴 به من میگه عمو دوسال ازم کوچیک تره 😐چه گیری کردیم عرفان از یه طرف مهدی از یه طرف  یه دقیقه کاربرا ول کنید بابا کی به اینا سرور فروختن یاد داد کاش شیره فروختن یاد میداد\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 229,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
