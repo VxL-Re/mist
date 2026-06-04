@@ -14288,6 +14288,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2333,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780560307,
+      "text": "📣اطلاعیه\n\nبات روشن شد\n\nتعدادی از سرویس های قدیمی هم فعال شد\n\nلطفا یک بار لینک ساب رو اپدیت کنید\n\nبه زودی سرور های بیشتری به ساب اضافه خواهد شد \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 148,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 162,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 178,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
