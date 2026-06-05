@@ -17649,6 +17649,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2403,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780660666,
+      "text": "دوستان عزیز اگه از این به بعد خواستید برنامه ایی از کانالم نصب کنید ارور ویروس بودن داد بخاطر مبهم سازی برنامه که چندتا کانال بزرگ که اسمم نمیبرم کپی برداری نکن و بدون پست بمونه کانالشون 😂😁\n\n#Mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 193,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
