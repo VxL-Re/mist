@@ -18242,6 +18242,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2416,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780675127,
+      "video": {
+        "duration": 48,
+        "width": 1280,
+        "height": 576,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAglwaiLyN03EcPDLYvULiRChllCryQgAAg4fAAIY7BlR8hZ_v4fim7kBAAdtAAM7BA",
+          "file_unique_id": "AQADDh8AAhjsGVFy",
+          "file_size": 13628,
+          "width": 320,
+          "height": 144
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAglwaiLyN03EcPDLYvULiRChllCryQgAAg4fAAIY7BlR8hZ_v4fim7kBAAdtAAM7BA",
+          "file_unique_id": "AQADDh8AAhjsGVFy",
+          "file_size": 13628,
+          "width": 320,
+          "height": 144
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIJcGoi8jdNxHDwy2L1C4kQoZZQq8kIAAIOHwACGOwZUfIWf7-H4pu5OwQ",
+        "file_unique_id": "AgADDh8AAhjsGVE",
+        "file_size": 15290639
+      },
+      "caption": "تست گیم سرورای \nگیم و وبگردی مون توی پابجی موبایل \n😁با نت سامانتل\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 79,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 79,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 79,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
