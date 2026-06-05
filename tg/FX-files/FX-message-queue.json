@@ -18846,6 +18846,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2428,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780685207,
+      "text": "🚀 بات فروش سرویس‌های ملی‌شکن راه‌اندازی شد!\n\nبرای خرید سریع‌تر، راحت‌تر و دریافت آنی سرویس‌ها، از این پس می‌توانید مستقیماً از طریق بات اقدام به خرید و دریافت سرویس خود کنید.\n✅ دارای بالای حداقل 10 لوکیشن\n✅ تحویل سریع و خودکار\n✅ سرویس‌های پایدار و باکیفیت\n✅ همراه با لینک Sub برای بروزرسانی آسان کانفیگ‌ها\n✅ فرآیند خرید ساده و بدون دردسر\n\n💳 روش‌های پرداخت:\n• کارت به کارت (ریالی)\n• USDT شبکه BEP20\n\nهمچنین سرویس‌های نامحدود نیز در حال آماده‌سازی هستند و طی روزهای آینده به بات اضافه خواهند شد.\n\n🤖 آیدی بات:\n@NeonPingBot\n\n⚠️ توجه: این پست تبلیغاتی نبوده و بات معرفی‌شده به‌صورت مستقیم زیر نظر مجموعه Persia Team فعالیت می‌کند و برای سهولت خرید کاربران راه‌اندازی شده است.\n\nاز اعتماد و حمایت شما سپاسگزاریم. 💙🙏🏻\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 3,
+          "length": 41,
+          "type": "bold"
+        },
+        {
+          "offset": 401,
+          "length": 94,
+          "type": "bold"
+        },
+        {
+          "offset": 500,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 510,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 728,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 728,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 728,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
