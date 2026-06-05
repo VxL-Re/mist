@@ -17777,6 +17777,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2406,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780662286,
+      "text": "🔰Potato VPN🔰\n\n🔎 GooglePlayLink\n\n💡64.0.1 | #VPN\n\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک پرمیوم فعال شده👑✓ \n◈ حذف فایل‌های اضافه✓\n◈حذف تبلیغات برنامه✓\n\n✪ معماری: arm64-v8\n\nتوضیحات درباره برنامه:\n \nپروکسی فوق العاده نامحدود ، حفاظت\nاز حریم خصوصی و سپر داده در نقطه اتصال WiFi عمومی\n\nبا سلام از خدمات سریع و پایدار VPN با PotatoVPN لذت ببرید. ما ارائه دهنده سرورها و مکان های جهانی برای استفاده به عنوان دوست دارید. اتصال و گشت و گذار خود را ایمن کنید. با PotatoVPN کاملاً ناشناس و ایمن شوید!\n\nامکانات:\n* از سرورهای 6 کشور اصلی استفاده کنید بدون هزینه （با تبلیغات) از جمله ایالات متحده ، کانادا ، انگلستان ، آلمان ، سنگاپور و هند\n* ما همچنین سرورهای ممتازی را برای انتخاب بیشتر کشورها با کیفیت بالاتر ارائه می دهیم\n* به کارتهای اعتباری لازم نیست\n* نیازی به ثبت نام یا ورود به سیستم لازم نیست\n* به صورت خودکار شما را به سریعترین سرورها متصل می کند\n* چت زنده برای پشتیبانی\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 19,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.potatovpn.free.proxy.wifi"
+        },
+        {
+          "offset": 46,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 186,
+          "length": 674,
+          "type": "blockquote"
+        },
+        {
+          "offset": 950,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/aplodboy12bot?start=get_jttehubcghezjyyu"
+        },
+        {
+          "offset": 979,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 998,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 1015,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 1038,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1038,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1038,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.potatovpn.free.proxy.wifi"
+      }
     }
   ]
 }
