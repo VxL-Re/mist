@@ -18754,6 +18754,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2426,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780684247,
+      "text": "vless://227bfce9-b5ff-4877-a81a-173368e9dc81@8.6.112.138:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn.xsora-vpn.shop&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xsora-vpn.shop#https%3A%2F%2Ft.me%2FError404Bin\n\nتست کنید حال کنید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 245,
+          "type": "code"
+        },
+        {
+          "offset": 266,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 279,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
