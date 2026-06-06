@@ -20595,6 +20595,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2461,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780746109,
+      "text": "مدیرعامل آسیاتک: اینترنت دیتاسنترها همچنان قطع است\n\nمدیرعامل شرکت آسیاتک، با اشاره به تداوم مشکلات دسترسی به شبکه در بخش‌های تخصصی، اعلام کرد که برخلاف برخی اظهارنظرها مبنی بر بازگشت وضعیت اینترنت بین‌الملل به شرایط پیش از دی‌ماه سال گذشته، دسترسی مشتریان مراکز داده (دیتاسنترها) همچنان برقرار نشده و کسب‌وکارهای اینترنتی کماکان با چالش مواجه‌اند.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 349,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 362,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
