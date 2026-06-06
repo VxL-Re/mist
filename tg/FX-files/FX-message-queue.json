@@ -20023,6 +20023,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2453,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780740830,
+      "media_group_id": "14245926641508620",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJlWoj8t7_Wm4y0sT7_whb3-JjdvBdAAKDDWsbV4shUZotiIivyOrdAQADAgADcwADOwQ",
+          "file_unique_id": "AQADgw1rG1eLIVF4",
+          "file_size": 711,
+          "width": 32,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJlWoj8t7_Wm4y0sT7_whb3-JjdvBdAAKDDWsbV4shUZotiIivyOrdAQADAgADbQADOwQ",
+          "file_unique_id": "AQADgw1rG1eLIVFy",
+          "file_size": 10959,
+          "width": 114,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJlWoj8t7_Wm4y0sT7_whb3-JjdvBdAAKDDWsbV4shUZotiIivyOrdAQADAgADeAADOwQ",
+          "file_unique_id": "AQADgw1rG1eLIVF9",
+          "file_size": 46393,
+          "width": 286,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJlWoj8t7_Wm4y0sT7_whb3-JjdvBdAAKDDWsbV4shUZotiIivyOrdAQADAgADeQADOwQ",
+          "file_unique_id": "AQADgw1rG1eLIVF-",
+          "file_size": 80597,
+          "width": 458,
+          "height": 1280
+        }
+      ],
+      "caption": "یک آنلاین شاپ بعد از چندماه خواسته فعالیت کنه و یک پست گذاشته که با اجازه مردم این کار رو انجام بده.\nیه تعداد از کامنت‌هایی که براش گذاشتن...\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 142,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 155,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
