@@ -21334,6 +21334,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2478,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780765603,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJrmokU6Mt8M5eMOIYJsvQ5IqwR0eMAAIBDmsb5HgpUS4Eah1wwm4_AQADAgADcwADOwQ",
+          "file_unique_id": "AQADAQ5rG-R4KVF4",
+          "file_size": 933,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJrmokU6Mt8M5eMOIYJsvQ5IqwR0eMAAIBDmsb5HgpUS4Eah1wwm4_AQADAgADbQADOwQ",
+          "file_unique_id": "AQADAQ5rG-R4KVFy",
+          "file_size": 11767,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJrmokU6Mt8M5eMOIYJsvQ5IqwR0eMAAIBDmsb5HgpUS4Eah1wwm4_AQADAgADeAADOwQ",
+          "file_unique_id": "AQADAQ5rG-R4KVF9",
+          "file_size": 43089,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJrmokU6Mt8M5eMOIYJsvQ5IqwR0eMAAIBDmsb5HgpUS4Eah1wwm4_AQADAgADeQADOwQ",
+          "file_unique_id": "AQADAQ5rG-R4KVF-",
+          "file_size": 67804,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "طبق گزارش‌ نت بلاکس، توی پاکستان قطعی اینترنت به وجود اومده و دسترسی خیلی از کاربرا محدود یا قطع شده\nبا این حال حدود ۱۶ درصد هنوز به اینترنت وصل هستن.\n\nیکی ویدئوهای ساخت VPN  رو قاچاق کنه پاکستان\nبدبختا نت اینا رو هم زدن اما با این وضعیتی که دارن ۴-۰ از ما جلو هستن هنوز ۱۶ درصد نت هست\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
