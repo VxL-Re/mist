@@ -21194,6 +21194,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2475,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780763210,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJq2okSkqLMkq-QSzhLNMpDtYI1YvcAAL4DmsbIvohUU-o1sMAASEglgEAAwIAA3MAAzsE",
+          "file_unique_id": "AQAD-A5rGyL6IVF4",
+          "file_size": 1481,
+          "width": 76,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJq2okSkqLMkq-QSzhLNMpDtYI1YvcAAL4DmsbIvohUU-o1sMAASEglgEAAwIAA20AAzsE",
+          "file_unique_id": "AQAD-A5rGyL6IVFy",
+          "file_size": 17900,
+          "width": 272,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJq2okSkqLMkq-QSzhLNMpDtYI1YvcAAL4DmsbIvohUU-o1sMAASEglgEAAwIAA3gAAzsE",
+          "file_unique_id": "AQAD-A5rGyL6IVF9",
+          "file_size": 73284,
+          "width": 680,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJq2okSkqLMkq-QSzhLNMpDtYI1YvcAAL4DmsbIvohUU-o1sMAASEglgEAAwIAA3kAAzsE",
+          "file_unique_id": "AQAD-A5rGyL6IVF-",
+          "file_size": 116525,
+          "width": 962,
+          "height": 1132
+        }
+      ],
+      "caption": "بیا از ۳ جا شکست باور‌نمیکنه 😂میگه باید عمل بشه پین کنی توش \nولی نمیکنم ، دکتر ارتوپد نداریم اینجا؟\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
