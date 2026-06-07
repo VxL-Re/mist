@@ -22209,6 +22209,110 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2495,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780816132,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJv2olGQQJz-cNF7PGUqxe1i_y1sYZAAJPDWsbmD0pUSheRJh81RraAQADAgADcwADOwQ",
+          "file_unique_id": "AQADTw1rG5g9KVF4",
+          "file_size": 909,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJv2olGQQJz-cNF7PGUqxe1i_y1sYZAAJPDWsbmD0pUSheRJh81RraAQADAgADbQADOwQ",
+          "file_unique_id": "AQADTw1rG5g9KVFy",
+          "file_size": 11374,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJv2olGQQJz-cNF7PGUqxe1i_y1sYZAAJPDWsbmD0pUSheRJh81RraAQADAgADeAADOwQ",
+          "file_unique_id": "AQADTw1rG5g9KVF9",
+          "file_size": 42136,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJv2olGQQJz-cNF7PGUqxe1i_y1sYZAAJPDWsbmD0pUSheRJh81RraAQADAgADeQADOwQ",
+          "file_unique_id": "AQADTw1rG5g9KVF-",
+          "file_size": 68312,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "یه ربات روسی دوستان یافتن خدا البته فعلا کسی ندارتش بگرین بدین دوستانتون \nلینک ربات گربه سیاه کلیک کنید\n پینگ عالی متصل رو اکثریت اپراتور ها\nسرور مخصوص گیم\nسرور مخصوص هوش مصنوعی\nلوکیشن های زیاد و دسترسی رایگان پرسرعت\nحجم نامحدود و 5 کاربره\nبرای دريافت ش کافیه ربات رو استارت تو صفحه بعد رو کادر قرمز میاره بزنید لینک که نیدی کپی تو برنامه \nاد کنیدHapp یا V2raytun\n\nبرای دریافت اشتراک رایگان حتما باید با معرف برید طرف گفت ایدی منو نزار لینک خودتو بگیر بزار برای حریم خصوصی (والا طوری گفت حریم خصوصی انگار عرفان می‌خوردش)\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 74,
+          "length": 29,
+          "type": "text_link",
+          "url": "https://t.me/cat_net_bot?start=7106584375"
+        },
+        {
+          "offset": 104,
+          "length": 36,
+          "type": "blockquote"
+        },
+        {
+          "offset": 153,
+          "length": 14,
+          "type": "blockquote"
+        },
+        {
+          "offset": 180,
+          "length": 21,
+          "type": "blockquote"
+        },
+        {
+          "offset": 214,
+          "length": 38,
+          "type": "blockquote"
+        },
+        {
+          "offset": 265,
+          "length": 22,
+          "type": "blockquote"
+        },
+        {
+          "offset": 473,
+          "length": 47,
+          "type": "spoiler"
+        },
+        {
+          "offset": 521,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 544,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 544,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 544,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
