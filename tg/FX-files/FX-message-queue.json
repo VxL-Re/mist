@@ -25058,6 +25058,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2553,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780859034,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJ-WolwJnigsvr4s2tkGuMI5OBMVgZAAKfDWsbHU8xUaPiJz2G_FOdAQADAgADcwADOwQ",
+          "file_unique_id": "AQADnw1rGx1PMVF4",
+          "file_size": 879,
+          "width": 90,
+          "height": 28
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJ-WolwJnigsvr4s2tkGuMI5OBMVgZAAKfDWsbHU8xUaPiJz2G_FOdAQADAgADbQADOwQ",
+          "file_unique_id": "AQADnw1rGx1PMVFy",
+          "file_size": 11755,
+          "width": 320,
+          "height": 99
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJ-WolwJnigsvr4s2tkGuMI5OBMVgZAAKfDWsbHU8xUaPiJz2G_FOdAQADAgADeAADOwQ",
+          "file_unique_id": "AQADnw1rGx1PMVF9",
+          "file_size": 44057,
+          "width": 800,
+          "height": 247
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJ-WolwJnigsvr4s2tkGuMI5OBMVgZAAKfDWsbHU8xUaPiJz2G_FOdAQADAgADeQADOwQ",
+          "file_unique_id": "AQADnw1rGx1PMVF-",
+          "file_size": 74446,
+          "width": 1280,
+          "height": 395
+        }
+      ],
+      "caption": "🔹 اختلال مجدد روی دیتاسنتر ایرانسل و همراه اول\n\nولی سرورامون \nمتصله😁یدون اختلال\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
