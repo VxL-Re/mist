@@ -23940,6 +23940,82 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2529,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780848953,
+      "text": "🔥موجود شد | اکانت VPN مطمئن🔥\n\n❤️PrivateVPN\n\nمناسب اتصال پایدار، استفاده روزمره و امنیت بیشتر\n\n❤️یک‌ماهه: ۵۰۰ هزار تومان\n❤️سه‌ماهه: ۱,۴۰۰,۰۰۰ تومان\n\n\n❤️Windscribe\n\nسرعت خوب، مناسب موبایل و کامپیوتر\n❤️یک‌ماهه فول‌کاربره: ۶۰۰ هزار تومان\n❤️یک‌ماهه تیم ۵ اکانت ۱۵ کاربر: ۲,۰۰۰,۰۰۰ تومان\n\n\n🔤تحویل سریع\n🔤کیفیت تضمینی\n🔤مناسب اندروید، آیفون و ویندوز\n\n✉️جهت خرید پیوی:\n❤️ @dont1994 ❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 26,
+          "type": "bold"
+        },
+        {
+          "offset": 34,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 107,
+          "length": 14,
+          "type": "bold"
+        },
+        {
+          "offset": 133,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 153,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 221,
+          "length": 14,
+          "type": "bold"
+        },
+        {
+          "offset": 268,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 367,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 392,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 392,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 392,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
