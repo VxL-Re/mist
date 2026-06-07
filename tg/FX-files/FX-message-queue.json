@@ -26973,6 +26973,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2597,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780861854,
+      "video": {
+        "duration": 9,
+        "width": 368,
+        "height": 496,
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 368,
+            "height": 496,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIKJWoly54-NLfMm226L-_kf_w7hvyQAAJlHwACY0ApURLtuOvpw9QvOwQ",
+            "file_unique_id": "AgADZR8AAmNAKVE",
+            "file_size": 1001493
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgolaiXLnkqYfdaEpcdd4TpdYUHbGfwAAiEgAAIBmjFRqvNQ4QybjcYBAAdtAAM7BA",
+          "file_unique_id": "AQADISAAAgGaMVFy",
+          "file_size": 4904,
+          "width": 237,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgolaiXLnkqYfdaEpcdd4TpdYUHbGfwAAiEgAAIBmjFRqvNQ4QybjcYBAAdtAAM7BA",
+          "file_unique_id": "AQADISAAAgGaMVFy",
+          "file_size": 4904,
+          "width": 237,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIKJWoly55KmH3WhKXHXeE6XWFB2xn8AAIhIAACAZoxUarzUOEMm43GOwQ",
+        "file_unique_id": "AgADISAAAgGaMVE",
+        "file_size": 1006825
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
