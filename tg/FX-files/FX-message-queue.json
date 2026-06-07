@@ -22596,6 +22596,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2502,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780831313,
+      "text": "سرویس های\nSurfshark VPN\nRed shield VPN\nWindscribe VPN\nPia VPN\nمجددا موجود شد.\nhttps://t.me/c/1554160100/1703\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 77,
+          "type": "bold"
+        },
+        {
+          "offset": 78,
+          "length": 30,
+          "type": "url"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
