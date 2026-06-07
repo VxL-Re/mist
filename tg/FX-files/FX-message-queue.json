@@ -28171,6 +28171,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2624,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780862755,
+      "text": "شبکه CNN گزارش داده است که اسرائیل خود را برای انجام یک واکنش قدرتمند و گسترده در پاسخ به حمله موشک‌های بالستیک ایران آماده می‌کند.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
