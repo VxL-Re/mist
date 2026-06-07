@@ -22173,6 +22173,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2494,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780815172,
+      "text": "خب دوستان اینجور که معلوم شد برنامه فیلمکیو داره تغییرات داخل کد نویسی میده که سمت سرور کنه متاسفانه😂\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
