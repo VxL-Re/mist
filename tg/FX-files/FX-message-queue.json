@@ -24617,6 +24617,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2544,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780856567,
+      "video": {
+        "duration": 26,
+        "width": 478,
+        "height": 270,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgnwaiW29957ZUxOqhGkCiUnaahoYxUAAsYnAAKPzTBRmy7xncnM8oEBAAdtAAM7BA",
+          "file_unique_id": "AQADxicAAo_NMFFy",
+          "file_size": 11494,
+          "width": 320,
+          "height": 181
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgnwaiW29957ZUxOqhGkCiUnaahoYxUAAsYnAAKPzTBRmy7xncnM8oEBAAdtAAM7BA",
+          "file_unique_id": "AQADxicAAo_NMFFy",
+          "file_size": 11494,
+          "width": 320,
+          "height": 181
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIJ8Goltvfee2VMTqoRpAolJ2moaGMVAALGJwACj80wUZsu8Z3JzPKBOwQ",
+        "file_unique_id": "AgADxicAAo_NMFE",
+        "file_size": 1676059
+      },
+      "caption": "🚨🚨کریستین اریکسن بازم وسط بازی با تیم ملی قلبش گرفت و افتاد رو زمین\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 71,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 84,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
