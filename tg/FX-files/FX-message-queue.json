@@ -28541,6 +28541,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2632,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780863414,
+      "text": "جهت اطلاع بعضی عزیزان \nجدیدا گوگل یه سیستمو رو‌کار آورده که اکانت گوگل شما به صورت پیش فرض روی 3 ماه قرار گرفته تا اگر بعد از ماه سوم اکتیو نشدین از دسترس خارج بشه\n\nبا این لینک می‌تونید جیمیل خودتون رو روی 18 ماه تنطیم کنید \nhttps://myaccount.google.com/inactive\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 225,
+          "length": 37,
+          "type": "url"
+        },
+        {
+          "offset": 264,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 277,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
