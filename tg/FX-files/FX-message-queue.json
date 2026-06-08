@@ -31927,6 +31927,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2706,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780915745,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKkmomniDYImFGG4P2LfMuFuzsYPVMAAK3DmsbQ80wUXDRtYyznQSvAQADAgADcwADOwQ",
+          "file_unique_id": "AQADtw5rG0PNMFF4",
+          "file_size": 1708,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKkmomniDYImFGG4P2LfMuFuzsYPVMAAK3DmsbQ80wUXDRtYyznQSvAQADAgADbQADOwQ",
+          "file_unique_id": "AQADtw5rG0PNMFFy",
+          "file_size": 26156,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKkmomniDYImFGG4P2LfMuFuzsYPVMAAK3DmsbQ80wUXDRtYyznQSvAQADAgADeAADOwQ",
+          "file_unique_id": "AQADtw5rG0PNMFF9",
+          "file_size": 105854,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKkmomniDYImFGG4P2LfMuFuzsYPVMAAK3DmsbQ80wUXDRtYyznQSvAQADAgADeQADOwQ",
+          "file_unique_id": "AQADtw5rG0PNMFF-",
+          "file_size": 183406,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "🚀 فیلترشکن V2Ray عسلی شاپ 🚀\n⚡ سرعت بالا و پایدار\n🔒 امنیت و کیفیت تضمینی\n🌐 مولتی لوکیشن\n📱 سازگار با تمامی دستگاه‌ها\n♾️ تایم  با اعتبار یک ماهه\n💰 هر گیگ فقط ۵,۰۰۰ تومان\n🎁 تست رایگان قبل از خرید\n✅ مناسب اینستاگرام، تلگرام، واتساپ، یوتیوب و وب‌گردی بدون محدودیت\n✅ پشتیبانی سریع و پاسخگو\n📩 جهت دریافت تست و خرید پیام دهید:\n@amirasali80\n\n🔥 کیفیت بالا + قیمت مناسب = عسلی شاپ 🔥\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 326,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 393,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 393,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 393,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
