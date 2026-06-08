@@ -33187,6 +33187,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2728,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780949833,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKqGonI0mIT-DiKorwLsmwwG-xOyoUAAK-Dmsb6ug5UQ08k7w4AAGS0gEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADvg5rG-roOVF4",
+          "file_size": 692,
+          "width": 90,
+          "height": 31
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKqGonI0mIT-DiKorwLsmwwG-xOyoUAAK-Dmsb6ug5UQ08k7w4AAGS0gEAAwIAA20AAzsE",
+          "file_unique_id": "AQADvg5rG-roOVFy",
+          "file_size": 5280,
+          "width": 320,
+          "height": 112
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKqGonI0mIT-DiKorwLsmwwG-xOyoUAAK-Dmsb6ug5UQ08k7w4AAGS0gEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADvg5rG-roOVF9",
+          "file_size": 15809,
+          "width": 800,
+          "height": 280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKqGonI0mIT-DiKorwLsmwwG-xOyoUAAK-Dmsb6ug5UQ08k7w4AAGS0gEAAwIAA3kAAzsE",
+          "file_unique_id": "AQADvg5rG-roOVF-",
+          "file_size": 21375,
+          "width": 1080,
+          "height": 378
+        }
+      ],
+      "caption": "🟢ایردراپ رباتی\n\n🔺ربات gramevents به ازای دعوت از ۵ نفر 3 واحد TON معادل 5.5 دلار پرداخت میکنه\n\n🔺پرداختشم تضمینیه و تست شده ولی خب استخر تونش محدوده و حدود 500 تون مونده پس بشتابید\n\n🗣️برای انجامش:\n\n🔢 کانال زیر رو اددلیست کنید:\nhttps://t.me/addlist/mT22nvZ8hHI2ZjRk\n\n🔢وارد ربات زیر بشید ، مسئله ریاضی رو حل کنید و تمام\n\nhttps://t.me/gramevents_bot?startapp=ref_40674\n🔢 لینک رفرالتون رو کپی کنید و برای بقیه بفرستید که مراحل بالارو انجام بدن (۵ نفر)\n\n🔹فقط یه نکته منفی داره اونم اینه که رفرالات هم باید حداقل یه رفرال بگیرن\n🔹شاید در ظاهر سخت باشه رفرال گرفتن ولی خب می‌ارزه\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 231,
+          "length": 37,
+          "type": "url"
+        },
+        {
+          "offset": 324,
+          "length": 46,
+          "type": "url"
+        },
+        {
+          "offset": 592,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 592,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 592,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
