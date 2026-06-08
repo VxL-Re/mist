@@ -29738,6 +29738,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2658,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780901171,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKYmomZTMk8bfJF4OR-yQzKi9MmD5TAAKHDmsbHU8xUeticwTIPjwmAQADAgADcwADOwQ",
+          "file_unique_id": "AQADhw5rGx1PMVF4",
+          "file_size": 1854,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKYmomZTMk8bfJF4OR-yQzKi9MmD5TAAKHDmsbHU8xUeticwTIPjwmAQADAgADbQADOwQ",
+          "file_unique_id": "AQADhw5rGx1PMVFy",
+          "file_size": 27901,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKYmomZTMk8bfJF4OR-yQzKi9MmD5TAAKHDmsbHU8xUeticwTIPjwmAQADAgADeAADOwQ",
+          "file_unique_id": "AQADhw5rGx1PMVF9",
+          "file_size": 144867,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKYmomZTMk8bfJF4OR-yQzKi9MmD5TAAKHDmsbHU8xUeticwTIPjwmAQADAgADeQADOwQ",
+          "file_unique_id": "AQADhw5rGx1PMVF-",
+          "file_size": 308458,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "خب چالش داریم\n\nچالش اکانت یکماهه تریدینگ ویوو پرمیوم\n\nTradingview Plus\n\nبین اعداد 1تا عددفقط یک عدد 95 فقط زیر همین بذارید رندوم به دو نفر اکانت تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 207,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 220,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
