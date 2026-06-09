@@ -33556,6 +33556,47 @@
       "link_preview_options": {
         "url": "https://t.me/addlist/IiFVViQyys81OWM0"
       }
+    },
+    {
+      "message_id": 2735,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780981993,
+      "text": "سلام دوستان \nیه ربات دیگم هس \nسرور زیاد میده \nممبرا فرستادن \n۱۷روزع \nحجم نامحدود ..مخصوص برنامه happ\nمخابرات تست کردم \nhttps://t.me/PotatoFreeVPNBot?start=ref_8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 119,
+          "length": 50,
+          "type": "url"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
