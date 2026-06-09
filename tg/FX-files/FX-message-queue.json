@@ -34153,6 +34153,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2749,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781006474,
+      "text": "بیا و خوبی کن خودش میگه هر جور خواستی قیمت بده نه یاسین جان تا 12 امشب هر کی اومد 150 بده بهش 😂😂 مثل عرفان 260 اینا خبری نی 150 که طرف عشق کنه با 300 هزار ده نفر وصل کنه نت نامحدود حجم 🥴\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
