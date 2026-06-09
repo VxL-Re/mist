@@ -35342,6 +35342,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2773,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781028915,
+      "text": "الله اکبر من کی گفتم ولش اصلا همون قیمت 260 تو هم هیچ کسی تلگرام نمیداد برای یه فیلترشکن 5 کاربر نامحدود پرسرعت اوپن تک کاربره میدن نیم میلیون🥴\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
