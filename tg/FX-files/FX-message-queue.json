@@ -34742,6 +34742,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2760,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781018414,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKyGooLy5rX6ue-DZGq3qgFAIw-1R2AAJXDmsbv4VBUQABgUkQfhKHXQEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADVw5rG7-FQVF4",
+          "file_size": 2078,
+          "width": 90,
+          "height": 84
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKyGooLy5rX6ue-DZGq3qgFAIw-1R2AAJXDmsbv4VBUQABgUkQfhKHXQEAAwIAA20AAzsE",
+          "file_unique_id": "AQADVw5rG7-FQVFy",
+          "file_size": 27056,
+          "width": 320,
+          "height": 298
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKyGooLy5rX6ue-DZGq3qgFAIw-1R2AAJXDmsbv4VBUQABgUkQfhKHXQEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADVw5rG7-FQVF9",
+          "file_size": 84196,
+          "width": 726,
+          "height": 675
+        }
+      ],
+      "caption": "🔴جزئیات جدید از فاجعه‌ای که هفته پیش تو دانشگاه قزوین، منجر به مرگ 2 نفر شد؛\n\n+ صحبت‌های مادرِ مقتول :\nدخترم سمیرا ساکی، 30 ساله و دانشجوی سال چهارم دندونپزشکی قزوین بود.\nتو سن کم با پسر عموش، حسن ساکی که اهل خوزستان بود، ازدواج کرد و جفتشون واسه ادامه تحصیل به روسیه رفتن.\nاونجا دخترم رو به شدت کتک میزد و نهايتا جفتشون دوباره به ایران برگشتن و سمیرا بلافاصله، درخواست طلاق داد.\nشوهرش روز حادثه، زنگ میزنه به خانواده‌‌اش و حلالیت میخواد ازشون و بهشون میگه که داره میره سمیرا رو با تفنگ بکشه؛ خانواده‌اش هم هیچ تماسی با دخترم نمی‌گیرن که حداقل فرار کنه!\nنهایتا وارد دانشگاه میشه و درحالی که سمیرا داشته دندون یکی رو جراحی میکرده، با 4 گلوله، دخترم رو میکشه و بعد خودکشی میکنه.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 679,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 692,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 718,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 718,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 718,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
