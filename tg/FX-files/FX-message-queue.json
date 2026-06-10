@@ -582,6 +582,69 @@
       "link_preview_options": {
         "url": "https://t.me/AtlantaVPN_bot?start=ref_8376197509"
       }
+    },
+    {
+      "message_id": 2842,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781109592,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILGmopk1gcxyGurE4fSMXGl2XMlskEAAIPDmsbeolIUbtdirZhU-qWAQADAgADcwADOwQ",
+          "file_unique_id": "AQADDw5rG3qJSFF4",
+          "file_size": 1067,
+          "width": 56,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILGmopk1gcxyGurE4fSMXGl2XMlskEAAIPDmsbeolIUbtdirZhU-qWAQADAgADbQADOwQ",
+          "file_unique_id": "AQADDw5rG3qJSFFy",
+          "file_size": 12918,
+          "width": 200,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILGmopk1gcxyGurE4fSMXGl2XMlskEAAIPDmsbeolIUbtdirZhU-qWAQADAgADeAADOwQ",
+          "file_unique_id": "AQADDw5rG3qJSFF9",
+          "file_size": 56462,
+          "width": 501,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILGmopk1gcxyGurE4fSMXGl2XMlskEAAIPDmsbeolIUbtdirZhU-qWAQADAgADeQADOwQ",
+          "file_unique_id": "AQADDw5rG3qJSFF-",
+          "file_size": 90384,
+          "width": 802,
+          "height": 1280
+        }
+      ],
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
