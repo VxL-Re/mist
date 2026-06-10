@@ -37930,6 +37930,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2828,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781098037,
+      "text": "ری اکشن بزنین انرژی بگیریم پخت پز کنیم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 51,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 51,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 51,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
