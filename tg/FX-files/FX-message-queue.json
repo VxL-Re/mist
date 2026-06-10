@@ -763,6 +763,85 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2846,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781111718,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILHmopm6bBj_qixh3fSM4zDYrLDiC4AAJzDWsbG0zxUPy35AbSWvoEAQADAgADcwADOwQ",
+          "file_unique_id": "AQADcw1rGxtM8VB4",
+          "file_size": 1386,
+          "width": 90,
+          "height": 76
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILHmopm6bBj_qixh3fSM4zDYrLDiC4AAJzDWsbG0zxUPy35AbSWvoEAQADAgADbQADOwQ",
+          "file_unique_id": "AQADcw1rGxtM8VBy",
+          "file_size": 16922,
+          "width": 320,
+          "height": 271
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILHmopm6bBj_qixh3fSM4zDYrLDiC4AAJzDWsbG0zxUPy35AbSWvoEAQADAgADeQADOwQ",
+          "file_unique_id": "AQADcw1rGxtM8VB-",
+          "file_size": 57697,
+          "width": 832,
+          "height": 705
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILHmopm6bBj_qixh3fSM4zDYrLDiC4AAJzDWsbG0zxUPy35AbSWvoEAQADAgADeAADOwQ",
+          "file_unique_id": "AQADcw1rGxtM8VB9",
+          "file_size": 62074,
+          "width": 800,
+          "height": 678
+        }
+      ],
+      "caption": "🚨 در خطر اجرای حکم اعدام —#فرشاد_محمودیان\n\n فرشاد محمودیان بوکسور مدال‌آور ایرانی در جریان انقلاب ملی ایران بازداشت شده و با خطر جدی صدور حکم اعدام روبه‌روست سرپرست خانواده است و خواهرش به ام‌اس مبتلاست پیش از اعتراضات موضع‌گیری کرده و در تجمعات حاضر بوده و مدتی مخفی شده اما نهایتاً با شناسایی توسط مخبر بازداشت شد. اکنون برای اجرای حکم اعدام به زندان شهر کرد منتقل شده صدایش باشیم و نگذاریم در سکوت آسیبی به او برسد.\n\n این یک نمونه کامنت برای حمایت از فرشاد محمودیان است؛ می‌توانید آن را ویرایش کرده، عکس او را اضافه کنید و منتشر کنید\n\n » کامنت انگلیسی برای فرشاد محمودیان «\n\n@SedayeAzadi1401\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 27,
+          "length": 15,
+          "type": "hashtag"
+        },
+        {
+          "offset": 539,
+          "length": 38,
+          "type": "text_link",
+          "url": "https://x.com/intent/tweet?in_reply_to=2019336320946954700&text=%F0%9F%92%AC%20Comment%20for%3A%20%23FarshadMahmoudi%20Iranian%20boxer%2C%20arrested%20during%20Iran%20National%20Uprising%2C%20arrested%20on%208%20Jan%202026%20%28approx.%29%20via%20identification%20by%20informer%2C%20held%20in%20Shahr-e%20Kord%20prison%2C%20facing%20serious%20risk%20of%20death%20sentence.%20Family%20worried.%20%40amnesty%20%40hrw%20%40UNHumanRights%20%40UNICEF%20%23FreeIranPoliticalPrisoners%20%23StopExecutionsInIran"
+        },
+        {
+          "offset": 579,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 608,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 608,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 608,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
