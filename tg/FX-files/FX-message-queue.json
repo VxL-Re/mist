@@ -37231,6 +37231,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2815,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781073376,
+      "text": "🔰Remini🔰\n\n🔎 GooglePlayLink\n\n💡3.7 | #AI\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک پرو فعال شده👑✓ \n◈حذف تبلیغات برنامه✓\n◈فایل های اضافه حذف شده✓\n◈بهینه سازی برنامه✓\n\n✪ معماری: arm64-v8\n\nتوضیحات درباره برنامه:\nعکس های هوش مصنوعی ایجاد کنید، کیفیت عکس های تار، قدیمی یا آسیب دیده را بهبود بخشید و بازیابی کنید.\n\nتصاویر قدیمی، پیکسلی، تار یا آسیب دیده خود را تنها با یک ضربه به عکس هایی با کیفیت بالا تبدیل کنید!\n\nبا تقویت‌کننده عکس قدرتمند Remini، عکس‌های هوش مصنوعی شگفت‌انگیز و حرفه‌ای از خودتان ایجاد کنید.\n\nRemini از پیشرفته‌ترین هوش مصنوعی برای رفع محو کردن، بازیابی و بهبود هر تصویری که می‌خواهید استفاده می‌کند. خاطرات قدیمی خود را بردارید و با کیفیت HD خیره کننده و شفاف به آنها جان تازه ای بدهید.\n\nاکنون بیش از 100 میلیون عکس احیا شده است. ویرایشگر عکس Remini یکی از محبوب ترین و محبوب ترین برنامه های تقویت کننده در جهان است. عکس‌های خانوادگی قدیمی‌تان را اسکن کنید، آن‌ها را احیا کنید و با هم خاطره‌سازی کنید!\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 15,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international"
+        },
+        {
+          "offset": 39,
+          "length": 3,
+          "type": "hashtag"
+        },
+        {
+          "offset": 197,
+          "length": 710,
+          "type": "blockquote"
+        },
+        {
+          "offset": 996,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://uploadb.com/u69ui2ds7ame/Remini_3.7_Mod"
+        },
+        {
+          "offset": 1025,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 1044,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 1061,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 1084,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1084,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1084,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "http://Play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international"
+      }
     }
   ]
 }
