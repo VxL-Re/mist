@@ -121,6 +121,77 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2832,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781106978,
+      "text": "🍷لینک تمام ساب های موجود برای دسترسی رایگان به اینترنت آزاد:\n\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt\n\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt\n\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt\n\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt\n\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt\n\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt\n\nhttps://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/FRAGMENT\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 63,
+          "length": 121,
+          "type": "url"
+        },
+        {
+          "offset": 186,
+          "length": 123,
+          "type": "url"
+        },
+        {
+          "offset": 311,
+          "length": 107,
+          "type": "url"
+        },
+        {
+          "offset": 420,
+          "length": 106,
+          "type": "url"
+        },
+        {
+          "offset": 528,
+          "length": 100,
+          "type": "url"
+        },
+        {
+          "offset": 630,
+          "length": 101,
+          "type": "url"
+        },
+        {
+          "offset": 733,
+          "length": 80,
+          "type": "url"
+        },
+        {
+          "offset": 826,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 826,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 826,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
