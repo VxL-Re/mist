@@ -366,6 +366,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2837,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781107938,
+      "poll": {
+        "id": "5859552731504575665",
+        "question": "وضعیت نت همراه اول چطوره الان\nبرا من کلا قطع شد",
+        "options": [
+          {
+            "persistent_id": "0",
+            "text": "خرابه",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "1",
+            "text": "خوبه",
+            "voter_count": 0
+          }
+        ],
+        "total_voter_count": 0,
+        "is_closed": false,
+        "is_anonymous": true,
+        "allows_multiple_answers": false,
+        "allows_revoting": true,
+        "members_only": false,
+        "type": "regular",
+        "description": "• Sent via TeleFeed",
+        "description_entities": [
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "text_link",
+            "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "bold"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "underline"
+          }
+        ]
+      }
     }
   ]
 }
