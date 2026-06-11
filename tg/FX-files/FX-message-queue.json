@@ -6602,6 +6602,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2971,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781208145,
+      "text": "🔴 ترامپ :\n\n ما به توافقی رسیده‌ایم که بر اساس آن ایران هرگز به سلاح هسته‌ای دست پیدا نخواهد کرد؛ این تمام هدفی بود که برای دستیابی به آن تلاش می‌کردیم و مسیر سختی را پشت سر گذاشتیم.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 195,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 195,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 195,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
