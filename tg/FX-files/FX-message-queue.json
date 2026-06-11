@@ -5053,6 +5053,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2938,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781183840,
+      "text": "https://t.me/PingSnapBot?start=686628907\nاینم یکی دیه اینم ۱۰۰میده😁\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 40,
+          "type": "url"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/PingSnapBot?start=686628907"
+      }
     }
   ]
 }
