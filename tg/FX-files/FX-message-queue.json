@@ -6510,6 +6510,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2969,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781207905,
+      "text": "ترامپ: \nتنگه بلافاصله پس از امضای توافق باز می شود.\nما به توافقی دست یافتیم که ایران را از داشتن سلاح هسته ای باز می دارد.\nمن همین الان با نتانیاهو صحبت کردم.\nاسناد ایران تقریباً در مرحله نهایی است.\n من فقط با رهبران قطر، امارات و عربستان سعودی صحبت کردم.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 256,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 269,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
