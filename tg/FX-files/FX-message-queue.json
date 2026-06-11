@@ -3778,6 +3778,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2913,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781150359,
+      "text": "از مود کن هم شانس نیاوردیم اون نیما یه اکانت دادیم یه ماه یه ملت منتظر بهارات مووی اند اینم از مهدی مرد مؤمن این ساعت ما خوابیم یعنی به هیچ جا مون نیست با ماهکس برات شیره بفرستم همراه با چای حل کنی هر شب 1 گرم بخوری راحت بخوابی بد خواب نشی 🤣\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 243,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
