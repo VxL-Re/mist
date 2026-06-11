@@ -5411,6 +5411,87 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2946,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781198905,
+      "text": "سایت های پخش جام جهانی\n\nhttps://roxiestreams.su/soccer\n\nhttps://streamcorner.fyi/fifa-world-cup\n\nhttps://totalsportek.tips/football\n\nhttps://www.bintv.net\n\nhttps://soccerstreams.sbs\n\nhttps://strumyk.net\n\nhttps://xyzstreams.shop\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 24,
+          "length": 30,
+          "type": "url"
+        },
+        {
+          "offset": 56,
+          "length": 39,
+          "type": "url"
+        },
+        {
+          "offset": 97,
+          "length": 34,
+          "type": "url"
+        },
+        {
+          "offset": 133,
+          "length": 21,
+          "type": "url"
+        },
+        {
+          "offset": 156,
+          "length": 25,
+          "type": "url"
+        },
+        {
+          "offset": 183,
+          "length": 19,
+          "type": "url"
+        },
+        {
+          "offset": 204,
+          "length": 23,
+          "type": "url"
+        },
+        {
+          "offset": 229,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 240,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://roxiestreams.su/soccer"
+      }
     }
   ]
 }
