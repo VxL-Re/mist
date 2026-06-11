@@ -5270,6 +5270,48 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2943,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781195485,
+      "text": "اینم یه ربات روسی دیه😁\n✔️ کانفیگ‌های اختصاصی V2Ray & Xray\n✔️ سازگار با اپ‌های V2RayNG، Hiddify و Happ\n✔️ سرعت بالا با سرورهای اروپا، آمریکا و آسیا\n✔️ قابلیت رفرال – با دعوت دوستان اعتبار بگیرید\nآموزش کامنت اول همین پست\n\nآیدی ربات\nVPNSOKOLBOT\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 231,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://t.me/VPNSOKOLBOT?start=331496905"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/VPNSOKOLBOT?start=331496905"
+      }
     }
   ]
 }
