@@ -4972,6 +4972,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2936,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781182940,
+      "text": "دوستانی که استفاده نکردن هنو این ربات هنو فعاله \nهدیه هر دعوت ۱۰۰تومان \nهدیه اولین ورود ۲۵هزارتومان میده\nخیلی خوبه میتونی وایرگارد بگیری ازش\nhttps://t.me/PingChiBot?start=686628907\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 141,
+          "length": 39,
+          "type": "url"
+        },
+        {
+          "offset": 193,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 193,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 193,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
