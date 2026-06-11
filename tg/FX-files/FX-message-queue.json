@@ -4229,6 +4229,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2922,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781167220,
+      "poll": {
+        "id": "5861804531318260724",
+        "question": "سورفشارک لوگین با کد موجود کنیم 3 ماهه 1 تون(280هزاره) بدین؟",
+        "options": [
+          {
+            "persistent_id": "0",
+            "text": "اره",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "1",
+            "text": "نه",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "2",
+            "text": "تون ندارم ریالی باشه (عرفان اینجا بدرد بخور میشه واقعا)",
+            "voter_count": 0
+          }
+        ],
+        "total_voter_count": 0,
+        "is_closed": false,
+        "is_anonymous": true,
+        "allows_multiple_answers": true,
+        "allows_revoting": true,
+        "members_only": false,
+        "type": "regular",
+        "description": "یه اکانت قانونی الچاپو (یاسین داشت) میگم اد تون کنه تا روز اخرش استفاده کنید\n\n• Sent via TeleFeed",
+        "description_entities": [
+          {
+            "offset": 89,
+            "length": 8,
+            "type": "text_link",
+            "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+          },
+          {
+            "offset": 89,
+            "length": 8,
+            "type": "bold"
+          },
+          {
+            "offset": 89,
+            "length": 8,
+            "type": "underline"
+          }
+        ]
+      }
     }
   ]
 }
