@@ -8640,6 +8640,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3016,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781264608,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILyGor8ODFtDRRuwPHXjRtzDRFI77NAAI4DmsbwQxgUUi5sgKg1Zz3AQADAgADcwADPAQ",
+          "file_unique_id": "AQADOA5rG8EMYFF4",
+          "file_size": 1317,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILyGor8ODFtDRRuwPHXjRtzDRFI77NAAI4DmsbwQxgUUi5sgKg1Zz3AQADAgADbQADPAQ",
+          "file_unique_id": "AQADOA5rG8EMYFFy",
+          "file_size": 21071,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILyGor8ODFtDRRuwPHXjRtzDRFI77NAAI4DmsbwQxgUUi5sgKg1Zz3AQADAgADeAADPAQ",
+          "file_unique_id": "AQADOA5rG8EMYFF9",
+          "file_size": 93954,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILyGor8ODFtDRRuwPHXjRtzDRFI77NAAI4DmsbwQxgUUi5sgKg1Zz3AQADAgADeQADPAQ",
+          "file_unique_id": "AQADOA5rG8EMYFF-",
+          "file_size": 174885,
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "caption": "خب چالش داریم\n\nچالش سرور ویتوری نامحدود\n\nبین اعداد 1 تا عدد 85 فقط یک عدد بذارید رندوم به یک نفر اکانت تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 166,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 179,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
