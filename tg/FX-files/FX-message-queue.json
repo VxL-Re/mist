@@ -8225,6 +8225,48 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3007,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781259147,
+      "text": "🔥 رایگان و بدون فیلتر! ربات ۵ گیگابایت سرور ترکیه با ۳ رفرال ساده\n\n\n\n✅ با ثبت‌نام در ربات زیر، فقط کافیه ۳ تا دوست رو دعوت کنی تا فعال بشه.\n✅ سرور  ترکیه با ۵ گیگابایت حجم ماهانه رایگان.\n\n\n🚀 لینک ربات: [configmellirobot]\n\n🔁 چطور فعال کنم؟ ربات رو باز کن -> استارت\n..بعد روی 👥 زیر مجموعه گیری. بزن ..دریافت هدیه عضوت   -> لینک دعوتت رو برای ۳ نفر بفرست -> خودکار فعال میشه!\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 205,
+          "length": 16,
+          "type": "text_link",
+          "url": "https://t.me/configmellirobot?start=8376197509"
+        },
+        {
+          "offset": 389,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 389,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 389,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
