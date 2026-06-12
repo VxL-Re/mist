@@ -9349,6 +9349,77 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3030,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781279007,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL1mosKR_HN-e6ERPZrj0WjGNZs0iBAAKIDmsbj9ZhUeq5oMLDNq51AQADAgADcwADPAQ",
+          "file_unique_id": "AQADiA5rG4_WYVF4",
+          "file_size": 1497,
+          "width": 79,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL1mosKR_HN-e6ERPZrj0WjGNZs0iBAAKIDmsbj9ZhUeq5oMLDNq51AQADAgADbQADPAQ",
+          "file_unique_id": "AQADiA5rG4_WYVFy",
+          "file_size": 23773,
+          "width": 282,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL1mosKR_HN-e6ERPZrj0WjGNZs0iBAAKIDmsbj9ZhUeq5oMLDNq51AQADAgADeAADPAQ",
+          "file_unique_id": "AQADiA5rG4_WYVF9",
+          "file_size": 62042,
+          "width": 649,
+          "height": 737
+        }
+      ],
+      "caption": "‼️ترامپ پست عباسو گذاشت تو صفحش\n\n\nعراقچی: تفاهم‌ نامه اسلام‌ آباد هیچگاه تا این حد به نهایی شدن نزدیک نبوده، بهتره رسانه ها فعلا نظر ندن \n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 138,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 149,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
