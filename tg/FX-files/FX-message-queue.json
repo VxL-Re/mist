@@ -7956,6 +7956,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3002,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781254527,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILumoryX-FZsHmK00T7tSDPKYvQm6xAAKIDWsbj9ZhUdTJGh7KJsv8AQADAgADcwADPAQ",
+          "file_unique_id": "AQADiA1rG4_WYVF4",
+          "file_size": 1857,
+          "width": 70,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILumoryX-FZsHmK00T7tSDPKYvQm6xAAKIDWsbj9ZhUdTJGh7KJsv8AQADAgADbQADPAQ",
+          "file_unique_id": "AQADiA1rG4_WYVFy",
+          "file_size": 28419,
+          "width": 250,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILumoryX-FZsHmK00T7tSDPKYvQm6xAAKIDWsbj9ZhUdTJGh7KJsv8AQADAgADeQADPAQ",
+          "file_unique_id": "AQADiA1rG4_WYVF-",
+          "file_size": 97631,
+          "width": 640,
+          "height": 820
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILumoryX-FZsHmK00T7tSDPKYvQm6xAAKIDWsbj9ZhUdTJGh7KJsv8AQADAgADeAADPAQ",
+          "file_unique_id": "AQADiA1rG4_WYVF9",
+          "file_size": 116095,
+          "width": 624,
+          "height": 800
+        }
+      ],
+      "caption": "نو کپشن\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 8,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 21,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
