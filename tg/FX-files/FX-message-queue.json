@@ -9606,6 +9606,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3035,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781281347,
+      "text": "چالش جایزه وایرگارد مخصوص گیم از بات\n36 گیگ حجم مخصوص نت ملی \nاز بین 88 تا 188 یک عدد به صورت رندوم بزنین عدد هر کی تو قرعه کشی دراومد برنده میشه\nتا صبح شنبه ساعت 8 وقت دارین که عدد خودتون رو بزارید\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 199,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 222,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 222,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 222,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
