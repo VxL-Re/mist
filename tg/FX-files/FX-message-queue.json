@@ -10143,6 +10143,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3046,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781287828,
+      "text": "vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#asali\n\nمتصل تست شده\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 121,
+          "type": "code"
+        },
+        {
+          "offset": 136,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 149,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
