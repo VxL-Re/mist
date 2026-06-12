@@ -7602,6 +7602,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2994,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781247146,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILsmorrKoU3GCJhGj6jT1vuoRYUfA7AAJuGWsbjvRYURQ4pnMHP5nTAQADAgADcwADPAQ",
+          "file_unique_id": "AQADbhlrG470WFF4",
+          "file_size": 608,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILsmorrKoU3GCJhGj6jT1vuoRYUfA7AAJuGWsbjvRYURQ4pnMHP5nTAQADAgADbQADPAQ",
+          "file_unique_id": "AQADbhlrG470WFFy",
+          "file_size": 6575,
+          "width": 144,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILsmorrKoU3GCJhGj6jT1vuoRYUfA7AAJuGWsbjvRYURQ4pnMHP5nTAQADAgADeAADPAQ",
+          "file_unique_id": "AQADbhlrG470WFF9",
+          "file_size": 21436,
+          "width": 360,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILsmorrKoU3GCJhGj6jT1vuoRYUfA7AAJuGWsbjvRYURQ4pnMHP5nTAQADAgADeQADPAQ",
+          "file_unique_id": "AQADbhlrG470WFF-",
+          "file_size": 35386,
+          "width": 576,
+          "height": 1280
+        }
+      ],
+      "caption": "RYN vpn premium 1 month \n\n\nفعالسازی با ایمیل شخصی شما / کمتر از ۲ دقیقه \n\nتک کاربر برای استفاده شخصی و روزمره شما \n\nسرعت عالی و‌پایدار / تست شده با همراه اول ایرانسل رایتل وایفای \nدارای سرورهای گیمینگ \n\nتعداد محدود\n قیمت : 155 T\n@y6siin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 229,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
