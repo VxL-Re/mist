@@ -9565,6 +9565,47 @@
       "link_preview_options": {
         "url": "https://t.me/ROVPNBOT?start=7106584375"
       }
+    },
+    {
+      "message_id": 3034,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781281047,
+      "text": "4 نفر زدن لینک رو 2 سرویس 36 گیگ گرفتم تا الان \n\nاز 8 تا 88 عدد بزارین عدد 2 نفر که در اومد  برنده جایزه خواهند بود\nتا ساعت 7 صبح فردا وقت دارین که عدد بزارین\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 159,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
