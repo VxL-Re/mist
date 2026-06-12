@@ -9512,6 +9512,59 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3033,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781280507,
+      "text": "اين ربات رو کامران فرستاده\nهر دعوت 100 هزار تومان اعتبار میده باهاش سرور نت ملی رایگان بگیرین برای روز مبادا وایرگارد مخصوص گیم هم داره\nربات استارت کنید یه عدد میده بنویسید بفرستید برا بات و عضو کانال شون شید لینک دعوت بگیرید بدین دو نفر بزنن تمومه(نیاز به خرید پولی نی) \n\nلینک خودم هر چی زدین سرور میخرم چالش میکنم چون نیازی ندارم\n\nلینک کامی جون احتیاج داره بره اون سایت خوبا چند نفری بزنید\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 273,
+          "length": 58,
+          "type": "text_link",
+          "url": "https://t.me/ROVPNBOT?start=7106584375"
+        },
+        {
+          "offset": 333,
+          "length": 58,
+          "type": "text_link",
+          "url": "https://t.me/ROVPNBOT?start=7711296305"
+        },
+        {
+          "offset": 393,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 416,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 416,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 416,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/ROVPNBOT?start=7106584375"
+      }
     }
   ]
 }
