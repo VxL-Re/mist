@@ -9790,6 +9790,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3039,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781282067,
+      "text": "10 نفر زدن ربات رو تا الان دونه دونه چالش نمیزنم دیگه\nعدد بزارین از بین 188 تا 288\n\nتعداد برنده ها به تعداد مشارکت بستگی داره فردا صبح میگیرم مثلا ممکنه 5  برنده 8 یا 12 یا بیشتر برنده داشته باشیم پس شانس برد کاربرا بالاتر میره اینطوری\nتا فردا صبح ساعت 8 صبح وقت دارین عدد بزارین\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 54,
+          "length": 28,
+          "type": "blockquote"
+        },
+        {
+          "offset": 84,
+          "length": 151,
+          "type": "bold"
+        },
+        {
+          "offset": 280,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
