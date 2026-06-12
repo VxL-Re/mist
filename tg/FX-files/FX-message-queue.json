@@ -9923,6 +9923,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3042,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781286208,
+      "media_group_id": "14250289668741300",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL4mosRUATPNFOoIxEm5hTHUdSnTtmAALODmsbj9ZhUdGGhBC67IstAQADAgADcwADPAQ",
+          "file_unique_id": "AQADzg5rG4_WYVF4",
+          "file_size": 1441,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL4mosRUATPNFOoIxEm5hTHUdSnTtmAALODmsbj9ZhUdGGhBC67IstAQADAgADbQADPAQ",
+          "file_unique_id": "AQADzg5rG4_WYVFy",
+          "file_size": 17274,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL4mosRUATPNFOoIxEm5hTHUdSnTtmAALODmsbj9ZhUdGGhBC67IstAQADAgADeAADPAQ",
+          "file_unique_id": "AQADzg5rG4_WYVF9",
+          "file_size": 62885,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL4mosRUATPNFOoIxEm5hTHUdSnTtmAALODmsbj9ZhUdGGhBC67IstAQADAgADeQADPAQ",
+          "file_unique_id": "AQADzg5rG4_WYVF-",
+          "file_size": 101811,
+          "width": 1220,
+          "height": 1220
+        }
+      ],
+      "caption": "🇨🇦🇧🇦 | ترکیب کانادا و بوسنی برای سومین بازی جام جهانی؛ ساعت 22:30\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 70,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 83,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
