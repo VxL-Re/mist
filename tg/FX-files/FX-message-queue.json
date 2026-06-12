@@ -10359,6 +10359,70 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3050,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781306609,
+      "media_group_id": "14250452878159468",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL6moslPHFPLHnN6CIFipICVwDIUpeAALADWsbj9ZpUWFVlyWCXXSvAQADAgADcwADPAQ",
+          "file_unique_id": "AQADwA1rG4_WaVF4",
+          "file_size": 2247,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL6moslPHFPLHnN6CIFipICVwDIUpeAALADWsbj9ZpUWFVlyWCXXSvAQADAgADbQADPAQ",
+          "file_unique_id": "AQADwA1rG4_WaVFy",
+          "file_size": 35495,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL6moslPHFPLHnN6CIFipICVwDIUpeAALADWsbj9ZpUWFVlyWCXXSvAQADAgADeAADPAQ",
+          "file_unique_id": "AQADwA1rG4_WaVF9",
+          "file_size": 146834,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL6moslPHFPLHnN6CIFipICVwDIUpeAALADWsbj9ZpUWFVlyWCXXSvAQADAgADeQADPAQ",
+          "file_unique_id": "AQADwA1rG4_WaVF-",
+          "file_size": 273779,
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "caption": "رو به روی محل کمپ تمرینی تیم ملی ج.ا یه جسد توی صندوق عقب یه ماشین پیدا شده که در حال تجزیه بوده. این ماشین توی پارکینگ محل اقامت تیم ملی جمهوری اسلامی بوده که دقیقا رو به روی کمپ تیمه🤣🤣\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
