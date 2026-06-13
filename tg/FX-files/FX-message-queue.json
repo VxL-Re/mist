@@ -11285,6 +11285,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3069,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781344110,
+      "text": "بسیاری از بانک ها به دلیل حملات سایبری به زیرساخت کشور از دسترس خارج شدند\n\nاختلال گسترده در بانک‌های ملی، تجارت و صادرات و چند تا دیگه تا الان تأیید شده\n\n\nاین  خبر یعنی یه جنگ بدتر از قبل تو راهه :): مواظب خودتون باشین\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 231,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 231,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 231,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
