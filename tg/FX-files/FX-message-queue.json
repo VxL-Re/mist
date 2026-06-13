@@ -12380,6 +12380,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3088,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781363550,
+      "text": "[METHOD] MY.ID + BIZ.ID DOMAINS — FOR 12 MONTHS FOR FREE \n\n\"Your whole internet future starts here.\"\n\n🥹 STEPS:\n😅 The offer is available only during this timeline: June 12–14, 2026.\n😅 Click on this link: idwebhost.com/domain\n⚜️ Log in or create a new account.\n🌟 Pick your desired domain.\n🌟 Enter the promo code: mAts2Mey\n🙏 Complete the payment to get your subscription (you can use your main card or a virtual card to complete the transaction).\n🌟 You just got a year premium domain for free.\n✅\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 9,
+          "length": 5,
+          "type": "url"
+        },
+        {
+          "offset": 17,
+          "length": 6,
+          "type": "url"
+        },
+        {
+          "offset": 206,
+          "length": 20,
+          "type": "url"
+        },
+        {
+          "offset": 512,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 512,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 512,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "http://idwebhost.com/domain"
+      }
     }
   ]
 }
