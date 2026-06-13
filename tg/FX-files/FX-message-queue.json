@@ -10757,6 +10757,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3057,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781334869,
+      "text": "این رباته هنو متصله هااا سروراش اپدیتش رو داده وصله بزنید بگیرید\n\nhttps://t.me/ROVPNBOT?start=8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 66,
+          "length": 38,
+          "type": "url"
+        },
+        {
+          "offset": 117,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 117,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 117,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/ROVPNBOT?start=8376197509"
+      }
     }
   ]
 }
